@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="fixture" xmlns="http://www.topografix.com/GPX/1/1">
+  <trk><name>Fixture Loop Route</name><trkseg>
+    <trkpt lat="0.0000" lon="0.0000"><ele>10</ele></trkpt>
+    <trkpt lat="0.0000" lon="0.0020"><ele>35</ele></trkpt>
+    <trkpt lat="0.0020" lon="0.0020"><ele>55</ele></trkpt>
+    <trkpt lat="0.0020" lon="0.0000"><ele>30</ele></trkpt>
+    <trkpt lat="0.0000" lon="0.0000"><ele>10</ele></trkpt>
+  </trkseg></trk>
+</gpx>

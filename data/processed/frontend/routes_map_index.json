@@ -1,0 +1,200 @@
+[
+  {
+    "bbox": [
+      -16.79924,
+      28.126120000000004,
+      -16.62228,
+      28.284740000000003
+    ],
+    "centroid": {
+      "lat": 28.215306,
+      "lon": -16.746086
+    },
+    "is_primary_variant": true,
+    "name": "TRF_10_Callao Salvaje - Telesferico",
+    "preview_geometry_file": "routes_preview/trf_10_callao_salvaje_telesferico.geojson",
+    "route_group_id": "trf_10_callao_salvaje_telesferico",
+    "route_id": "trf_10_callao_salvaje_telesferico",
+    "validation_status": "ok"
+  },
+  {
+    "bbox": [
+      -16.781740000000003,
+      28.007230000000003,
+      -16.54175,
+      28.134940000000004
+    ],
+    "centroid": {
+      "lat": 28.080765,
+      "lon": -16.670783
+    },
+    "is_primary_variant": true,
+    "name": "TRF_11_Adeje through Las Galletas, El Médano, San Isidro, Granadilla de Abona and Los Cristianos",
+    "preview_geometry_file": "routes_preview/trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos.geojson",
+    "route_group_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos",
+    "route_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos",
+    "validation_status": "ok"
+  },
+  {
+    "bbox": [
+      -16.85732,
+      28.130010000000002,
+      -16.77229,
+      28.369930000000004
+    ],
+    "centroid": {
+      "lat": 28.271553,
+      "lon": -16.810534
+    },
+    "is_primary_variant": true,
+    "name": "TRF_1_Adeje_West_Coast_and_Masca_Valley",
+    "preview_geometry_file": "routes_preview/trf_1_adeje_west_coast_and_masca_valley.geojson",
+    "route_group_id": "trf_1_adeje_west_coast_and_masca_valley",
+    "route_id": "trf_1_adeje_west_coast_and_masca_valley",
+    "validation_status": "ok"
+  },
+  {
+    "bbox": [
+      -16.78125,
+      28.042030000000004,
+      -16.536900000000003,
+      28.134940000000004
+    ],
+    "centroid": {
+      "lat": 28.092834,
+      "lon": -16.656909
+    },
+    "is_primary_variant": true,
+    "name": "TRF_2_Adeje_Best_of_The_South_Ride",
+    "preview_geometry_file": "routes_preview/trf_2_adeje_best_of_the_south_ride.geojson",
+    "route_group_id": "trf_2_adeje_best_of_the_south_ride",
+    "route_id": "trf_2_adeje_best_of_the_south_ride",
+    "validation_status": "ok"
+  },
+  {
+    "bbox": [
+      -16.79909,
+      28.064850000000003,
+      -16.62508,
+      28.284740000000003
+    ],
+    "centroid": {
+      "lat": 28.171653,
+      "lon": -16.708392
+    },
+    "is_primary_variant": false,
+    "name": "TRF_3_Adeje_to_Teide_from_East_Side",
+    "preview_geometry_file": "routes_preview/trf_3_adeje_to_teide_from_east_side.geojson",
+    "route_group_id": "trf_10_callao_salvaje_telesferico",
+    "route_id": "trf_3_adeje_to_teide_from_east_side",
+    "validation_status": "ok"
+  },
+  {
+    "bbox": [
+      -16.79909,
+      28.06274,
+      -16.624930000000003,
+      28.284740000000003
+    ],
+    "centroid": {
+      "lat": 28.169634,
+      "lon": -16.70769
+    },
+    "is_primary_variant": false,
+    "name": "TRF_4_Adeje_to_Teide_from_South_Side",
+    "preview_geometry_file": "routes_preview/trf_4_adeje_to_teide_from_south_side.geojson",
+    "route_group_id": "trf_10_callao_salvaje_telesferico",
+    "route_id": "trf_4_adeje_to_teide_from_south_side",
+    "validation_status": "ok"
+  },
+  {
+    "bbox": [
+      -16.78125,
+      28.06274,
+      -16.57766,
+      28.153350000000003
+    ],
+    "centroid": {
+      "lat": 28.108236,
+      "lon": -16.677248
+    },
+    "is_primary_variant": true,
+    "name": "TRF_5_Adeje_to_Vilaflor_loop",
+    "preview_geometry_file": "routes_preview/trf_5_adeje_to_vilaflor_loop.geojson",
+    "route_group_id": "trf_5_adeje_to_vilaflor_loop",
+    "route_id": "trf_5_adeje_to_vilaflor_loop",
+    "validation_status": "ok"
+  },
+  {
+    "bbox": [
+      -16.8425,
+      28.126120000000004,
+      -16.7449,
+      28.267830000000004
+    ],
+    "centroid": {
+      "lat": 28.201099,
+      "lon": -16.800357
+    },
+    "is_primary_variant": true,
+    "name": "TRF_6_Bike Point Mynd Adeje Los Gigantes Route",
+    "preview_geometry_file": "routes_preview/trf_6_bike_point_mynd_adeje_los_gigantes_route.geojson",
+    "route_group_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route",
+    "route_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route",
+    "validation_status": "ok"
+  },
+  {
+    "bbox": [
+      -16.836100000000002,
+      28.129050000000003,
+      -16.76535,
+      28.297310000000003
+    ],
+    "centroid": {
+      "lat": 28.218023,
+      "lon": -16.801123
+    },
+    "is_primary_variant": true,
+    "name": "TRF_7_Bike Point Mynd Adeje Santiago Route",
+    "preview_geometry_file": "routes_preview/trf_7_bike_point_mynd_adeje_santiago_route.geojson",
+    "route_group_id": "trf_7_bike_point_mynd_adeje_santiago_route",
+    "route_id": "trf_7_bike_point_mynd_adeje_santiago_route",
+    "validation_status": "ok"
+  },
+  {
+    "bbox": [
+      -16.79909,
+      28.06274,
+      -16.634400000000003,
+      28.284740000000003
+    ],
+    "centroid": {
+      "lat": 28.164038,
+      "lon": -16.717125
+    },
+    "is_primary_variant": true,
+    "name": "TRF_8_Bike Point Mynd Adeje Teide Round Route",
+    "preview_geometry_file": "routes_preview/trf_8_bike_point_mynd_adeje_teide_round_route.geojson",
+    "route_group_id": "trf_8_bike_point_mynd_adeje_teide_round_route",
+    "route_id": "trf_8_bike_point_mynd_adeje_teide_round_route",
+    "validation_status": "ok"
+  },
+  {
+    "bbox": [
+      -16.81314,
+      28.126120000000004,
+      -16.744570000000003,
+      28.21984
+    ],
+    "centroid": {
+      "lat": 28.173221,
+      "lon": -16.784119
+    },
+    "is_primary_variant": true,
+    "name": "TRF_9_Bike Point Mynd Adeje Banana Climb Route",
+    "preview_geometry_file": "routes_preview/trf_9_bike_point_mynd_adeje_banana_climb_route.geojson",
+    "route_group_id": "trf_9_bike_point_mynd_adeje_banana_climb_route",
+    "route_id": "trf_9_bike_point_mynd_adeje_banana_climb_route",
+    "validation_status": "ok"
+  }
+]

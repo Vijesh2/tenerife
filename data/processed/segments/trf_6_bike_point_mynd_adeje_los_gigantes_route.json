@@ -1,0 +1,671 @@
+{
+  "route_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route",
+  "segments": [
+    {
+      "avg_gradient_pct": -1.2,
+      "elevation_delta_m": -4,
+      "end_km": 0.304,
+      "length_km": 0.304,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_001",
+      "start_km": 0.0,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 5.9,
+      "elevation_delta_m": 48,
+      "end_km": 1.113,
+      "length_km": 0.809,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_002",
+      "start_km": 0.304,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 5.5,
+      "elevation_delta_m": 26,
+      "end_km": 1.591,
+      "length_km": 0.477,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_003",
+      "start_km": 1.113,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": -8.3,
+      "elevation_delta_m": -26,
+      "end_km": 1.904,
+      "length_km": 0.313,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_004",
+      "start_km": 1.591,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -0.3,
+      "elevation_delta_m": -2,
+      "end_km": 2.55,
+      "length_km": 0.647,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_005",
+      "start_km": 1.904,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -7.3,
+      "elevation_delta_m": -17,
+      "end_km": 2.786,
+      "length_km": 0.236,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_006",
+      "start_km": 2.55,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -1.8,
+      "elevation_delta_m": -4,
+      "end_km": 3.02,
+      "length_km": 0.234,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_007",
+      "start_km": 2.786,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 1.5,
+      "elevation_delta_m": 25,
+      "end_km": 4.684,
+      "length_km": 1.664,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_008",
+      "start_km": 3.02,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -1.8,
+      "elevation_delta_m": -5,
+      "end_km": 4.975,
+      "length_km": 0.291,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_009",
+      "start_km": 4.684,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -0.1,
+      "elevation_delta_m": 0,
+      "end_km": 5.508,
+      "length_km": 0.533,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_010",
+      "start_km": 4.975,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 1.4,
+      "elevation_delta_m": 19,
+      "end_km": 6.92,
+      "length_km": 1.412,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_011",
+      "start_km": 5.508,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -2.3,
+      "elevation_delta_m": -24,
+      "end_km": 7.973,
+      "length_km": 1.053,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_012",
+      "start_km": 6.92,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 0.6,
+      "elevation_delta_m": 3,
+      "end_km": 8.509,
+      "length_km": 0.536,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_013",
+      "start_km": 7.973,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -3.3,
+      "elevation_delta_m": -17,
+      "end_km": 9.025,
+      "length_km": 0.516,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_014",
+      "start_km": 8.509,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -9.9,
+      "elevation_delta_m": -37,
+      "end_km": 9.396,
+      "length_km": 0.372,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_015",
+      "start_km": 9.025,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -0.2,
+      "elevation_delta_m": -1,
+      "end_km": 9.935,
+      "length_km": 0.539,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_016",
+      "start_km": 9.396,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -0.1,
+      "elevation_delta_m": 0,
+      "end_km": 10.233,
+      "length_km": 0.298,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_017",
+      "start_km": 9.935,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 0.6,
+      "elevation_delta_m": 8,
+      "end_km": 11.616,
+      "length_km": 1.384,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_018",
+      "start_km": 10.233,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -2.1,
+      "elevation_delta_m": -15,
+      "end_km": 12.33,
+      "length_km": 0.714,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_019",
+      "start_km": 11.616,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 1.8,
+      "elevation_delta_m": 7,
+      "end_km": 12.699,
+      "length_km": 0.369,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_020",
+      "start_km": 12.33,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -0.3,
+      "elevation_delta_m": -7,
+      "end_km": 14.771,
+      "length_km": 2.072,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_021",
+      "start_km": 12.699,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 4.0,
+      "elevation_delta_m": 24,
+      "end_km": 15.362,
+      "length_km": 0.592,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_022",
+      "start_km": 14.771,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": -4.6,
+      "elevation_delta_m": -23,
+      "end_km": 15.853,
+      "length_km": 0.491,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_023",
+      "start_km": 15.362,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -0.6,
+      "elevation_delta_m": -5,
+      "end_km": 16.697,
+      "length_km": 0.844,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_024",
+      "start_km": 15.853,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 5.8,
+      "elevation_delta_m": 116,
+      "end_km": 18.714,
+      "length_km": 2.017,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_025",
+      "start_km": 16.697,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 11.6,
+      "elevation_delta_m": 36,
+      "end_km": 19.022,
+      "length_km": 0.308,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_026",
+      "start_km": 18.714,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 6.8,
+      "elevation_delta_m": 70,
+      "end_km": 20.05,
+      "length_km": 1.028,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_027",
+      "start_km": 19.022,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 7.0,
+      "elevation_delta_m": 31,
+      "end_km": 20.49,
+      "length_km": 0.44,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_028",
+      "start_km": 20.05,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 5.3,
+      "elevation_delta_m": 27,
+      "end_km": 21.002,
+      "length_km": 0.512,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_029",
+      "start_km": 20.49,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 21.375,
+      "length_km": 0.373,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_030",
+      "start_km": 21.002,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 33.1,
+      "elevation_delta_m": 69,
+      "end_km": 21.583,
+      "length_km": 0.208,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_031",
+      "start_km": 21.375,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 7.7,
+      "elevation_delta_m": 57,
+      "end_km": 22.32,
+      "length_km": 0.737,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_032",
+      "start_km": 21.583,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 4.2,
+      "elevation_delta_m": 46,
+      "end_km": 23.399,
+      "length_km": 1.079,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_033",
+      "start_km": 22.32,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 8.1,
+      "elevation_delta_m": 38,
+      "end_km": 23.87,
+      "length_km": 0.471,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_034",
+      "start_km": 23.399,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 8.0,
+      "elevation_delta_m": 43,
+      "end_km": 24.402,
+      "length_km": 0.532,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_035",
+      "start_km": 23.87,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 7.6,
+      "elevation_delta_m": 23,
+      "end_km": 24.704,
+      "length_km": 0.302,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_036",
+      "start_km": 24.402,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 2.3,
+      "elevation_delta_m": 13,
+      "end_km": 25.263,
+      "length_km": 0.56,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_037",
+      "start_km": 24.704,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 12.3,
+      "elevation_delta_m": 66,
+      "end_km": 25.796,
+      "length_km": 0.532,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_038",
+      "start_km": 25.263,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 26.335,
+      "length_km": 0.539,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_039",
+      "start_km": 25.796,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 4.0,
+      "elevation_delta_m": 69,
+      "end_km": 28.07,
+      "length_km": 1.735,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_040",
+      "start_km": 26.335,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": -1.4,
+      "elevation_delta_m": -31,
+      "end_km": 30.217,
+      "length_km": 2.147,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_041",
+      "start_km": 28.07,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -8.3,
+      "elevation_delta_m": -34,
+      "end_km": 30.622,
+      "length_km": 0.405,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_042",
+      "start_km": 30.217,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -0.3,
+      "elevation_delta_m": -2,
+      "end_km": 31.295,
+      "length_km": 0.673,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_043",
+      "start_km": 30.622,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -1.3,
+      "elevation_delta_m": -5,
+      "end_km": 31.645,
+      "length_km": 0.35,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_044",
+      "start_km": 31.295,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -16.2,
+      "elevation_delta_m": -53,
+      "end_km": 31.974,
+      "length_km": 0.329,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_045",
+      "start_km": 31.645,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -0.4,
+      "elevation_delta_m": -1,
+      "end_km": 32.238,
+      "length_km": 0.265,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_046",
+      "start_km": 31.974,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -3.9,
+      "elevation_delta_m": -36,
+      "end_km": 33.163,
+      "length_km": 0.924,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_047",
+      "start_km": 32.238,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 5.2,
+      "elevation_delta_m": 17,
+      "end_km": 33.496,
+      "length_km": 0.333,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_048",
+      "start_km": 33.163,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 2.2,
+      "elevation_delta_m": 22,
+      "end_km": 34.497,
+      "length_km": 1.002,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_049",
+      "start_km": 33.496,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 0.4,
+      "elevation_delta_m": 3,
+      "end_km": 35.193,
+      "length_km": 0.695,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_050",
+      "start_km": 34.497,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 3.2,
+      "elevation_delta_m": 11,
+      "end_km": 35.546,
+      "length_km": 0.354,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_051",
+      "start_km": 35.193,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": -1.6,
+      "elevation_delta_m": -9,
+      "end_km": 36.112,
+      "length_km": 0.566,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_052",
+      "start_km": 35.546,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -3.6,
+      "elevation_delta_m": -33,
+      "end_km": 37.01,
+      "length_km": 0.898,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_053",
+      "start_km": 36.112,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -1.8,
+      "elevation_delta_m": -7,
+      "end_km": 37.408,
+      "length_km": 0.398,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_054",
+      "start_km": 37.01,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -4.9,
+      "elevation_delta_m": -57,
+      "end_km": 38.587,
+      "length_km": 1.179,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_055",
+      "start_km": 37.408,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -5.9,
+      "elevation_delta_m": -43,
+      "end_km": 39.305,
+      "length_km": 0.719,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_056",
+      "start_km": 38.587,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -2.3,
+      "elevation_delta_m": -10,
+      "end_km": 39.765,
+      "length_km": 0.46,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_057",
+      "start_km": 39.305,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -6.3,
+      "elevation_delta_m": -17,
+      "end_km": 40.036,
+      "length_km": 0.27,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_058",
+      "start_km": 39.765,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 0.3,
+      "elevation_delta_m": 1,
+      "end_km": 40.396,
+      "length_km": 0.36,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_059",
+      "start_km": 40.036,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -4.0,
+      "elevation_delta_m": -17,
+      "end_km": 40.817,
+      "length_km": 0.422,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_060",
+      "start_km": 40.396,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 0.2,
+      "elevation_delta_m": 0,
+      "end_km": 41.026,
+      "length_km": 0.208,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_061",
+      "start_km": 40.817,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -5.7,
+      "elevation_delta_m": -45,
+      "end_km": 41.804,
+      "length_km": 0.779,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_062",
+      "start_km": 41.026,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -7.9,
+      "elevation_delta_m": -35,
+      "end_km": 42.255,
+      "length_km": 0.451,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_063",
+      "start_km": 41.804,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -2.3,
+      "elevation_delta_m": -8,
+      "end_km": 42.593,
+      "length_km": 0.338,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_064",
+      "start_km": 42.255,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -0.8,
+      "elevation_delta_m": -3,
+      "end_km": 42.897,
+      "length_km": 0.304,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_065",
+      "start_km": 42.593,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -5.2,
+      "elevation_delta_m": -41,
+      "end_km": 43.683,
+      "length_km": 0.787,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_066",
+      "start_km": 42.897,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -3.0,
+      "elevation_delta_m": -32,
+      "end_km": 44.738,
+      "length_km": 1.054,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_067",
+      "start_km": 43.683,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -5.6,
+      "elevation_delta_m": -26,
+      "end_km": 45.198,
+      "length_km": 0.461,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_068",
+      "start_km": 44.738,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -2.3,
+      "elevation_delta_m": -8,
+      "end_km": 45.54,
+      "length_km": 0.342,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_069",
+      "start_km": 45.198,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -5.4,
+      "elevation_delta_m": -72,
+      "end_km": 46.859,
+      "length_km": 1.319,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_070",
+      "start_km": 45.54,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -1.2,
+      "elevation_delta_m": -6,
+      "end_km": 47.3,
+      "length_km": 0.441,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_071",
+      "start_km": 46.859,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -1.6,
+      "elevation_delta_m": -11,
+      "end_km": 47.975,
+      "length_km": 0.676,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_072",
+      "start_km": 47.3,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -5.1,
+      "elevation_delta_m": -33,
+      "end_km": 48.614,
+      "length_km": 0.638,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_073",
+      "start_km": 47.975,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -4.7,
+      "elevation_delta_m": -55,
+      "end_km": 49.783,
+      "length_km": 1.169,
+      "segment_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route_seg_074",
+      "start_km": 48.614,
+      "type": "descent"
+    }
+  ]
+}

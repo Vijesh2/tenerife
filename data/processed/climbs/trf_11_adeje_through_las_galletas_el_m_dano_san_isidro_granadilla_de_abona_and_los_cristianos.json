@@ -1,0 +1,203 @@
+{
+  "climbs": [
+    {
+      "avg_gradient_pct": 6.1,
+      "category": "short",
+      "climb_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_climb_001",
+      "elevation_gain_m": 88,
+      "end_km": 2.375,
+      "length_km": 1.443,
+      "max_gradient_pct": 35.8,
+      "name": "Climb 1",
+      "start_km": 0.931
+    },
+    {
+      "avg_gradient_pct": 3.9,
+      "category": "short",
+      "climb_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_climb_002",
+      "elevation_gain_m": 43,
+      "end_km": 3.585,
+      "length_km": 1.121,
+      "max_gradient_pct": 22.1,
+      "name": "Climb 2",
+      "start_km": 2.464
+    },
+    {
+      "avg_gradient_pct": 5.4,
+      "category": "short",
+      "climb_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_climb_003",
+      "elevation_gain_m": 36,
+      "end_km": 4.281,
+      "length_km": 0.677,
+      "max_gradient_pct": 27.3,
+      "name": "Climb 3",
+      "start_km": 3.604
+    },
+    {
+      "avg_gradient_pct": 4.4,
+      "category": "short",
+      "climb_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_climb_004",
+      "elevation_gain_m": 20,
+      "end_km": 12.904,
+      "length_km": 0.458,
+      "max_gradient_pct": 11.4,
+      "name": "Climb 4",
+      "start_km": 12.446
+    },
+    {
+      "avg_gradient_pct": 3.8,
+      "category": "short",
+      "climb_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_climb_005",
+      "elevation_gain_m": 29,
+      "end_km": 14.823,
+      "length_km": 0.776,
+      "max_gradient_pct": 15.8,
+      "name": "Climb 5",
+      "start_km": 14.046
+    },
+    {
+      "avg_gradient_pct": 3.8,
+      "category": "short",
+      "climb_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_climb_006",
+      "elevation_gain_m": 28,
+      "end_km": 16.762,
+      "length_km": 0.751,
+      "max_gradient_pct": 16.1,
+      "name": "Climb 6",
+      "start_km": 16.01
+    },
+    {
+      "avg_gradient_pct": 4.3,
+      "category": "short",
+      "climb_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_climb_007",
+      "elevation_gain_m": 68,
+      "end_km": 18.65,
+      "length_km": 1.592,
+      "max_gradient_pct": 24.6,
+      "name": "Climb 7",
+      "start_km": 17.058
+    },
+    {
+      "avg_gradient_pct": 3.5,
+      "category": "short",
+      "climb_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_climb_008",
+      "elevation_gain_m": 30,
+      "end_km": 33.979,
+      "length_km": 0.856,
+      "max_gradient_pct": 14.0,
+      "name": "Climb 8",
+      "start_km": 33.123
+    },
+    {
+      "avg_gradient_pct": 3.2,
+      "category": "short",
+      "climb_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_climb_009",
+      "elevation_gain_m": 32,
+      "end_km": 44.744,
+      "length_km": 1.008,
+      "max_gradient_pct": 5.9,
+      "name": "Climb 9",
+      "start_km": 43.735
+    },
+    {
+      "avg_gradient_pct": 5.3,
+      "category": "medium",
+      "climb_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_climb_010",
+      "elevation_gain_m": 254,
+      "end_km": 49.888,
+      "length_km": 4.805,
+      "max_gradient_pct": 59.8,
+      "name": "Climb 10",
+      "start_km": 45.083
+    },
+    {
+      "avg_gradient_pct": 9.8,
+      "category": "short",
+      "climb_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_climb_011",
+      "elevation_gain_m": 87,
+      "end_km": 50.912,
+      "length_km": 0.887,
+      "max_gradient_pct": 31.7,
+      "name": "Climb 11",
+      "start_km": 50.025
+    },
+    {
+      "avg_gradient_pct": 6.6,
+      "category": "short",
+      "climb_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_climb_012",
+      "elevation_gain_m": 46,
+      "end_km": 51.665,
+      "length_km": 0.706,
+      "max_gradient_pct": 12.3,
+      "name": "Climb 12",
+      "start_km": 50.959
+    },
+    {
+      "avg_gradient_pct": 9.3,
+      "category": "short",
+      "climb_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_climb_013",
+      "elevation_gain_m": 47,
+      "end_km": 52.193,
+      "length_km": 0.508,
+      "max_gradient_pct": 30.0,
+      "name": "Climb 13",
+      "start_km": 51.685
+    },
+    {
+      "avg_gradient_pct": 6.6,
+      "category": "short",
+      "climb_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_climb_014",
+      "elevation_gain_m": 187,
+      "end_km": 55.054,
+      "length_km": 2.842,
+      "max_gradient_pct": 138.7,
+      "name": "Climb 14",
+      "start_km": 52.212
+    },
+    {
+      "avg_gradient_pct": 3.7,
+      "category": "short",
+      "climb_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_climb_015",
+      "elevation_gain_m": 58,
+      "end_km": 80.391,
+      "length_km": 1.573,
+      "max_gradient_pct": 27.3,
+      "name": "Climb 15",
+      "start_km": 78.818
+    },
+    {
+      "avg_gradient_pct": 11.6,
+      "category": "short",
+      "climb_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_climb_016",
+      "elevation_gain_m": 35,
+      "end_km": 82.067,
+      "length_km": 0.301,
+      "max_gradient_pct": 21.9,
+      "name": "Climb 16",
+      "start_km": 81.765
+    },
+    {
+      "avg_gradient_pct": 3.1,
+      "category": "short",
+      "climb_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_climb_017",
+      "elevation_gain_m": 22,
+      "end_km": 83.23,
+      "length_km": 0.719,
+      "max_gradient_pct": 33.8,
+      "name": "Climb 17",
+      "start_km": 82.511
+    },
+    {
+      "avg_gradient_pct": 3.9,
+      "category": "short",
+      "climb_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_climb_018",
+      "elevation_gain_m": 38,
+      "end_km": 84.207,
+      "length_km": 0.966,
+      "max_gradient_pct": 20.5,
+      "name": "Climb 18",
+      "start_km": 83.241
+    }
+  ],
+  "route_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos"
+}

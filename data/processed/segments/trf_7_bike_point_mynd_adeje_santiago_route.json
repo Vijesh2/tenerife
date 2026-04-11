@@ -1,0 +1,932 @@
+{
+  "route_id": "trf_7_bike_point_mynd_adeje_santiago_route",
+  "segments": [
+    {
+      "avg_gradient_pct": -1.1,
+      "elevation_delta_m": -4,
+      "end_km": 0.396,
+      "length_km": 0.396,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_001",
+      "start_km": 0.0,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 5.9,
+      "elevation_delta_m": 48,
+      "end_km": 1.205,
+      "length_km": 0.809,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_002",
+      "start_km": 0.396,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 5.5,
+      "elevation_delta_m": 26,
+      "end_km": 1.682,
+      "length_km": 0.477,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_003",
+      "start_km": 1.205,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": -8.3,
+      "elevation_delta_m": -26,
+      "end_km": 1.995,
+      "length_km": 0.313,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_004",
+      "start_km": 1.682,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -0.3,
+      "elevation_delta_m": -2,
+      "end_km": 2.642,
+      "length_km": 0.647,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_005",
+      "start_km": 1.995,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -7.3,
+      "elevation_delta_m": -17,
+      "end_km": 2.878,
+      "length_km": 0.236,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_006",
+      "start_km": 2.642,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -1.8,
+      "elevation_delta_m": -4,
+      "end_km": 3.112,
+      "length_km": 0.234,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_007",
+      "start_km": 2.878,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 1.6,
+      "elevation_delta_m": 22,
+      "end_km": 4.551,
+      "length_km": 1.439,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_008",
+      "start_km": 3.112,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -0.6,
+      "elevation_delta_m": -3,
+      "end_km": 5.066,
+      "length_km": 0.515,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_009",
+      "start_km": 4.551,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -0.1,
+      "elevation_delta_m": 0,
+      "end_km": 5.599,
+      "length_km": 0.533,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_010",
+      "start_km": 5.066,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 0.6,
+      "elevation_delta_m": 7,
+      "end_km": 6.824,
+      "length_km": 1.225,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_011",
+      "start_km": 5.599,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 19.3,
+      "elevation_delta_m": 54,
+      "end_km": 7.104,
+      "length_km": 0.28,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_012",
+      "start_km": 6.824,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 5.3,
+      "elevation_delta_m": 39,
+      "end_km": 7.842,
+      "length_km": 0.738,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_013",
+      "start_km": 7.104,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 8.218,
+      "length_km": 0.375,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_014",
+      "start_km": 7.842,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 10.3,
+      "elevation_delta_m": 35,
+      "end_km": 8.559,
+      "length_km": 0.341,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_015",
+      "start_km": 8.218,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 9.7,
+      "elevation_delta_m": 54,
+      "end_km": 9.118,
+      "length_km": 0.56,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_016",
+      "start_km": 8.559,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 1.7,
+      "elevation_delta_m": 8,
+      "end_km": 9.603,
+      "length_km": 0.485,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_017",
+      "start_km": 9.118,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 9.816,
+      "length_km": 0.213,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_018",
+      "start_km": 9.603,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 11.1,
+      "elevation_delta_m": 70,
+      "end_km": 10.45,
+      "length_km": 0.634,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_019",
+      "start_km": 9.816,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 1.1,
+      "elevation_delta_m": 4,
+      "end_km": 10.8,
+      "length_km": 0.35,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_020",
+      "start_km": 10.45,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 6.7,
+      "elevation_delta_m": 34,
+      "end_km": 11.31,
+      "length_km": 0.51,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_021",
+      "start_km": 10.8,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 6.1,
+      "elevation_delta_m": 68,
+      "end_km": 12.421,
+      "length_km": 1.111,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_022",
+      "start_km": 11.31,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.9,
+      "elevation_delta_m": 3,
+      "end_km": 12.751,
+      "length_km": 0.33,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_023",
+      "start_km": 12.421,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 4.8,
+      "elevation_delta_m": 46,
+      "end_km": 13.695,
+      "length_km": 0.944,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_024",
+      "start_km": 12.751,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 5.1,
+      "elevation_delta_m": 59,
+      "end_km": 14.85,
+      "length_km": 1.155,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_025",
+      "start_km": 13.695,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": -2.5,
+      "elevation_delta_m": -10,
+      "end_km": 15.24,
+      "length_km": 0.391,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_026",
+      "start_km": 14.85,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 2.3,
+      "elevation_delta_m": 10,
+      "end_km": 15.674,
+      "length_km": 0.434,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_027",
+      "start_km": 15.24,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 4.8,
+      "elevation_delta_m": 27,
+      "end_km": 16.249,
+      "length_km": 0.575,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_028",
+      "start_km": 15.674,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 2.4,
+      "elevation_delta_m": 10,
+      "end_km": 16.693,
+      "length_km": 0.444,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_029",
+      "start_km": 16.249,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -1.9,
+      "elevation_delta_m": -28,
+      "end_km": 18.154,
+      "length_km": 1.461,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_030",
+      "start_km": 16.693,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -0.2,
+      "elevation_delta_m": -1,
+      "end_km": 18.595,
+      "length_km": 0.442,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_031",
+      "start_km": 18.154,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -0.6,
+      "elevation_delta_m": -5,
+      "end_km": 19.413,
+      "length_km": 0.818,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_032",
+      "start_km": 18.595,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 5.6,
+      "elevation_delta_m": 24,
+      "end_km": 19.843,
+      "length_km": 0.429,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_033",
+      "start_km": 19.413,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.4,
+      "elevation_delta_m": 1,
+      "end_km": 20.107,
+      "length_km": 0.265,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_034",
+      "start_km": 19.843,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 16.2,
+      "elevation_delta_m": 53,
+      "end_km": 20.436,
+      "length_km": 0.329,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_035",
+      "start_km": 20.107,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 1.8,
+      "elevation_delta_m": 7,
+      "end_km": 20.82,
+      "length_km": 0.383,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_036",
+      "start_km": 20.436,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 4.2,
+      "elevation_delta_m": 33,
+      "end_km": 21.608,
+      "length_km": 0.789,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_037",
+      "start_km": 20.82,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 2.0,
+      "elevation_delta_m": 22,
+      "end_km": 22.74,
+      "length_km": 1.132,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_038",
+      "start_km": 21.608,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 2.1,
+      "elevation_delta_m": 9,
+      "end_km": 23.184,
+      "length_km": 0.444,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_039",
+      "start_km": 22.74,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 5.9,
+      "elevation_delta_m": 31,
+      "end_km": 23.71,
+      "length_km": 0.526,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_040",
+      "start_km": 23.184,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 4.7,
+      "elevation_delta_m": 26,
+      "end_km": 24.272,
+      "length_km": 0.562,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_041",
+      "start_km": 23.71,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 24.626,
+      "length_km": 0.354,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_042",
+      "start_km": 24.272,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 4.5,
+      "elevation_delta_m": 17,
+      "end_km": 25.0,
+      "length_km": 0.374,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_043",
+      "start_km": 24.626,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 7.1,
+      "elevation_delta_m": 88,
+      "end_km": 26.245,
+      "length_km": 1.245,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_044",
+      "start_km": 25.0,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 7.7,
+      "elevation_delta_m": 119,
+      "end_km": 27.785,
+      "length_km": 1.541,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_045",
+      "start_km": 26.245,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 2.7,
+      "elevation_delta_m": 44,
+      "end_km": 29.411,
+      "length_km": 1.626,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_046",
+      "start_km": 27.785,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -6.3,
+      "elevation_delta_m": -34,
+      "end_km": 29.946,
+      "length_km": 0.535,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_047",
+      "start_km": 29.411,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -9.6,
+      "elevation_delta_m": -67,
+      "end_km": 30.641,
+      "length_km": 0.695,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_048",
+      "start_km": 29.946,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -4.6,
+      "elevation_delta_m": -35,
+      "end_km": 31.384,
+      "length_km": 0.744,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_049",
+      "start_km": 30.641,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 0.7,
+      "elevation_delta_m": 3,
+      "end_km": 31.769,
+      "length_km": 0.384,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_050",
+      "start_km": 31.384,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 3.7,
+      "elevation_delta_m": 20,
+      "end_km": 32.309,
+      "length_km": 0.54,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_051",
+      "start_km": 31.769,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": -0.6,
+      "elevation_delta_m": -5,
+      "end_km": 33.04,
+      "length_km": 0.731,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_052",
+      "start_km": 32.309,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -5.1,
+      "elevation_delta_m": -31,
+      "end_km": 33.647,
+      "length_km": 0.607,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_053",
+      "start_km": 33.04,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -7.0,
+      "elevation_delta_m": -36,
+      "end_km": 34.165,
+      "length_km": 0.518,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_054",
+      "start_km": 33.647,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 34.433,
+      "length_km": 0.268,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_055",
+      "start_km": 34.165,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -6.3,
+      "elevation_delta_m": -28,
+      "end_km": 34.883,
+      "length_km": 0.45,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_056",
+      "start_km": 34.433,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -5.4,
+      "elevation_delta_m": -28,
+      "end_km": 35.402,
+      "length_km": 0.519,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_057",
+      "start_km": 34.883,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -9.4,
+      "elevation_delta_m": -26,
+      "end_km": 35.681,
+      "length_km": 0.278,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_058",
+      "start_km": 35.402,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -10.4,
+      "elevation_delta_m": -34,
+      "end_km": 36.005,
+      "length_km": 0.325,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_059",
+      "start_km": 35.681,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -0.3,
+      "elevation_delta_m": -1,
+      "end_km": 36.426,
+      "length_km": 0.421,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_060",
+      "start_km": 36.005,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -4.3,
+      "elevation_delta_m": -28,
+      "end_km": 37.077,
+      "length_km": 0.652,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_061",
+      "start_km": 36.426,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -8.3,
+      "elevation_delta_m": -38,
+      "end_km": 37.538,
+      "length_km": 0.461,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_062",
+      "start_km": 37.077,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -6.4,
+      "elevation_delta_m": -15,
+      "end_km": 37.772,
+      "length_km": 0.234,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_063",
+      "start_km": 37.538,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -4.8,
+      "elevation_delta_m": -27,
+      "end_km": 38.338,
+      "length_km": 0.567,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_064",
+      "start_km": 37.772,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -5.5,
+      "elevation_delta_m": -42,
+      "end_km": 39.094,
+      "length_km": 0.755,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_065",
+      "start_km": 38.338,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -6.4,
+      "elevation_delta_m": -43,
+      "end_km": 39.76,
+      "length_km": 0.667,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_066",
+      "start_km": 39.094,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -7.3,
+      "elevation_delta_m": -45,
+      "end_km": 40.38,
+      "length_km": 0.619,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_067",
+      "start_km": 39.76,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -8.6,
+      "elevation_delta_m": -81,
+      "end_km": 41.33,
+      "length_km": 0.95,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_068",
+      "start_km": 40.38,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -11.4,
+      "elevation_delta_m": -57,
+      "end_km": 41.825,
+      "length_km": 0.495,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_069",
+      "start_km": 41.33,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 42.489,
+      "length_km": 0.664,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_070",
+      "start_km": 41.825,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -33.1,
+      "elevation_delta_m": -69,
+      "end_km": 42.697,
+      "length_km": 0.208,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_071",
+      "start_km": 42.489,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -0.8,
+      "elevation_delta_m": -4,
+      "end_km": 43.224,
+      "length_km": 0.528,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_072",
+      "start_km": 42.697,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -5.9,
+      "elevation_delta_m": -23,
+      "end_km": 43.618,
+      "length_km": 0.394,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_073",
+      "start_km": 43.224,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -6.2,
+      "elevation_delta_m": -52,
+      "end_km": 44.455,
+      "length_km": 0.837,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_074",
+      "start_km": 43.618,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -7.4,
+      "elevation_delta_m": -49,
+      "end_km": 45.117,
+      "length_km": 0.662,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_075",
+      "start_km": 44.455,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -8.3,
+      "elevation_delta_m": -45,
+      "end_km": 45.666,
+      "length_km": 0.549,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_076",
+      "start_km": 45.117,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -5.3,
+      "elevation_delta_m": -21,
+      "end_km": 46.07,
+      "length_km": 0.404,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_077",
+      "start_km": 45.666,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -3.5,
+      "elevation_delta_m": -11,
+      "end_km": 46.391,
+      "length_km": 0.321,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_078",
+      "start_km": 46.07,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -5.8,
+      "elevation_delta_m": -23,
+      "end_km": 46.785,
+      "length_km": 0.394,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_079",
+      "start_km": 46.391,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -6.9,
+      "elevation_delta_m": -20,
+      "end_km": 47.072,
+      "length_km": 0.287,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_080",
+      "start_km": 46.785,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -3.1,
+      "elevation_delta_m": -10,
+      "end_km": 47.397,
+      "length_km": 0.325,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_081",
+      "start_km": 47.072,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -6.3,
+      "elevation_delta_m": -17,
+      "end_km": 47.666,
+      "length_km": 0.269,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_082",
+      "start_km": 47.397,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 0.3,
+      "elevation_delta_m": 6,
+      "end_km": 49.548,
+      "length_km": 1.882,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_083",
+      "start_km": 47.666,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -1.4,
+      "elevation_delta_m": -4,
+      "end_km": 49.837,
+      "length_km": 0.289,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_084",
+      "start_km": 49.548,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 1.2,
+      "elevation_delta_m": 5,
+      "end_km": 50.249,
+      "length_km": 0.412,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_085",
+      "start_km": 49.837,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -0.1,
+      "elevation_delta_m": -2,
+      "end_km": 51.487,
+      "length_km": 1.238,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_086",
+      "start_km": 50.249,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 0.6,
+      "elevation_delta_m": 4,
+      "end_km": 52.24,
+      "length_km": 0.753,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_087",
+      "start_km": 51.487,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -0.3,
+      "elevation_delta_m": -1,
+      "end_km": 52.754,
+      "length_km": 0.514,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_088",
+      "start_km": 52.24,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 53.002,
+      "length_km": 0.248,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_089",
+      "start_km": 52.754,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 10.6,
+      "elevation_delta_m": 37,
+      "end_km": 53.349,
+      "length_km": 0.346,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_090",
+      "start_km": 53.002,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 53.585,
+      "length_km": 0.236,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_091",
+      "start_km": 53.349,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 2.3,
+      "elevation_delta_m": 14,
+      "end_km": 54.18,
+      "length_km": 0.596,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_092",
+      "start_km": 53.585,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 54.394,
+      "length_km": 0.214,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_093",
+      "start_km": 54.18,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 9.1,
+      "elevation_delta_m": 23,
+      "end_km": 54.646,
+      "length_km": 0.253,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_094",
+      "start_km": 54.394,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": -0.7,
+      "elevation_delta_m": -9,
+      "end_km": 55.868,
+      "length_km": 1.221,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_095",
+      "start_km": 54.646,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -1.2,
+      "elevation_delta_m": -13,
+      "end_km": 56.992,
+      "length_km": 1.124,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_096",
+      "start_km": 55.868,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 1.4,
+      "elevation_delta_m": 8,
+      "end_km": 57.546,
+      "length_km": 0.554,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_097",
+      "start_km": 56.992,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -1.3,
+      "elevation_delta_m": -7,
+      "end_km": 58.046,
+      "length_km": 0.5,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_098",
+      "start_km": 57.546,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -0.8,
+      "elevation_delta_m": -12,
+      "end_km": 59.596,
+      "length_km": 1.55,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_099",
+      "start_km": 58.046,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 4.8,
+      "elevation_delta_m": 19,
+      "end_km": 59.997,
+      "length_km": 0.401,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_100",
+      "start_km": 59.596,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.1,
+      "elevation_delta_m": 1,
+      "end_km": 60.531,
+      "length_km": 0.534,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_101",
+      "start_km": 59.997,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 3.7,
+      "elevation_delta_m": 20,
+      "end_km": 61.061,
+      "length_km": 0.529,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_102",
+      "start_km": 60.531,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": -5.5,
+      "elevation_delta_m": -65,
+      "end_km": 62.236,
+      "length_km": 1.175,
+      "segment_id": "trf_7_bike_point_mynd_adeje_santiago_route_seg_103",
+      "start_km": 61.061,
+      "type": "descent"
+    }
+  ]
+}

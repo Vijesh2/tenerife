@@ -1,0 +1,171 @@
+{
+  "build_mode": "full",
+  "duplicate_candidates": [
+    {
+      "duplicate_of": null,
+      "route_id": "trf_10_callao_salvaje_telesferico",
+      "similar_routes": [
+        {
+          "route_id": "trf_3_adeje_to_teide_from_east_side",
+          "score": 0.8
+        },
+        {
+          "route_id": "trf_4_adeje_to_teide_from_south_side",
+          "score": 0.8
+        }
+      ]
+    },
+    {
+      "duplicate_of": "trf_10_callao_salvaje_telesferico",
+      "route_id": "trf_3_adeje_to_teide_from_east_side",
+      "similar_routes": [
+        {
+          "route_id": "trf_4_adeje_to_teide_from_south_side",
+          "score": 1.0
+        },
+        {
+          "route_id": "trf_10_callao_salvaje_telesferico",
+          "score": 0.8
+        }
+      ]
+    },
+    {
+      "duplicate_of": "trf_10_callao_salvaje_telesferico",
+      "route_id": "trf_4_adeje_to_teide_from_south_side",
+      "similar_routes": [
+        {
+          "route_id": "trf_3_adeje_to_teide_from_east_side",
+          "score": 1.0
+        },
+        {
+          "route_id": "trf_10_callao_salvaje_telesferico",
+          "score": 0.8
+        }
+      ]
+    }
+  ],
+  "duplicates_detected": 2,
+  "errors": [],
+  "errors_count": 0,
+  "generated_at": "2026-04-11T12:23:48.565287+00:00",
+  "routes": [
+    {
+      "difficulty": "hard",
+      "distance_km": 118.97,
+      "duplicate_of": null,
+      "elevation_gain_m": 2208,
+      "name": "TRF_10_Callao Salvaje - Telesferico",
+      "num_climbs": 35,
+      "route_id": "trf_10_callao_salvaje_telesferico",
+      "validation_status": "ok"
+    },
+    {
+      "difficulty": "hard",
+      "distance_km": 88.99,
+      "duplicate_of": null,
+      "elevation_gain_m": 780,
+      "name": "TRF_11_Adeje through Las Galletas, El Médano, San Isidro, Granadilla de Abona and Los Cristianos",
+      "num_climbs": 18,
+      "route_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos",
+      "validation_status": "ok"
+    },
+    {
+      "difficulty": "hard",
+      "distance_km": 108.75,
+      "duplicate_of": null,
+      "elevation_gain_m": 2310,
+      "name": "TRF_1_Adeje_West_Coast_and_Masca_Valley",
+      "num_climbs": 17,
+      "route_id": "trf_1_adeje_west_coast_and_masca_valley",
+      "validation_status": "ok"
+    },
+    {
+      "difficulty": "hard",
+      "distance_km": 90.59,
+      "duplicate_of": null,
+      "elevation_gain_m": 891,
+      "name": "TRF_2_Adeje_Best_of_The_South_Ride",
+      "num_climbs": 20,
+      "route_id": "trf_2_adeje_best_of_the_south_ride",
+      "validation_status": "ok"
+    },
+    {
+      "difficulty": "hard",
+      "distance_km": 119.5,
+      "duplicate_of": "trf_10_callao_salvaje_telesferico",
+      "elevation_gain_m": 2195,
+      "name": "TRF_3_Adeje_to_Teide_from_East_Side",
+      "num_climbs": 36,
+      "route_id": "trf_3_adeje_to_teide_from_east_side",
+      "validation_status": "ok"
+    },
+    {
+      "difficulty": "hard",
+      "distance_km": 120.27,
+      "duplicate_of": "trf_10_callao_salvaje_telesferico",
+      "elevation_gain_m": 2197,
+      "name": "TRF_4_Adeje_to_Teide_from_South_Side",
+      "num_climbs": 28,
+      "route_id": "trf_4_adeje_to_teide_from_south_side",
+      "validation_status": "ok"
+    },
+    {
+      "difficulty": "hard",
+      "distance_km": 82.69,
+      "duplicate_of": null,
+      "elevation_gain_m": 1206,
+      "name": "TRF_5_Adeje_to_Vilaflor_loop",
+      "num_climbs": 23,
+      "route_id": "trf_5_adeje_to_vilaflor_loop",
+      "validation_status": "ok"
+    },
+    {
+      "difficulty": "moderate",
+      "distance_km": 49.78,
+      "duplicate_of": null,
+      "elevation_gain_m": 523,
+      "name": "TRF_6_Bike Point Mynd Adeje Los Gigantes Route",
+      "num_climbs": 9,
+      "route_id": "trf_6_bike_point_mynd_adeje_los_gigantes_route",
+      "validation_status": "ok"
+    },
+    {
+      "difficulty": "moderate",
+      "distance_km": 62.24,
+      "duplicate_of": null,
+      "elevation_gain_m": 1000,
+      "name": "TRF_7_Bike Point Mynd Adeje Santiago Route",
+      "num_climbs": 15,
+      "route_id": "trf_7_bike_point_mynd_adeje_santiago_route",
+      "validation_status": "ok"
+    },
+    {
+      "difficulty": "hard",
+      "distance_km": 100.61,
+      "duplicate_of": null,
+      "elevation_gain_m": 1855,
+      "name": "TRF_8_Bike Point Mynd Adeje Teide Round Route",
+      "num_climbs": 23,
+      "route_id": "trf_8_bike_point_mynd_adeje_teide_round_route",
+      "validation_status": "ok"
+    },
+    {
+      "difficulty": "moderate",
+      "distance_km": 36.91,
+      "duplicate_of": null,
+      "elevation_gain_m": 491,
+      "name": "TRF_9_Bike Point Mynd Adeje Banana Climb Route",
+      "num_climbs": 3,
+      "route_id": "trf_9_bike_point_mynd_adeje_banana_climb_route",
+      "validation_status": "ok"
+    }
+  ],
+  "routes_missing_elevation": [],
+  "routes_processed": 11,
+  "routes_skipped": 0,
+  "routes_with_suspicious_stats": [],
+  "skipped_files": [],
+  "total_source_gpx_files_seen": 11,
+  "warnings": [],
+  "warnings_count": 0
+}

@@ -1,0 +1,38 @@
+{
+  "climbs": [
+    {
+      "avg_gradient_pct": 5.8,
+      "category": "short",
+      "climb_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_climb_001",
+      "elevation_gain_m": 78,
+      "end_km": 1.602,
+      "length_km": 1.352,
+      "max_gradient_pct": 68.0,
+      "name": "Climb 1",
+      "start_km": 0.25
+    },
+    {
+      "avg_gradient_pct": 6.0,
+      "category": "short",
+      "climb_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_climb_002",
+      "elevation_gain_m": 26,
+      "end_km": 15.797,
+      "length_km": 0.431,
+      "max_gradient_pct": 30.6,
+      "name": "Climb 2",
+      "start_km": 15.365
+    },
+    {
+      "avg_gradient_pct": 4.2,
+      "category": "short",
+      "climb_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_climb_003",
+      "elevation_gain_m": 21,
+      "end_km": 21.74,
+      "length_km": 0.506,
+      "max_gradient_pct": 16.2,
+      "name": "Climb 3",
+      "start_km": 21.234
+    }
+  ],
+  "route_id": "trf_9_bike_point_mynd_adeje_banana_climb_route"
+}

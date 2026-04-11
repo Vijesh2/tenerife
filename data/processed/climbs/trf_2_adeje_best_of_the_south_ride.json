@@ -1,0 +1,225 @@
+{
+  "climbs": [
+    {
+      "avg_gradient_pct": 5.4,
+      "category": "short",
+      "climb_id": "trf_2_adeje_best_of_the_south_ride_climb_001",
+      "elevation_gain_m": 110,
+      "end_km": 2.172,
+      "length_km": 2.061,
+      "max_gradient_pct": 34.8,
+      "name": "Climb 1",
+      "start_km": 0.111
+    },
+    {
+      "avg_gradient_pct": 3.9,
+      "category": "short",
+      "climb_id": "trf_2_adeje_best_of_the_south_ride_climb_002",
+      "elevation_gain_m": 43,
+      "end_km": 3.842,
+      "length_km": 1.121,
+      "max_gradient_pct": 22.1,
+      "name": "Climb 2",
+      "start_km": 2.721
+    },
+    {
+      "avg_gradient_pct": 5.4,
+      "category": "short",
+      "climb_id": "trf_2_adeje_best_of_the_south_ride_climb_003",
+      "elevation_gain_m": 36,
+      "end_km": 4.538,
+      "length_km": 0.677,
+      "max_gradient_pct": 27.3,
+      "name": "Climb 3",
+      "start_km": 3.861
+    },
+    {
+      "avg_gradient_pct": 4.2,
+      "category": "short",
+      "climb_id": "trf_2_adeje_best_of_the_south_ride_climb_004",
+      "elevation_gain_m": 51,
+      "end_km": 15.356,
+      "length_km": 1.222,
+      "max_gradient_pct": 22.4,
+      "name": "Climb 4",
+      "start_km": 14.134
+    },
+    {
+      "avg_gradient_pct": 6.6,
+      "category": "short",
+      "climb_id": "trf_2_adeje_best_of_the_south_ride_climb_005",
+      "elevation_gain_m": 40,
+      "end_km": 16.29,
+      "length_km": 0.611,
+      "max_gradient_pct": 50.8,
+      "name": "Climb 5",
+      "start_km": 15.678
+    },
+    {
+      "avg_gradient_pct": 6.8,
+      "category": "short",
+      "climb_id": "trf_2_adeje_best_of_the_south_ride_climb_006",
+      "elevation_gain_m": 104,
+      "end_km": 18.449,
+      "length_km": 1.537,
+      "max_gradient_pct": 15.3,
+      "name": "Climb 6",
+      "start_km": 16.913
+    },
+    {
+      "avg_gradient_pct": 6.3,
+      "category": "short",
+      "climb_id": "trf_2_adeje_best_of_the_south_ride_climb_007",
+      "elevation_gain_m": 59,
+      "end_km": 20.037,
+      "length_km": 0.94,
+      "max_gradient_pct": 21.6,
+      "name": "Climb 7",
+      "start_km": 19.098
+    },
+    {
+      "avg_gradient_pct": 8.7,
+      "category": "short",
+      "climb_id": "trf_2_adeje_best_of_the_south_ride_climb_008",
+      "elevation_gain_m": 30,
+      "end_km": 21.291,
+      "length_km": 0.342,
+      "max_gradient_pct": 22.7,
+      "name": "Climb 8",
+      "start_km": 20.949
+    },
+    {
+      "avg_gradient_pct": 4.4,
+      "category": "short",
+      "climb_id": "trf_2_adeje_best_of_the_south_ride_climb_009",
+      "elevation_gain_m": 27,
+      "end_km": 24.227,
+      "length_km": 0.619,
+      "max_gradient_pct": 10.9,
+      "name": "Climb 9",
+      "start_km": 23.608
+    },
+    {
+      "avg_gradient_pct": 4.4,
+      "category": "short",
+      "climb_id": "trf_2_adeje_best_of_the_south_ride_climb_010",
+      "elevation_gain_m": 27,
+      "end_km": 25.993,
+      "length_km": 0.615,
+      "max_gradient_pct": 23.3,
+      "name": "Climb 10",
+      "start_km": 25.378
+    },
+    {
+      "avg_gradient_pct": 13.6,
+      "category": "short",
+      "climb_id": "trf_2_adeje_best_of_the_south_ride_climb_011",
+      "elevation_gain_m": 45,
+      "end_km": 27.045,
+      "length_km": 0.333,
+      "max_gradient_pct": 54.9,
+      "name": "Climb 11",
+      "start_km": 26.711
+    },
+    {
+      "avg_gradient_pct": 3.5,
+      "category": "short",
+      "climb_id": "trf_2_adeje_best_of_the_south_ride_climb_012",
+      "elevation_gain_m": 25,
+      "end_km": 30.459,
+      "length_km": 0.717,
+      "max_gradient_pct": 12.3,
+      "name": "Climb 12",
+      "start_km": 29.742
+    },
+    {
+      "avg_gradient_pct": 5.4,
+      "category": "short",
+      "climb_id": "trf_2_adeje_best_of_the_south_ride_climb_013",
+      "elevation_gain_m": 48,
+      "end_km": 61.474,
+      "length_km": 0.888,
+      "max_gradient_pct": 25.4,
+      "name": "Climb 13",
+      "start_km": 60.586
+    },
+    {
+      "avg_gradient_pct": 3.0,
+      "category": "short",
+      "climb_id": "trf_2_adeje_best_of_the_south_ride_climb_014",
+      "elevation_gain_m": 24,
+      "end_km": 62.281,
+      "length_km": 0.799,
+      "max_gradient_pct": 12.7,
+      "name": "Climb 14",
+      "start_km": 61.482
+    },
+    {
+      "avg_gradient_pct": 7.3,
+      "category": "short",
+      "climb_id": "trf_2_adeje_best_of_the_south_ride_climb_015",
+      "elevation_gain_m": 23,
+      "end_km": 65.131,
+      "length_km": 0.32,
+      "max_gradient_pct": 22.9,
+      "name": "Climb 15",
+      "start_km": 64.811
+    },
+    {
+      "avg_gradient_pct": 8.2,
+      "category": "short",
+      "climb_id": "trf_2_adeje_best_of_the_south_ride_climb_016",
+      "elevation_gain_m": 34,
+      "end_km": 65.822,
+      "length_km": 0.41,
+      "max_gradient_pct": 40.3,
+      "name": "Climb 16",
+      "start_km": 65.412
+    },
+    {
+      "avg_gradient_pct": 5.0,
+      "category": "short",
+      "climb_id": "trf_2_adeje_best_of_the_south_ride_climb_017",
+      "elevation_gain_m": 107,
+      "end_km": 71.76,
+      "length_km": 2.13,
+      "max_gradient_pct": 25.0,
+      "name": "Climb 17",
+      "start_km": 69.63
+    },
+    {
+      "avg_gradient_pct": 3.7,
+      "category": "short",
+      "climb_id": "trf_2_adeje_best_of_the_south_ride_climb_018",
+      "elevation_gain_m": 58,
+      "end_km": 82.147,
+      "length_km": 1.573,
+      "max_gradient_pct": 27.3,
+      "name": "Climb 18",
+      "start_km": 80.574
+    },
+    {
+      "avg_gradient_pct": 11.6,
+      "category": "short",
+      "climb_id": "trf_2_adeje_best_of_the_south_ride_climb_019",
+      "elevation_gain_m": 35,
+      "end_km": 83.823,
+      "length_km": 0.301,
+      "max_gradient_pct": 21.9,
+      "name": "Climb 19",
+      "start_km": 83.521
+    },
+    {
+      "avg_gradient_pct": 4.2,
+      "category": "short",
+      "climb_id": "trf_2_adeje_best_of_the_south_ride_climb_020",
+      "elevation_gain_m": 47,
+      "end_km": 85.491,
+      "length_km": 1.132,
+      "max_gradient_pct": 29.6,
+      "name": "Climb 20",
+      "start_km": 84.359
+    }
+  ],
+  "route_id": "trf_2_adeje_best_of_the_south_ride"
+}

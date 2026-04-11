@@ -1,0 +1,258 @@
+{
+  "climbs": [
+    {
+      "avg_gradient_pct": 5.3,
+      "category": "short",
+      "climb_id": "trf_5_adeje_to_vilaflor_loop_climb_001",
+      "elevation_gain_m": 110,
+      "end_km": 2.171,
+      "length_km": 2.061,
+      "max_gradient_pct": 34.8,
+      "name": "Climb 1",
+      "start_km": 0.109
+    },
+    {
+      "avg_gradient_pct": 3.9,
+      "category": "short",
+      "climb_id": "trf_5_adeje_to_vilaflor_loop_climb_002",
+      "elevation_gain_m": 43,
+      "end_km": 3.84,
+      "length_km": 1.121,
+      "max_gradient_pct": 22.1,
+      "name": "Climb 2",
+      "start_km": 2.719
+    },
+    {
+      "avg_gradient_pct": 5.4,
+      "category": "short",
+      "climb_id": "trf_5_adeje_to_vilaflor_loop_climb_003",
+      "elevation_gain_m": 36,
+      "end_km": 4.536,
+      "length_km": 0.677,
+      "max_gradient_pct": 27.3,
+      "name": "Climb 3",
+      "start_km": 3.859
+    },
+    {
+      "avg_gradient_pct": 3.8,
+      "category": "short",
+      "climb_id": "trf_5_adeje_to_vilaflor_loop_climb_004",
+      "elevation_gain_m": 29,
+      "end_km": 14.812,
+      "length_km": 0.776,
+      "max_gradient_pct": 15.8,
+      "name": "Climb 4",
+      "start_km": 14.035
+    },
+    {
+      "avg_gradient_pct": 6.6,
+      "category": "short",
+      "climb_id": "trf_5_adeje_to_vilaflor_loop_climb_005",
+      "elevation_gain_m": 40,
+      "end_km": 15.745,
+      "length_km": 0.611,
+      "max_gradient_pct": 50.8,
+      "name": "Climb 5",
+      "start_km": 15.133
+    },
+    {
+      "avg_gradient_pct": 6.8,
+      "category": "short",
+      "climb_id": "trf_5_adeje_to_vilaflor_loop_climb_006",
+      "elevation_gain_m": 104,
+      "end_km": 17.904,
+      "length_km": 1.537,
+      "max_gradient_pct": 15.3,
+      "name": "Climb 6",
+      "start_km": 16.368
+    },
+    {
+      "avg_gradient_pct": 6.6,
+      "category": "short",
+      "climb_id": "trf_5_adeje_to_vilaflor_loop_climb_007",
+      "elevation_gain_m": 77,
+      "end_km": 19.496,
+      "length_km": 1.171,
+      "max_gradient_pct": 21.6,
+      "name": "Climb 7",
+      "start_km": 18.325
+    },
+    {
+      "avg_gradient_pct": 8.7,
+      "category": "short",
+      "climb_id": "trf_5_adeje_to_vilaflor_loop_climb_008",
+      "elevation_gain_m": 30,
+      "end_km": 20.749,
+      "length_km": 0.342,
+      "max_gradient_pct": 22.7,
+      "name": "Climb 8",
+      "start_km": 20.407
+    },
+    {
+      "avg_gradient_pct": 7.5,
+      "category": "short",
+      "climb_id": "trf_5_adeje_to_vilaflor_loop_climb_009",
+      "elevation_gain_m": 40,
+      "end_km": 23.877,
+      "length_km": 0.53,
+      "max_gradient_pct": 36.2,
+      "name": "Climb 9",
+      "start_km": 23.347
+    },
+    {
+      "avg_gradient_pct": 4.4,
+      "category": "short",
+      "climb_id": "trf_5_adeje_to_vilaflor_loop_climb_010",
+      "elevation_gain_m": 27,
+      "end_km": 25.344,
+      "length_km": 0.615,
+      "max_gradient_pct": 23.3,
+      "name": "Climb 10",
+      "start_km": 24.73
+    },
+    {
+      "avg_gradient_pct": 13.6,
+      "category": "short",
+      "climb_id": "trf_5_adeje_to_vilaflor_loop_climb_011",
+      "elevation_gain_m": 45,
+      "end_km": 26.396,
+      "length_km": 0.333,
+      "max_gradient_pct": 54.9,
+      "name": "Climb 11",
+      "start_km": 26.063
+    },
+    {
+      "avg_gradient_pct": 3.5,
+      "category": "short",
+      "climb_id": "trf_5_adeje_to_vilaflor_loop_climb_012",
+      "elevation_gain_m": 25,
+      "end_km": 29.81,
+      "length_km": 0.717,
+      "max_gradient_pct": 12.3,
+      "name": "Climb 12",
+      "start_km": 29.093
+    },
+    {
+      "avg_gradient_pct": 5.4,
+      "category": "short",
+      "climb_id": "trf_5_adeje_to_vilaflor_loop_climb_013",
+      "elevation_gain_m": 49,
+      "end_km": 35.585,
+      "length_km": 0.901,
+      "max_gradient_pct": 27.3,
+      "name": "Climb 13",
+      "start_km": 34.684
+    },
+    {
+      "avg_gradient_pct": 5.7,
+      "category": "short",
+      "climb_id": "trf_5_adeje_to_vilaflor_loop_climb_014",
+      "elevation_gain_m": 46,
+      "end_km": 36.5,
+      "length_km": 0.802,
+      "max_gradient_pct": 20.3,
+      "name": "Climb 14",
+      "start_km": 35.698
+    },
+    {
+      "avg_gradient_pct": 7.9,
+      "category": "short",
+      "climb_id": "trf_5_adeje_to_vilaflor_loop_climb_015",
+      "elevation_gain_m": 25,
+      "end_km": 36.866,
+      "length_km": 0.316,
+      "max_gradient_pct": 23.5,
+      "name": "Climb 15",
+      "start_km": 36.551
+    },
+    {
+      "avg_gradient_pct": 7.8,
+      "category": "short",
+      "climb_id": "trf_5_adeje_to_vilaflor_loop_climb_016",
+      "elevation_gain_m": 24,
+      "end_km": 37.911,
+      "length_km": 0.303,
+      "max_gradient_pct": 42.2,
+      "name": "Climb 16",
+      "start_km": 37.607
+    },
+    {
+      "avg_gradient_pct": 6.1,
+      "category": "short",
+      "climb_id": "trf_5_adeje_to_vilaflor_loop_climb_017",
+      "elevation_gain_m": 27,
+      "end_km": 46.312,
+      "length_km": 0.439,
+      "max_gradient_pct": 25.3,
+      "name": "Climb 17",
+      "start_km": 45.873
+    },
+    {
+      "avg_gradient_pct": 4.3,
+      "category": "short",
+      "climb_id": "trf_5_adeje_to_vilaflor_loop_climb_018",
+      "elevation_gain_m": 22,
+      "end_km": 47.177,
+      "length_km": 0.516,
+      "max_gradient_pct": 13.1,
+      "name": "Climb 18",
+      "start_km": 46.66
+    },
+    {
+      "avg_gradient_pct": 6.4,
+      "category": "short",
+      "climb_id": "trf_5_adeje_to_vilaflor_loop_climb_019",
+      "elevation_gain_m": 39,
+      "end_km": 48.442,
+      "length_km": 0.616,
+      "max_gradient_pct": 30.3,
+      "name": "Climb 19",
+      "start_km": 47.826
+    },
+    {
+      "avg_gradient_pct": 6.1,
+      "category": "short",
+      "climb_id": "trf_5_adeje_to_vilaflor_loop_climb_020",
+      "elevation_gain_m": 23,
+      "end_km": 70.717,
+      "length_km": 0.376,
+      "max_gradient_pct": 41.7,
+      "name": "Climb 20",
+      "start_km": 70.341
+    },
+    {
+      "avg_gradient_pct": 3.7,
+      "category": "short",
+      "climb_id": "trf_5_adeje_to_vilaflor_loop_climb_021",
+      "elevation_gain_m": 58,
+      "end_km": 74.256,
+      "length_km": 1.573,
+      "max_gradient_pct": 27.3,
+      "name": "Climb 21",
+      "start_km": 72.684
+    },
+    {
+      "avg_gradient_pct": 11.6,
+      "category": "short",
+      "climb_id": "trf_5_adeje_to_vilaflor_loop_climb_022",
+      "elevation_gain_m": 35,
+      "end_km": 75.932,
+      "length_km": 0.301,
+      "max_gradient_pct": 21.9,
+      "name": "Climb 22",
+      "start_km": 75.631
+    },
+    {
+      "avg_gradient_pct": 4.1,
+      "category": "short",
+      "climb_id": "trf_5_adeje_to_vilaflor_loop_climb_023",
+      "elevation_gain_m": 46,
+      "end_km": 77.601,
+      "length_km": 1.132,
+      "max_gradient_pct": 29.6,
+      "name": "Climb 23",
+      "start_km": 76.468
+    }
+  ],
+  "route_id": "trf_5_adeje_to_vilaflor_loop"
+}

@@ -1,0 +1,192 @@
+{
+  "climbs": [
+    {
+      "avg_gradient_pct": 6.3,
+      "category": "short",
+      "climb_id": "trf_1_adeje_west_coast_and_masca_valley_climb_001",
+      "elevation_gain_m": 48,
+      "end_km": 0.847,
+      "length_km": 0.773,
+      "max_gradient_pct": 38.5,
+      "name": "Climb 1",
+      "start_km": 0.074
+    },
+    {
+      "avg_gradient_pct": 6.0,
+      "category": "short",
+      "climb_id": "trf_1_adeje_west_coast_and_masca_valley_climb_002",
+      "elevation_gain_m": 26,
+      "end_km": 14.088,
+      "length_km": 0.431,
+      "max_gradient_pct": 30.6,
+      "name": "Climb 2",
+      "start_km": 13.657
+    },
+    {
+      "avg_gradient_pct": 4.2,
+      "category": "short",
+      "climb_id": "trf_1_adeje_west_coast_and_masca_valley_climb_003",
+      "elevation_gain_m": 42,
+      "end_km": 18.477,
+      "length_km": 1.011,
+      "max_gradient_pct": 32.7,
+      "name": "Climb 3",
+      "start_km": 17.467
+    },
+    {
+      "avg_gradient_pct": 16.2,
+      "category": "short",
+      "climb_id": "trf_1_adeje_west_coast_and_masca_valley_climb_004",
+      "elevation_gain_m": 53,
+      "end_km": 18.95,
+      "length_km": 0.329,
+      "max_gradient_pct": 65.8,
+      "name": "Climb 4",
+      "start_km": 18.621
+    },
+    {
+      "avg_gradient_pct": 5.9,
+      "category": "short",
+      "climb_id": "trf_1_adeje_west_coast_and_masca_valley_climb_005",
+      "elevation_gain_m": 37,
+      "end_km": 22.222,
+      "length_km": 0.637,
+      "max_gradient_pct": 22.9,
+      "name": "Climb 5",
+      "start_km": 21.586
+    },
+    {
+      "avg_gradient_pct": 7.0,
+      "category": "short",
+      "climb_id": "trf_1_adeje_west_coast_and_masca_valley_climb_006",
+      "elevation_gain_m": 89,
+      "end_km": 24.649,
+      "length_km": 1.272,
+      "max_gradient_pct": 29.0,
+      "name": "Climb 6",
+      "start_km": 23.377
+    },
+    {
+      "avg_gradient_pct": 10.9,
+      "category": "short",
+      "climb_id": "trf_1_adeje_west_coast_and_masca_valley_climb_007",
+      "elevation_gain_m": 80,
+      "end_km": 25.44,
+      "length_km": 0.73,
+      "max_gradient_pct": 35.6,
+      "name": "Climb 7",
+      "start_km": 24.71
+    },
+    {
+      "avg_gradient_pct": 3.0,
+      "category": "short",
+      "climb_id": "trf_1_adeje_west_coast_and_masca_valley_climb_008",
+      "elevation_gain_m": 37,
+      "end_km": 30.808,
+      "length_km": 1.212,
+      "max_gradient_pct": 26.2,
+      "name": "Climb 8",
+      "start_km": 29.596
+    },
+    {
+      "avg_gradient_pct": 3.2,
+      "category": "short",
+      "climb_id": "trf_1_adeje_west_coast_and_masca_valley_climb_009",
+      "elevation_gain_m": 20,
+      "end_km": 50.151,
+      "length_km": 0.629,
+      "max_gradient_pct": 11.5,
+      "name": "Climb 9",
+      "start_km": 49.522
+    },
+    {
+      "avg_gradient_pct": 3.3,
+      "category": "short",
+      "climb_id": "trf_1_adeje_west_coast_and_masca_valley_climb_010",
+      "elevation_gain_m": 44,
+      "end_km": 51.915,
+      "length_km": 1.346,
+      "max_gradient_pct": 20.4,
+      "name": "Climb 10",
+      "start_km": 50.57
+    },
+    {
+      "avg_gradient_pct": 6.4,
+      "category": "short",
+      "climb_id": "trf_1_adeje_west_coast_and_masca_valley_climb_011",
+      "elevation_gain_m": 79,
+      "end_km": 54.447,
+      "length_km": 1.235,
+      "max_gradient_pct": 36.2,
+      "name": "Climb 11",
+      "start_km": 53.212
+    },
+    {
+      "avg_gradient_pct": 8.0,
+      "category": "short",
+      "climb_id": "trf_1_adeje_west_coast_and_masca_valley_climb_012",
+      "elevation_gain_m": 49,
+      "end_km": 55.097,
+      "length_km": 0.615,
+      "max_gradient_pct": 35.2,
+      "name": "Climb 12",
+      "start_km": 54.482
+    },
+    {
+      "avg_gradient_pct": 5.3,
+      "category": "short",
+      "climb_id": "trf_1_adeje_west_coast_and_masca_valley_climb_013",
+      "elevation_gain_m": 122,
+      "end_km": 60.367,
+      "length_km": 2.32,
+      "max_gradient_pct": 52.9,
+      "name": "Climb 13",
+      "start_km": 58.047
+    },
+    {
+      "avg_gradient_pct": 6.2,
+      "category": "short",
+      "climb_id": "trf_1_adeje_west_coast_and_masca_valley_climb_014",
+      "elevation_gain_m": 24,
+      "end_km": 61.262,
+      "length_km": 0.391,
+      "max_gradient_pct": 37.5,
+      "name": "Climb 14",
+      "start_km": 60.871
+    },
+    {
+      "avg_gradient_pct": 9.9,
+      "category": "short",
+      "climb_id": "trf_1_adeje_west_coast_and_masca_valley_climb_015",
+      "elevation_gain_m": 37,
+      "end_km": 100.115,
+      "length_km": 0.372,
+      "max_gradient_pct": 11.9,
+      "name": "Climb 15",
+      "start_km": 99.743
+    },
+    {
+      "avg_gradient_pct": 3.3,
+      "category": "short",
+      "climb_id": "trf_1_adeje_west_coast_and_masca_valley_climb_016",
+      "elevation_gain_m": 23,
+      "end_km": 106.848,
+      "length_km": 0.695,
+      "max_gradient_pct": 11.6,
+      "name": "Climb 16",
+      "start_km": 106.153
+    },
+    {
+      "avg_gradient_pct": 4.4,
+      "category": "short",
+      "climb_id": "trf_1_adeje_west_coast_and_masca_valley_climb_017",
+      "elevation_gain_m": 26,
+      "end_km": 107.583,
+      "length_km": 0.598,
+      "max_gradient_pct": 18.0,
+      "name": "Climb 17",
+      "start_km": 106.985
+    }
+  ],
+  "route_id": "trf_1_adeje_west_coast_and_masca_valley"
+}

@@ -1,0 +1,2012 @@
+{
+  "route_id": "trf_10_callao_salvaje_telesferico",
+  "segments": [
+    {
+      "avg_gradient_pct": -1.4,
+      "elevation_delta_m": -5,
+      "end_km": 0.376,
+      "length_km": 0.376,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_001",
+      "start_km": 0.0,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 5.9,
+      "elevation_delta_m": 48,
+      "end_km": 1.189,
+      "length_km": 0.813,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_002",
+      "start_km": 0.376,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 5.5,
+      "elevation_delta_m": 26,
+      "end_km": 1.666,
+      "length_km": 0.477,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_003",
+      "start_km": 1.189,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": -8.3,
+      "elevation_delta_m": -26,
+      "end_km": 1.979,
+      "length_km": 0.313,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_004",
+      "start_km": 1.666,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -0.3,
+      "elevation_delta_m": -2,
+      "end_km": 2.626,
+      "length_km": 0.647,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_005",
+      "start_km": 1.979,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -7.3,
+      "elevation_delta_m": -17,
+      "end_km": 2.862,
+      "length_km": 0.236,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_006",
+      "start_km": 2.626,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -1.8,
+      "elevation_delta_m": -4,
+      "end_km": 3.096,
+      "length_km": 0.234,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_007",
+      "start_km": 2.862,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 1.6,
+      "elevation_delta_m": 22,
+      "end_km": 4.535,
+      "length_km": 1.439,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_008",
+      "start_km": 3.096,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -0.6,
+      "elevation_delta_m": -3,
+      "end_km": 5.05,
+      "length_km": 0.515,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_009",
+      "start_km": 4.535,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -0.1,
+      "elevation_delta_m": 0,
+      "end_km": 5.583,
+      "length_km": 0.533,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_010",
+      "start_km": 5.05,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 0.6,
+      "elevation_delta_m": 7,
+      "end_km": 6.808,
+      "length_km": 1.225,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_011",
+      "start_km": 5.583,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 19.3,
+      "elevation_delta_m": 54,
+      "end_km": 7.088,
+      "length_km": 0.28,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_012",
+      "start_km": 6.808,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 5.3,
+      "elevation_delta_m": 39,
+      "end_km": 7.826,
+      "length_km": 0.738,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_013",
+      "start_km": 7.088,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 8.202,
+      "length_km": 0.375,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_014",
+      "start_km": 7.826,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 10.3,
+      "elevation_delta_m": 35,
+      "end_km": 8.543,
+      "length_km": 0.341,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_015",
+      "start_km": 8.202,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 9.7,
+      "elevation_delta_m": 54,
+      "end_km": 9.103,
+      "length_km": 0.56,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_016",
+      "start_km": 8.543,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 1.7,
+      "elevation_delta_m": 8,
+      "end_km": 9.587,
+      "length_km": 0.485,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_017",
+      "start_km": 9.103,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 9.8,
+      "length_km": 0.213,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_018",
+      "start_km": 9.587,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 11.1,
+      "elevation_delta_m": 70,
+      "end_km": 10.435,
+      "length_km": 0.634,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_019",
+      "start_km": 9.8,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 1.1,
+      "elevation_delta_m": 4,
+      "end_km": 10.784,
+      "length_km": 0.35,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_020",
+      "start_km": 10.435,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 6.7,
+      "elevation_delta_m": 34,
+      "end_km": 11.294,
+      "length_km": 0.51,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_021",
+      "start_km": 10.784,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 6.2,
+      "elevation_delta_m": 69,
+      "end_km": 12.414,
+      "length_km": 1.12,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_022",
+      "start_km": 11.294,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 1.0,
+      "elevation_delta_m": 2,
+      "end_km": 12.62,
+      "length_km": 0.206,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_023",
+      "start_km": 12.414,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 4.8,
+      "elevation_delta_m": 46,
+      "end_km": 13.564,
+      "length_km": 0.944,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_024",
+      "start_km": 12.62,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 5.1,
+      "elevation_delta_m": 59,
+      "end_km": 14.718,
+      "length_km": 1.155,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_025",
+      "start_km": 13.564,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": -2.5,
+      "elevation_delta_m": -10,
+      "end_km": 15.109,
+      "length_km": 0.391,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_026",
+      "start_km": 14.718,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 2.3,
+      "elevation_delta_m": 10,
+      "end_km": 15.543,
+      "length_km": 0.434,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_027",
+      "start_km": 15.109,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 4.8,
+      "elevation_delta_m": 27,
+      "end_km": 16.118,
+      "length_km": 0.575,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_028",
+      "start_km": 15.543,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 2.4,
+      "elevation_delta_m": 10,
+      "end_km": 16.562,
+      "length_km": 0.444,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_029",
+      "start_km": 16.118,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -1.9,
+      "elevation_delta_m": -28,
+      "end_km": 18.023,
+      "length_km": 1.461,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_030",
+      "start_km": 16.562,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -0.2,
+      "elevation_delta_m": -1,
+      "end_km": 18.464,
+      "length_km": 0.442,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_031",
+      "start_km": 18.023,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -0.6,
+      "elevation_delta_m": -5,
+      "end_km": 19.282,
+      "length_km": 0.818,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_032",
+      "start_km": 18.464,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 5.6,
+      "elevation_delta_m": 24,
+      "end_km": 19.712,
+      "length_km": 0.429,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_033",
+      "start_km": 19.282,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.4,
+      "elevation_delta_m": 1,
+      "end_km": 19.976,
+      "length_km": 0.265,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_034",
+      "start_km": 19.712,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 16.2,
+      "elevation_delta_m": 53,
+      "end_km": 20.305,
+      "length_km": 0.329,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_035",
+      "start_km": 19.976,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 1.8,
+      "elevation_delta_m": 7,
+      "end_km": 20.688,
+      "length_km": 0.383,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_036",
+      "start_km": 20.305,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 4.1,
+      "elevation_delta_m": 33,
+      "end_km": 21.477,
+      "length_km": 0.789,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_037",
+      "start_km": 20.688,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 1.9,
+      "elevation_delta_m": 22,
+      "end_km": 22.609,
+      "length_km": 1.132,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_038",
+      "start_km": 21.477,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 2.8,
+      "elevation_delta_m": 18,
+      "end_km": 23.26,
+      "length_km": 0.65,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_039",
+      "start_km": 22.609,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 8.3,
+      "elevation_delta_m": 27,
+      "end_km": 23.585,
+      "length_km": 0.326,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_040",
+      "start_km": 23.26,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 5.0,
+      "elevation_delta_m": 24,
+      "end_km": 24.053,
+      "length_km": 0.468,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_041",
+      "start_km": 23.585,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 7.7,
+      "elevation_delta_m": 31,
+      "end_km": 24.458,
+      "length_km": 0.404,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_042",
+      "start_km": 24.053,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": -0.2,
+      "elevation_delta_m": -1,
+      "end_km": 24.743,
+      "length_km": 0.286,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_043",
+      "start_km": 24.458,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 6.6,
+      "elevation_delta_m": 25,
+      "end_km": 25.117,
+      "length_km": 0.374,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_044",
+      "start_km": 24.743,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 3.5,
+      "elevation_delta_m": 26,
+      "end_km": 25.851,
+      "length_km": 0.734,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_045",
+      "start_km": 25.117,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 5.0,
+      "elevation_delta_m": 27,
+      "end_km": 26.4,
+      "length_km": 0.549,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_046",
+      "start_km": 25.851,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 6.6,
+      "elevation_delta_m": 39,
+      "end_km": 26.981,
+      "length_km": 0.581,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_047",
+      "start_km": 26.4,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 14.9,
+      "elevation_delta_m": 161,
+      "end_km": 28.059,
+      "length_km": 1.078,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_048",
+      "start_km": 26.981,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 7.2,
+      "elevation_delta_m": 47,
+      "end_km": 28.711,
+      "length_km": 0.652,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_049",
+      "start_km": 28.059,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.1,
+      "elevation_delta_m": 0,
+      "end_km": 29.004,
+      "length_km": 0.293,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_050",
+      "start_km": 28.711,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 8.7,
+      "elevation_delta_m": 39,
+      "end_km": 29.449,
+      "length_km": 0.445,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_051",
+      "start_km": 29.004,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 8.1,
+      "elevation_delta_m": 37,
+      "end_km": 29.907,
+      "length_km": 0.458,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_052",
+      "start_km": 29.449,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 30.117,
+      "length_km": 0.21,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_053",
+      "start_km": 29.907,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 2.4,
+      "elevation_delta_m": 9,
+      "end_km": 30.504,
+      "length_km": 0.387,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_054",
+      "start_km": 30.117,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 6.5,
+      "elevation_delta_m": 28,
+      "end_km": 30.936,
+      "length_km": 0.432,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_055",
+      "start_km": 30.504,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 5.8,
+      "elevation_delta_m": 25,
+      "end_km": 31.371,
+      "length_km": 0.435,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_056",
+      "start_km": 30.936,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 5.0,
+      "elevation_delta_m": 22,
+      "end_km": 31.812,
+      "length_km": 0.441,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_057",
+      "start_km": 31.371,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 1.2,
+      "elevation_delta_m": 3,
+      "end_km": 32.098,
+      "length_km": 0.286,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_058",
+      "start_km": 31.812,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 9.2,
+      "elevation_delta_m": 55,
+      "end_km": 32.696,
+      "length_km": 0.598,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_059",
+      "start_km": 32.098,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 3.8,
+      "elevation_delta_m": 36,
+      "end_km": 33.655,
+      "length_km": 0.959,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_060",
+      "start_km": 32.696,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 7.2,
+      "elevation_delta_m": 45,
+      "end_km": 34.276,
+      "length_km": 0.621,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_061",
+      "start_km": 33.655,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 6.8,
+      "elevation_delta_m": 15,
+      "end_km": 34.491,
+      "length_km": 0.215,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_062",
+      "start_km": 34.276,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.9,
+      "elevation_delta_m": 2,
+      "end_km": 34.768,
+      "length_km": 0.277,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_063",
+      "start_km": 34.491,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 4.2,
+      "elevation_delta_m": 11,
+      "end_km": 35.027,
+      "length_km": 0.258,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_064",
+      "start_km": 34.768,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 1.7,
+      "elevation_delta_m": 4,
+      "end_km": 35.26,
+      "length_km": 0.233,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_065",
+      "start_km": 35.027,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 6.6,
+      "elevation_delta_m": 83,
+      "end_km": 36.504,
+      "length_km": 1.244,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_066",
+      "start_km": 35.26,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 36.783,
+      "length_km": 0.279,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_067",
+      "start_km": 36.504,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 10.9,
+      "elevation_delta_m": 52,
+      "end_km": 37.255,
+      "length_km": 0.472,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_068",
+      "start_km": 36.783,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 5.0,
+      "elevation_delta_m": 24,
+      "end_km": 37.746,
+      "length_km": 0.49,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_069",
+      "start_km": 37.255,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 4.5,
+      "elevation_delta_m": 14,
+      "end_km": 38.046,
+      "length_km": 0.301,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_070",
+      "start_km": 37.746,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 6.7,
+      "elevation_delta_m": 29,
+      "end_km": 38.475,
+      "length_km": 0.429,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_071",
+      "start_km": 38.046,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 2.8,
+      "elevation_delta_m": 11,
+      "end_km": 38.886,
+      "length_km": 0.411,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_072",
+      "start_km": 38.475,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 12.0,
+      "elevation_delta_m": 47,
+      "end_km": 39.276,
+      "length_km": 0.39,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_073",
+      "start_km": 38.886,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 1.3,
+      "elevation_delta_m": 12,
+      "end_km": 40.193,
+      "length_km": 0.917,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_074",
+      "start_km": 39.276,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 20.6,
+      "elevation_delta_m": 54,
+      "end_km": 40.454,
+      "length_km": 0.261,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_075",
+      "start_km": 40.193,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.5,
+      "elevation_delta_m": 2,
+      "end_km": 40.984,
+      "length_km": 0.53,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_076",
+      "start_km": 40.454,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 9.2,
+      "elevation_delta_m": 21,
+      "end_km": 41.211,
+      "length_km": 0.227,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_077",
+      "start_km": 40.984,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 41.565,
+      "length_km": 0.354,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_078",
+      "start_km": 41.211,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 22.4,
+      "elevation_delta_m": 53,
+      "end_km": 41.803,
+      "length_km": 0.238,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_079",
+      "start_km": 41.565,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.4,
+      "elevation_delta_m": 1,
+      "end_km": 42.128,
+      "length_km": 0.325,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_080",
+      "start_km": 41.803,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 7.4,
+      "elevation_delta_m": 18,
+      "end_km": 42.376,
+      "length_km": 0.248,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_081",
+      "start_km": 42.128,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 42.656,
+      "length_km": 0.28,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_082",
+      "start_km": 42.376,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 12.4,
+      "elevation_delta_m": 53,
+      "end_km": 43.08,
+      "length_km": 0.424,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_083",
+      "start_km": 42.656,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 43.359,
+      "length_km": 0.28,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_084",
+      "start_km": 43.08,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 7.0,
+      "elevation_delta_m": 16,
+      "end_km": 43.592,
+      "length_km": 0.232,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_085",
+      "start_km": 43.359,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 43.903,
+      "length_km": 0.311,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_086",
+      "start_km": 43.592,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 17.4,
+      "elevation_delta_m": 45,
+      "end_km": 44.159,
+      "length_km": 0.256,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_087",
+      "start_km": 43.903,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 44.42,
+      "length_km": 0.261,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_088",
+      "start_km": 44.159,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 6.0,
+      "elevation_delta_m": 27,
+      "end_km": 44.864,
+      "length_km": 0.445,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_089",
+      "start_km": 44.42,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 45.215,
+      "length_km": 0.35,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_090",
+      "start_km": 44.864,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 13.4,
+      "elevation_delta_m": 53,
+      "end_km": 45.612,
+      "length_km": 0.397,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_091",
+      "start_km": 45.215,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.5,
+      "elevation_delta_m": 12,
+      "end_km": 48.009,
+      "length_km": 2.397,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_092",
+      "start_km": 45.612,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -5.9,
+      "elevation_delta_m": -28,
+      "end_km": 48.496,
+      "length_km": 0.486,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_093",
+      "start_km": 48.009,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -1.3,
+      "elevation_delta_m": -9,
+      "end_km": 49.177,
+      "length_km": 0.681,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_094",
+      "start_km": 48.496,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -2.4,
+      "elevation_delta_m": -14,
+      "end_km": 49.769,
+      "length_km": 0.593,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_095",
+      "start_km": 49.177,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -1.4,
+      "elevation_delta_m": -9,
+      "end_km": 50.427,
+      "length_km": 0.657,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_096",
+      "start_km": 49.769,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 0.2,
+      "elevation_delta_m": 4,
+      "end_km": 52.376,
+      "length_km": 1.949,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_097",
+      "start_km": 50.427,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -4.2,
+      "elevation_delta_m": -20,
+      "end_km": 52.855,
+      "length_km": 0.479,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_098",
+      "start_km": 52.376,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 2.8,
+      "elevation_delta_m": 49,
+      "end_km": 54.621,
+      "length_km": 1.766,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_099",
+      "start_km": 52.855,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 0.6,
+      "elevation_delta_m": 2,
+      "end_km": 54.924,
+      "length_km": 0.304,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_100",
+      "start_km": 54.621,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 1.3,
+      "elevation_delta_m": 3,
+      "end_km": 55.153,
+      "length_km": 0.229,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_101",
+      "start_km": 54.924,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 10.3,
+      "elevation_delta_m": 52,
+      "end_km": 55.653,
+      "length_km": 0.499,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_102",
+      "start_km": 55.153,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": -1.0,
+      "elevation_delta_m": -2,
+      "end_km": 55.865,
+      "length_km": 0.212,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_103",
+      "start_km": 55.653,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 5.6,
+      "elevation_delta_m": 25,
+      "end_km": 56.311,
+      "length_km": 0.446,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_104",
+      "start_km": 55.865,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 1.2,
+      "elevation_delta_m": 6,
+      "end_km": 56.804,
+      "length_km": 0.494,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_105",
+      "start_km": 56.311,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 6.1,
+      "elevation_delta_m": 30,
+      "end_km": 57.298,
+      "length_km": 0.494,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_106",
+      "start_km": 56.804,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 57.792,
+      "length_km": 0.494,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_107",
+      "start_km": 57.298,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 11.6,
+      "elevation_delta_m": 57,
+      "end_km": 58.286,
+      "length_km": 0.494,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_108",
+      "start_km": 57.792,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 58.929,
+      "length_km": 0.643,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_109",
+      "start_km": 58.286,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 19.4,
+      "elevation_delta_m": 59,
+      "end_km": 59.232,
+      "length_km": 0.303,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_110",
+      "start_km": 58.929,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.5,
+      "elevation_delta_m": 1,
+      "end_km": 59.45,
+      "length_km": 0.219,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_111",
+      "start_km": 59.232,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 3.5,
+      "elevation_delta_m": 18,
+      "end_km": 59.961,
+      "length_km": 0.511,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_112",
+      "start_km": 59.45,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 7.9,
+      "elevation_delta_m": 28,
+      "end_km": 60.315,
+      "length_km": 0.354,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_113",
+      "start_km": 59.961,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 7.0,
+      "elevation_delta_m": 19,
+      "end_km": 60.584,
+      "length_km": 0.268,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_114",
+      "start_km": 60.315,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": -6.6,
+      "elevation_delta_m": -19,
+      "end_km": 60.872,
+      "length_km": 0.288,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_115",
+      "start_km": 60.584,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -6.4,
+      "elevation_delta_m": -30,
+      "end_km": 61.337,
+      "length_km": 0.466,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_116",
+      "start_km": 60.872,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -4.9,
+      "elevation_delta_m": -16,
+      "end_km": 61.665,
+      "length_km": 0.328,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_117",
+      "start_km": 61.337,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -0.5,
+      "elevation_delta_m": -1,
+      "end_km": 61.884,
+      "length_km": 0.219,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_118",
+      "start_km": 61.665,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -19.4,
+      "elevation_delta_m": -59,
+      "end_km": 62.187,
+      "length_km": 0.303,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_119",
+      "start_km": 61.884,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 62.83,
+      "length_km": 0.643,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_120",
+      "start_km": 62.187,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -11.6,
+      "elevation_delta_m": -57,
+      "end_km": 63.324,
+      "length_km": 0.494,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_121",
+      "start_km": 62.83,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 63.818,
+      "length_km": 0.494,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_122",
+      "start_km": 63.324,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -6.1,
+      "elevation_delta_m": -30,
+      "end_km": 64.311,
+      "length_km": 0.494,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_123",
+      "start_km": 63.818,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -1.2,
+      "elevation_delta_m": -6,
+      "end_km": 64.805,
+      "length_km": 0.494,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_124",
+      "start_km": 64.311,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -5.6,
+      "elevation_delta_m": -25,
+      "end_km": 65.251,
+      "length_km": 0.446,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_125",
+      "start_km": 64.805,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 0.9,
+      "elevation_delta_m": 4,
+      "end_km": 65.664,
+      "length_km": 0.413,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_126",
+      "start_km": 65.251,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -17.9,
+      "elevation_delta_m": -53,
+      "end_km": 65.963,
+      "length_km": 0.298,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_127",
+      "start_km": 65.664,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -2.0,
+      "elevation_delta_m": -5,
+      "end_km": 66.213,
+      "length_km": 0.25,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_128",
+      "start_km": 65.963,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -8.7,
+      "elevation_delta_m": -39,
+      "end_km": 66.666,
+      "length_km": 0.453,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_129",
+      "start_km": 66.213,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -0.6,
+      "elevation_delta_m": -10,
+      "end_km": 68.261,
+      "length_km": 1.595,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_130",
+      "start_km": 66.666,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 4.2,
+      "elevation_delta_m": 20,
+      "end_km": 68.74,
+      "length_km": 0.479,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_131",
+      "start_km": 68.261,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 70.782,
+      "length_km": 2.043,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_132",
+      "start_km": 68.74,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 0.8,
+      "elevation_delta_m": 5,
+      "end_km": 71.4,
+      "length_km": 0.617,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_133",
+      "start_km": 70.782,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 3.3,
+      "elevation_delta_m": 15,
+      "end_km": 71.849,
+      "length_km": 0.45,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_134",
+      "start_km": 71.4,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 1.2,
+      "elevation_delta_m": 9,
+      "end_km": 72.62,
+      "length_km": 0.771,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_135",
+      "start_km": 71.849,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 5.9,
+      "elevation_delta_m": 28,
+      "end_km": 73.107,
+      "length_km": 0.486,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_136",
+      "start_km": 72.62,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": -0.5,
+      "elevation_delta_m": -12,
+      "end_km": 75.504,
+      "length_km": 2.397,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_137",
+      "start_km": 73.107,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -13.4,
+      "elevation_delta_m": -53,
+      "end_km": 75.901,
+      "length_km": 0.397,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_138",
+      "start_km": 75.504,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 76.163,
+      "length_km": 0.261,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_139",
+      "start_km": 75.901,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -6.0,
+      "elevation_delta_m": -27,
+      "end_km": 76.607,
+      "length_km": 0.445,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_140",
+      "start_km": 76.163,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 76.874,
+      "length_km": 0.266,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_141",
+      "start_km": 76.607,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -15.1,
+      "elevation_delta_m": -45,
+      "end_km": 77.17,
+      "length_km": 0.296,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_142",
+      "start_km": 76.874,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 77.524,
+      "length_km": 0.354,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_143",
+      "start_km": 77.17,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -7.0,
+      "elevation_delta_m": -16,
+      "end_km": 77.756,
+      "length_km": 0.232,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_144",
+      "start_km": 77.524,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 78.036,
+      "length_km": 0.28,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_145",
+      "start_km": 77.756,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -12.4,
+      "elevation_delta_m": -53,
+      "end_km": 78.46,
+      "length_km": 0.424,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_146",
+      "start_km": 78.036,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 78.74,
+      "length_km": 0.28,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_147",
+      "start_km": 78.46,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -7.4,
+      "elevation_delta_m": -18,
+      "end_km": 78.988,
+      "length_km": 0.248,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_148",
+      "start_km": 78.74,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -0.4,
+      "elevation_delta_m": -1,
+      "end_km": 79.286,
+      "length_km": 0.298,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_149",
+      "start_km": 78.988,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -22.1,
+      "elevation_delta_m": -53,
+      "end_km": 79.527,
+      "length_km": 0.242,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_150",
+      "start_km": 79.286,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 79.905,
+      "length_km": 0.377,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_151",
+      "start_km": 79.527,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -6.0,
+      "elevation_delta_m": -23,
+      "end_km": 80.287,
+      "length_km": 0.383,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_152",
+      "start_km": 79.905,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -0.1,
+      "elevation_delta_m": -1,
+      "end_km": 80.662,
+      "length_km": 0.374,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_153",
+      "start_km": 80.287,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -20.6,
+      "elevation_delta_m": -54,
+      "end_km": 80.923,
+      "length_km": 0.261,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_154",
+      "start_km": 80.662,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -1.3,
+      "elevation_delta_m": -12,
+      "end_km": 81.84,
+      "length_km": 0.917,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_155",
+      "start_km": 80.923,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -8.0,
+      "elevation_delta_m": -47,
+      "end_km": 82.426,
+      "length_km": 0.586,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_156",
+      "start_km": 81.84,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -3.5,
+      "elevation_delta_m": -11,
+      "end_km": 82.755,
+      "length_km": 0.33,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_157",
+      "start_km": 82.426,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -8.1,
+      "elevation_delta_m": -29,
+      "end_km": 83.109,
+      "length_km": 0.353,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_158",
+      "start_km": 82.755,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -4.8,
+      "elevation_delta_m": -13,
+      "end_km": 83.389,
+      "length_km": 0.28,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_159",
+      "start_km": 83.109,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -4.3,
+      "elevation_delta_m": -25,
+      "end_km": 83.954,
+      "length_km": 0.566,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_160",
+      "start_km": 83.389,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -13.6,
+      "elevation_delta_m": -52,
+      "end_km": 84.332,
+      "length_km": 0.378,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_161",
+      "start_km": 83.954,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 84.612,
+      "length_km": 0.279,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_162",
+      "start_km": 84.332,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -6.6,
+      "elevation_delta_m": -83,
+      "end_km": 85.856,
+      "length_km": 1.244,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_163",
+      "start_km": 84.612,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -1.7,
+      "elevation_delta_m": -4,
+      "end_km": 86.089,
+      "length_km": 0.233,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_164",
+      "start_km": 85.856,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -2.8,
+      "elevation_delta_m": -15,
+      "end_km": 86.625,
+      "length_km": 0.536,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_165",
+      "start_km": 86.089,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -3.6,
+      "elevation_delta_m": -15,
+      "end_km": 87.03,
+      "length_km": 0.406,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_166",
+      "start_km": 86.625,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -7.6,
+      "elevation_delta_m": -43,
+      "end_km": 87.594,
+      "length_km": 0.563,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_167",
+      "start_km": 87.03,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -3.6,
+      "elevation_delta_m": -36,
+      "end_km": 88.615,
+      "length_km": 1.021,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_168",
+      "start_km": 87.594,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -13.7,
+      "elevation_delta_m": -55,
+      "end_km": 89.017,
+      "length_km": 0.403,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_169",
+      "start_km": 88.615,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -1.2,
+      "elevation_delta_m": -3,
+      "end_km": 89.304,
+      "length_km": 0.286,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_170",
+      "start_km": 89.017,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -4.7,
+      "elevation_delta_m": -22,
+      "end_km": 89.774,
+      "length_km": 0.47,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_171",
+      "start_km": 89.304,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -5.1,
+      "elevation_delta_m": -29,
+      "end_km": 90.349,
+      "length_km": 0.575,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_172",
+      "start_km": 89.774,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -5.6,
+      "elevation_delta_m": -24,
+      "end_km": 90.776,
+      "length_km": 0.427,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_173",
+      "start_km": 90.349,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -4.2,
+      "elevation_delta_m": -9,
+      "end_km": 90.999,
+      "length_km": 0.223,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_174",
+      "start_km": 90.776,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -10.8,
+      "elevation_delta_m": -37,
+      "end_km": 91.343,
+      "length_km": 0.344,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_175",
+      "start_km": 90.999,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 91.666,
+      "length_km": 0.324,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_176",
+      "start_km": 91.343,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -8.7,
+      "elevation_delta_m": -39,
+      "end_km": 92.112,
+      "length_km": 0.445,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_177",
+      "start_km": 91.666,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -0.1,
+      "elevation_delta_m": 0,
+      "end_km": 92.371,
+      "length_km": 0.259,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_178",
+      "start_km": 92.112,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -21.2,
+      "elevation_delta_m": -46,
+      "end_km": 92.589,
+      "length_km": 0.219,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_179",
+      "start_km": 92.371,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -10.9,
+      "elevation_delta_m": -112,
+      "end_km": 93.613,
+      "length_km": 1.024,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_180",
+      "start_km": 92.589,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -7.5,
+      "elevation_delta_m": -63,
+      "end_km": 94.454,
+      "length_km": 0.841,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_181",
+      "start_km": 93.613,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -5.6,
+      "elevation_delta_m": -32,
+      "end_km": 95.028,
+      "length_km": 0.574,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_182",
+      "start_km": 94.454,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -5.6,
+      "elevation_delta_m": -40,
+      "end_km": 95.751,
+      "length_km": 0.722,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_183",
+      "start_km": 95.028,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -2.2,
+      "elevation_delta_m": -7,
+      "end_km": 96.083,
+      "length_km": 0.332,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_184",
+      "start_km": 95.751,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -8.2,
+      "elevation_delta_m": -24,
+      "end_km": 96.372,
+      "length_km": 0.29,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_185",
+      "start_km": 96.083,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -6.4,
+      "elevation_delta_m": -28,
+      "end_km": 96.814,
+      "length_km": 0.442,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_186",
+      "start_km": 96.372,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -1.0,
+      "elevation_delta_m": -3,
+      "end_km": 97.125,
+      "length_km": 0.311,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_187",
+      "start_km": 96.814,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -4.3,
+      "elevation_delta_m": -20,
+      "end_km": 97.597,
+      "length_km": 0.473,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_188",
+      "start_km": 97.125,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -6.9,
+      "elevation_delta_m": -42,
+      "end_km": 98.208,
+      "length_km": 0.61,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_189",
+      "start_km": 97.597,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -2.1,
+      "elevation_delta_m": -26,
+      "end_km": 99.489,
+      "length_km": 1.281,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_190",
+      "start_km": 98.208,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -8.3,
+      "elevation_delta_m": -34,
+      "end_km": 99.894,
+      "length_km": 0.405,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_191",
+      "start_km": 99.489,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -0.3,
+      "elevation_delta_m": -2,
+      "end_km": 100.567,
+      "length_km": 0.673,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_192",
+      "start_km": 99.894,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -1.3,
+      "elevation_delta_m": -5,
+      "end_km": 100.917,
+      "length_km": 0.35,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_193",
+      "start_km": 100.567,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -16.2,
+      "elevation_delta_m": -53,
+      "end_km": 101.246,
+      "length_km": 0.329,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_194",
+      "start_km": 100.917,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -0.4,
+      "elevation_delta_m": -1,
+      "end_km": 101.51,
+      "length_km": 0.265,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_195",
+      "start_km": 101.246,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -3.9,
+      "elevation_delta_m": -36,
+      "end_km": 102.435,
+      "length_km": 0.924,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_196",
+      "start_km": 101.51,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 5.2,
+      "elevation_delta_m": 17,
+      "end_km": 102.768,
+      "length_km": 0.333,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_197",
+      "start_km": 102.435,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 2.3,
+      "elevation_delta_m": 23,
+      "end_km": 103.769,
+      "length_km": 1.002,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_198",
+      "start_km": 102.768,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 0.3,
+      "elevation_delta_m": 2,
+      "end_km": 104.465,
+      "length_km": 0.695,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_199",
+      "start_km": 103.769,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 3.2,
+      "elevation_delta_m": 11,
+      "end_km": 104.818,
+      "length_km": 0.354,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_200",
+      "start_km": 104.465,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": -1.6,
+      "elevation_delta_m": -9,
+      "end_km": 105.384,
+      "length_km": 0.566,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_201",
+      "start_km": 104.818,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -3.6,
+      "elevation_delta_m": -33,
+      "end_km": 106.282,
+      "length_km": 0.898,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_202",
+      "start_km": 105.384,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -1.8,
+      "elevation_delta_m": -7,
+      "end_km": 106.68,
+      "length_km": 0.398,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_203",
+      "start_km": 106.282,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -4.9,
+      "elevation_delta_m": -57,
+      "end_km": 107.859,
+      "length_km": 1.179,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_204",
+      "start_km": 106.68,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -5.9,
+      "elevation_delta_m": -43,
+      "end_km": 108.577,
+      "length_km": 0.719,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_205",
+      "start_km": 107.859,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -2.3,
+      "elevation_delta_m": -10,
+      "end_km": 109.038,
+      "length_km": 0.46,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_206",
+      "start_km": 108.577,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -6.3,
+      "elevation_delta_m": -17,
+      "end_km": 109.308,
+      "length_km": 0.27,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_207",
+      "start_km": 109.038,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 0.3,
+      "elevation_delta_m": 1,
+      "end_km": 109.668,
+      "length_km": 0.36,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_208",
+      "start_km": 109.308,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -4.0,
+      "elevation_delta_m": -17,
+      "end_km": 110.09,
+      "length_km": 0.422,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_209",
+      "start_km": 109.668,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 0.2,
+      "elevation_delta_m": 0,
+      "end_km": 110.298,
+      "length_km": 0.208,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_210",
+      "start_km": 110.09,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -5.7,
+      "elevation_delta_m": -45,
+      "end_km": 111.076,
+      "length_km": 0.778,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_211",
+      "start_km": 110.298,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -7.9,
+      "elevation_delta_m": -35,
+      "end_km": 111.527,
+      "length_km": 0.451,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_212",
+      "start_km": 111.076,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -2.3,
+      "elevation_delta_m": -8,
+      "end_km": 111.865,
+      "length_km": 0.338,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_213",
+      "start_km": 111.527,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -0.7,
+      "elevation_delta_m": -2,
+      "end_km": 112.127,
+      "length_km": 0.263,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_214",
+      "start_km": 111.865,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -5.1,
+      "elevation_delta_m": -42,
+      "end_km": 112.955,
+      "length_km": 0.828,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_215",
+      "start_km": 112.127,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -3.0,
+      "elevation_delta_m": -32,
+      "end_km": 114.009,
+      "length_km": 1.054,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_216",
+      "start_km": 112.955,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -5.6,
+      "elevation_delta_m": -26,
+      "end_km": 114.47,
+      "length_km": 0.461,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_217",
+      "start_km": 114.009,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -2.3,
+      "elevation_delta_m": -8,
+      "end_km": 114.812,
+      "length_km": 0.342,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_218",
+      "start_km": 114.47,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -5.4,
+      "elevation_delta_m": -72,
+      "end_km": 116.145,
+      "length_km": 1.333,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_219",
+      "start_km": 114.812,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -1.2,
+      "elevation_delta_m": -5,
+      "end_km": 116.596,
+      "length_km": 0.451,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_220",
+      "start_km": 116.145,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -1.6,
+      "elevation_delta_m": -11,
+      "end_km": 117.261,
+      "length_km": 0.666,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_221",
+      "start_km": 116.596,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -5.1,
+      "elevation_delta_m": -33,
+      "end_km": 117.9,
+      "length_km": 0.638,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_222",
+      "start_km": 117.261,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -5.1,
+      "elevation_delta_m": -55,
+      "end_km": 118.974,
+      "length_km": 1.074,
+      "segment_id": "trf_10_callao_salvaje_telesferico_seg_223",
+      "start_km": 117.9,
+      "type": "descent"
+    }
+  ]
+}

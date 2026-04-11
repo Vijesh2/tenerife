@@ -1,0 +1,1256 @@
+{
+  "route_id": "trf_5_adeje_to_vilaflor_loop",
+  "segments": [
+    {
+      "avg_gradient_pct": -0.3,
+      "elevation_delta_m": -1,
+      "end_km": 0.259,
+      "length_km": 0.259,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_001",
+      "start_km": 0.0,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 6.2,
+      "elevation_delta_m": 61,
+      "end_km": 1.244,
+      "length_km": 0.984,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_002",
+      "start_km": 0.259,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 4.6,
+      "elevation_delta_m": 45,
+      "end_km": 2.205,
+      "length_km": 0.961,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_003",
+      "start_km": 1.244,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": -0.8,
+      "elevation_delta_m": -2,
+      "end_km": 2.486,
+      "length_km": 0.282,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_004",
+      "start_km": 2.205,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 3.3,
+      "elevation_delta_m": 48,
+      "end_km": 3.944,
+      "length_km": 1.457,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_005",
+      "start_km": 2.486,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 9.6,
+      "elevation_delta_m": 30,
+      "end_km": 4.252,
+      "length_km": 0.308,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_006",
+      "start_km": 3.944,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 1.7,
+      "elevation_delta_m": 5,
+      "end_km": 4.536,
+      "length_km": 0.284,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_007",
+      "start_km": 4.252,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 0.2,
+      "elevation_delta_m": 1,
+      "end_km": 4.921,
+      "length_km": 0.385,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_008",
+      "start_km": 4.536,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -1.4,
+      "elevation_delta_m": -3,
+      "end_km": 5.151,
+      "length_km": 0.23,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_009",
+      "start_km": 4.921,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -4.0,
+      "elevation_delta_m": -46,
+      "end_km": 6.295,
+      "length_km": 1.143,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_010",
+      "start_km": 5.151,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -4.7,
+      "elevation_delta_m": -20,
+      "end_km": 6.72,
+      "length_km": 0.426,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_011",
+      "start_km": 6.295,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -11.6,
+      "elevation_delta_m": -35,
+      "end_km": 7.022,
+      "length_km": 0.301,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_012",
+      "start_km": 6.72,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 0.5,
+      "elevation_delta_m": 2,
+      "end_km": 7.449,
+      "length_km": 0.427,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_013",
+      "start_km": 7.022,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -1.3,
+      "elevation_delta_m": -12,
+      "end_km": 8.402,
+      "length_km": 0.953,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_014",
+      "start_km": 7.449,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -2.7,
+      "elevation_delta_m": -19,
+      "end_km": 9.09,
+      "length_km": 0.688,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_015",
+      "start_km": 8.402,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 0.4,
+      "elevation_delta_m": 4,
+      "end_km": 10.091,
+      "length_km": 1.001,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_016",
+      "start_km": 9.09,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 4.6,
+      "elevation_delta_m": 54,
+      "end_km": 11.266,
+      "length_km": 1.175,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_017",
+      "start_km": 10.091,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": -1.1,
+      "elevation_delta_m": -6,
+      "end_km": 11.788,
+      "length_km": 0.522,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_018",
+      "start_km": 11.266,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -4.5,
+      "elevation_delta_m": -36,
+      "end_km": 12.596,
+      "length_km": 0.807,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_019",
+      "start_km": 11.788,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -7.2,
+      "elevation_delta_m": -23,
+      "end_km": 12.92,
+      "length_km": 0.324,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_020",
+      "start_km": 12.596,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -9.4,
+      "elevation_delta_m": -37,
+      "end_km": 13.315,
+      "length_km": 0.395,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_021",
+      "start_km": 12.92,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 1.1,
+      "elevation_delta_m": 10,
+      "end_km": 14.197,
+      "length_km": 0.882,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_022",
+      "start_km": 13.315,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 1.6,
+      "elevation_delta_m": 15,
+      "end_km": 15.133,
+      "length_km": 0.937,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_023",
+      "start_km": 14.197,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 7.0,
+      "elevation_delta_m": 39,
+      "end_km": 15.696,
+      "length_km": 0.563,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_024",
+      "start_km": 15.133,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.6,
+      "elevation_delta_m": 1,
+      "end_km": 15.898,
+      "length_km": 0.201,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_025",
+      "start_km": 15.696,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 17.3,
+      "elevation_delta_m": 37,
+      "end_km": 16.11,
+      "length_km": 0.212,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_026",
+      "start_km": 15.898,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 16.368,
+      "length_km": 0.258,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_027",
+      "start_km": 16.11,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 7.7,
+      "elevation_delta_m": 26,
+      "end_km": 16.708,
+      "length_km": 0.341,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_028",
+      "start_km": 16.368,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 6.0,
+      "elevation_delta_m": 97,
+      "end_km": 18.325,
+      "length_km": 1.617,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_029",
+      "start_km": 16.708,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 6.2,
+      "elevation_delta_m": 31,
+      "end_km": 18.818,
+      "length_km": 0.493,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_030",
+      "start_km": 18.325,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 4.7,
+      "elevation_delta_m": 54,
+      "end_km": 19.972,
+      "length_km": 1.154,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_031",
+      "start_km": 18.818,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.3,
+      "elevation_delta_m": 1,
+      "end_km": 20.407,
+      "length_km": 0.435,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_032",
+      "start_km": 19.972,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 8.7,
+      "elevation_delta_m": 30,
+      "end_km": 20.749,
+      "length_km": 0.342,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_033",
+      "start_km": 20.407,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 1.2,
+      "elevation_delta_m": 14,
+      "end_km": 21.932,
+      "length_km": 1.182,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_034",
+      "start_km": 20.749,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 1.4,
+      "elevation_delta_m": 11,
+      "end_km": 22.681,
+      "length_km": 0.749,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_035",
+      "start_km": 21.932,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 2.5,
+      "elevation_delta_m": 10,
+      "end_km": 23.08,
+      "length_km": 0.399,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_036",
+      "start_km": 22.681,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 1.3,
+      "elevation_delta_m": 6,
+      "end_km": 23.579,
+      "length_km": 0.499,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_037",
+      "start_km": 23.08,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 11.5,
+      "elevation_delta_m": 34,
+      "end_km": 23.877,
+      "length_km": 0.298,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_038",
+      "start_km": 23.579,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 24.245,
+      "length_km": 0.369,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_039",
+      "start_km": 23.877,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 28.8,
+      "elevation_delta_m": 59,
+      "end_km": 24.449,
+      "length_km": 0.203,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_040",
+      "start_km": 24.245,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.8,
+      "elevation_delta_m": 4,
+      "end_km": 24.93,
+      "length_km": 0.482,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_041",
+      "start_km": 24.449,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 4.9,
+      "elevation_delta_m": 31,
+      "end_km": 25.568,
+      "length_km": 0.638,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_042",
+      "start_km": 24.93,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.3,
+      "elevation_delta_m": 2,
+      "end_km": 26.063,
+      "length_km": 0.495,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_043",
+      "start_km": 25.568,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 13.6,
+      "elevation_delta_m": 45,
+      "end_km": 26.396,
+      "length_km": 0.333,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_044",
+      "start_km": 26.063,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": -1.7,
+      "elevation_delta_m": -10,
+      "end_km": 26.97,
+      "length_km": 0.574,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_045",
+      "start_km": 26.396,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 2.0,
+      "elevation_delta_m": 9,
+      "end_km": 27.409,
+      "length_km": 0.439,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_046",
+      "start_km": 26.97,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -0.0,
+      "elevation_delta_m": 0,
+      "end_km": 28.199,
+      "length_km": 0.79,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_047",
+      "start_km": 27.409,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 1.3,
+      "elevation_delta_m": 17,
+      "end_km": 29.558,
+      "length_km": 1.36,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_048",
+      "start_km": 28.199,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 2.5,
+      "elevation_delta_m": 16,
+      "end_km": 30.215,
+      "length_km": 0.657,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_049",
+      "start_km": 29.558,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 5.1,
+      "elevation_delta_m": 16,
+      "end_km": 30.527,
+      "length_km": 0.312,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_050",
+      "start_km": 30.215,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": -2.4,
+      "elevation_delta_m": -14,
+      "end_km": 31.114,
+      "length_km": 0.586,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_051",
+      "start_km": 30.527,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 11.7,
+      "elevation_delta_m": 24,
+      "end_km": 31.32,
+      "length_km": 0.206,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_052",
+      "start_km": 31.114,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 31.601,
+      "length_km": 0.281,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_053",
+      "start_km": 31.32,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -15.5,
+      "elevation_delta_m": -43,
+      "end_km": 31.874,
+      "length_km": 0.274,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_054",
+      "start_km": 31.601,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 3.4,
+      "elevation_delta_m": 25,
+      "end_km": 32.607,
+      "length_km": 0.732,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_055",
+      "start_km": 31.874,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": -0.2,
+      "elevation_delta_m": -1,
+      "end_km": 33.141,
+      "length_km": 0.534,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_056",
+      "start_km": 32.607,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 0.6,
+      "elevation_delta_m": 9,
+      "end_km": 34.735,
+      "length_km": 1.594,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_057",
+      "start_km": 33.141,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 1.1,
+      "elevation_delta_m": 4,
+      "end_km": 35.054,
+      "length_km": 0.319,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_058",
+      "start_km": 34.735,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 6.7,
+      "elevation_delta_m": 57,
+      "end_km": 35.906,
+      "length_km": 0.852,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_059",
+      "start_km": 35.054,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 4.8,
+      "elevation_delta_m": 31,
+      "end_km": 36.551,
+      "length_km": 0.644,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_060",
+      "start_km": 35.906,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 5.8,
+      "elevation_delta_m": 25,
+      "end_km": 36.982,
+      "length_km": 0.431,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_061",
+      "start_km": 36.551,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 13.6,
+      "elevation_delta_m": 32,
+      "end_km": 37.216,
+      "length_km": 0.235,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_062",
+      "start_km": 36.982,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 2.7,
+      "elevation_delta_m": 13,
+      "end_km": 37.691,
+      "length_km": 0.474,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_063",
+      "start_km": 37.216,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 6.2,
+      "elevation_delta_m": 31,
+      "end_km": 38.192,
+      "length_km": 0.501,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_064",
+      "start_km": 37.691,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 38.577,
+      "length_km": 0.385,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_065",
+      "start_km": 38.192,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 8.9,
+      "elevation_delta_m": 56,
+      "end_km": 39.204,
+      "length_km": 0.627,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_066",
+      "start_km": 38.577,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 39.58,
+      "length_km": 0.376,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_067",
+      "start_km": 39.204,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 21.7,
+      "elevation_delta_m": 43,
+      "end_km": 39.78,
+      "length_km": 0.2,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_068",
+      "start_km": 39.58,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 4.1,
+      "elevation_delta_m": 72,
+      "end_km": 41.538,
+      "length_km": 1.757,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_069",
+      "start_km": 39.78,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 6.8,
+      "elevation_delta_m": 55,
+      "end_km": 42.339,
+      "length_km": 0.801,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_070",
+      "start_km": 41.538,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": -0.2,
+      "elevation_delta_m": -1,
+      "end_km": 42.637,
+      "length_km": 0.298,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_071",
+      "start_km": 42.339,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 13.9,
+      "elevation_delta_m": 40,
+      "end_km": 42.925,
+      "length_km": 0.288,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_072",
+      "start_km": 42.637,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 3.6,
+      "elevation_delta_m": 13,
+      "end_km": 43.273,
+      "length_km": 0.348,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_073",
+      "start_km": 42.925,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 10.2,
+      "elevation_delta_m": 44,
+      "end_km": 43.705,
+      "length_km": 0.432,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_074",
+      "start_km": 43.273,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 3.1,
+      "elevation_delta_m": 11,
+      "end_km": 44.06,
+      "length_km": 0.355,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_075",
+      "start_km": 43.705,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 2.6,
+      "elevation_delta_m": 9,
+      "end_km": 44.408,
+      "length_km": 0.347,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_076",
+      "start_km": 44.06,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 5.3,
+      "elevation_delta_m": 66,
+      "end_km": 45.663,
+      "length_km": 1.255,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_077",
+      "start_km": 44.408,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 45.873,
+      "length_km": 0.21,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_078",
+      "start_km": 45.663,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 3.9,
+      "elevation_delta_m": 34,
+      "end_km": 46.736,
+      "length_km": 0.863,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_079",
+      "start_km": 45.873,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 5.5,
+      "elevation_delta_m": 29,
+      "end_km": 47.264,
+      "length_km": 0.527,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_080",
+      "start_km": 46.736,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 7.3,
+      "elevation_delta_m": 26,
+      "end_km": 47.625,
+      "length_km": 0.361,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_081",
+      "start_km": 47.264,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 3.8,
+      "elevation_delta_m": 18,
+      "end_km": 48.108,
+      "length_km": 0.483,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_082",
+      "start_km": 47.625,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 1.1,
+      "elevation_delta_m": 7,
+      "end_km": 48.772,
+      "length_km": 0.664,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_083",
+      "start_km": 48.108,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -4.6,
+      "elevation_delta_m": -16,
+      "end_km": 49.117,
+      "length_km": 0.345,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_084",
+      "start_km": 48.772,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -5.9,
+      "elevation_delta_m": -43,
+      "end_km": 49.846,
+      "length_km": 0.73,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_085",
+      "start_km": 49.117,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -6.7,
+      "elevation_delta_m": -56,
+      "end_km": 50.671,
+      "length_km": 0.824,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_086",
+      "start_km": 49.846,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -3.2,
+      "elevation_delta_m": -13,
+      "end_km": 51.075,
+      "length_km": 0.405,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_087",
+      "start_km": 50.671,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -5.1,
+      "elevation_delta_m": -19,
+      "end_km": 51.441,
+      "length_km": 0.366,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_088",
+      "start_km": 51.075,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -0.7,
+      "elevation_delta_m": -2,
+      "end_km": 51.702,
+      "length_km": 0.261,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_089",
+      "start_km": 51.441,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -3.9,
+      "elevation_delta_m": -28,
+      "end_km": 52.409,
+      "length_km": 0.707,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_090",
+      "start_km": 51.702,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -5.8,
+      "elevation_delta_m": -24,
+      "end_km": 52.829,
+      "length_km": 0.42,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_091",
+      "start_km": 52.409,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 53.058,
+      "length_km": 0.229,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_092",
+      "start_km": 52.829,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -19.3,
+      "elevation_delta_m": -64,
+      "end_km": 53.391,
+      "length_km": 0.333,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_093",
+      "start_km": 53.058,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -3.5,
+      "elevation_delta_m": -22,
+      "end_km": 54.014,
+      "length_km": 0.623,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_094",
+      "start_km": 53.391,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -5.1,
+      "elevation_delta_m": -71,
+      "end_km": 55.395,
+      "length_km": 1.382,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_095",
+      "start_km": 54.014,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -5.3,
+      "elevation_delta_m": -19,
+      "end_km": 55.753,
+      "length_km": 0.358,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_096",
+      "start_km": 55.395,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -5.2,
+      "elevation_delta_m": -16,
+      "end_km": 56.053,
+      "length_km": 0.3,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_097",
+      "start_km": 55.753,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -11.3,
+      "elevation_delta_m": -72,
+      "end_km": 56.693,
+      "length_km": 0.64,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_098",
+      "start_km": 56.053,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -5.7,
+      "elevation_delta_m": -54,
+      "end_km": 57.644,
+      "length_km": 0.951,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_099",
+      "start_km": 56.693,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -2.5,
+      "elevation_delta_m": -15,
+      "end_km": 58.229,
+      "length_km": 0.585,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_100",
+      "start_km": 57.644,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -10.4,
+      "elevation_delta_m": -54,
+      "end_km": 58.748,
+      "length_km": 0.519,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_101",
+      "start_km": 58.229,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -4.9,
+      "elevation_delta_m": -81,
+      "end_km": 60.381,
+      "length_km": 1.633,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_102",
+      "start_km": 58.748,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -7.4,
+      "elevation_delta_m": -74,
+      "end_km": 61.375,
+      "length_km": 0.993,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_103",
+      "start_km": 60.381,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -8.6,
+      "elevation_delta_m": -83,
+      "end_km": 62.336,
+      "length_km": 0.961,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_104",
+      "start_km": 61.375,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -7.6,
+      "elevation_delta_m": -30,
+      "end_km": 62.726,
+      "length_km": 0.39,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_105",
+      "start_km": 62.336,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -6.6,
+      "elevation_delta_m": -40,
+      "end_km": 63.342,
+      "length_km": 0.616,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_106",
+      "start_km": 62.726,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -8.4,
+      "elevation_delta_m": -52,
+      "end_km": 63.965,
+      "length_km": 0.623,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_107",
+      "start_km": 63.342,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -11.9,
+      "elevation_delta_m": -43,
+      "end_km": 64.324,
+      "length_km": 0.359,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_108",
+      "start_km": 63.965,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -6.4,
+      "elevation_delta_m": -42,
+      "end_km": 64.971,
+      "length_km": 0.647,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_109",
+      "start_km": 64.324,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -9.3,
+      "elevation_delta_m": -51,
+      "end_km": 65.524,
+      "length_km": 0.553,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_110",
+      "start_km": 64.971,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -11.1,
+      "elevation_delta_m": -34,
+      "end_km": 65.827,
+      "length_km": 0.303,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_111",
+      "start_km": 65.524,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -7.2,
+      "elevation_delta_m": -31,
+      "end_km": 66.252,
+      "length_km": 0.425,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_112",
+      "start_km": 65.827,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -6.6,
+      "elevation_delta_m": -50,
+      "end_km": 67.015,
+      "length_km": 0.763,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_113",
+      "start_km": 66.252,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -8.4,
+      "elevation_delta_m": -25,
+      "end_km": 67.31,
+      "length_km": 0.295,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_114",
+      "start_km": 67.015,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 67.568,
+      "length_km": 0.258,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_115",
+      "start_km": 67.31,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -17.3,
+      "elevation_delta_m": -37,
+      "end_km": 67.78,
+      "length_km": 0.212,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_116",
+      "start_km": 67.568,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -4.3,
+      "elevation_delta_m": -21,
+      "end_km": 68.264,
+      "length_km": 0.485,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_117",
+      "start_km": 67.78,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -4.7,
+      "elevation_delta_m": -47,
+      "end_km": 69.259,
+      "length_km": 0.995,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_118",
+      "start_km": 68.264,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 1.7,
+      "elevation_delta_m": 7,
+      "end_km": 69.671,
+      "length_km": 0.412,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_119",
+      "start_km": 69.259,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -2.1,
+      "elevation_delta_m": -8,
+      "end_km": 70.081,
+      "length_km": 0.41,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_120",
+      "start_km": 69.671,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 1.7,
+      "elevation_delta_m": 20,
+      "end_km": 71.219,
+      "length_km": 1.138,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_121",
+      "start_km": 70.081,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -2.0,
+      "elevation_delta_m": -12,
+      "end_km": 71.828,
+      "length_km": 0.609,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_122",
+      "start_km": 71.219,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 0.3,
+      "elevation_delta_m": 2,
+      "end_km": 72.596,
+      "length_km": 0.767,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_123",
+      "start_km": 71.828,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 1.6,
+      "elevation_delta_m": 10,
+      "end_km": 73.226,
+      "length_km": 0.63,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_124",
+      "start_km": 72.596,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 4.1,
+      "elevation_delta_m": 27,
+      "end_km": 73.891,
+      "length_km": 0.665,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_125",
+      "start_km": 73.226,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 4.1,
+      "elevation_delta_m": 20,
+      "end_km": 74.39,
+      "length_km": 0.499,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_126",
+      "start_km": 73.891,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 2.3,
+      "elevation_delta_m": 13,
+      "end_km": 74.96,
+      "length_km": 0.57,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_127",
+      "start_km": 74.39,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -0.3,
+      "elevation_delta_m": -1,
+      "end_km": 75.22,
+      "length_km": 0.261,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_128",
+      "start_km": 74.96,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -0.4,
+      "elevation_delta_m": -1,
+      "end_km": 75.631,
+      "length_km": 0.411,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_129",
+      "start_km": 75.22,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 7.8,
+      "elevation_delta_m": 35,
+      "end_km": 76.081,
+      "length_km": 0.45,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_130",
+      "start_km": 75.631,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 3.7,
+      "elevation_delta_m": 43,
+      "end_km": 77.253,
+      "length_km": 1.172,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_131",
+      "start_km": 76.081,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 3.1,
+      "elevation_delta_m": 14,
+      "end_km": 77.698,
+      "length_km": 0.444,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_132",
+      "start_km": 77.253,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 1.8,
+      "elevation_delta_m": 12,
+      "end_km": 78.387,
+      "length_km": 0.689,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_133",
+      "start_km": 77.698,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -1.4,
+      "elevation_delta_m": -5,
+      "end_km": 78.767,
+      "length_km": 0.38,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_134",
+      "start_km": 78.387,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -5.5,
+      "elevation_delta_m": -72,
+      "end_km": 80.085,
+      "length_km": 1.319,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_135",
+      "start_km": 78.767,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -1.3,
+      "elevation_delta_m": -6,
+      "end_km": 80.518,
+      "length_km": 0.433,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_136",
+      "start_km": 80.085,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -1.5,
+      "elevation_delta_m": -10,
+      "end_km": 81.202,
+      "length_km": 0.684,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_137",
+      "start_km": 80.518,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -5.2,
+      "elevation_delta_m": -32,
+      "end_km": 81.814,
+      "length_km": 0.612,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_138",
+      "start_km": 81.202,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -6.3,
+      "elevation_delta_m": -55,
+      "end_km": 82.692,
+      "length_km": 0.878,
+      "segment_id": "trf_5_adeje_to_vilaflor_loop_seg_139",
+      "start_km": 81.814,
+      "type": "descent"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "trf_10_callao_salvaje_telesferico": {
+    "climbs_file": "climbs/trf_10_callao_salvaje_telesferico.json",
+    "detail_geometry_file": "routes_detail/trf_10_callao_salvaje_telesferico.geojson",
+    "geometry_file": "routes/trf_10_callao_salvaje_telesferico.geojson",
+    "preview_geometry_file": "routes_preview/trf_10_callao_salvaje_telesferico.geojson",
+    "profile_file": "profiles/trf_10_callao_salvaje_telesferico.json",
+    "segments_file": "segments/trf_10_callao_salvaje_telesferico.json"
+  },
+  "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos": {
+    "climbs_file": "climbs/trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos.json",
+    "detail_geometry_file": "routes_detail/trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos.geojson",
+    "geometry_file": "routes/trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos.geojson",
+    "preview_geometry_file": "routes_preview/trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos.geojson",
+    "profile_file": "profiles/trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos.json",
+    "segments_file": "segments/trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos.json"
+  },
+  "trf_1_adeje_west_coast_and_masca_valley": {
+    "climbs_file": "climbs/trf_1_adeje_west_coast_and_masca_valley.json",
+    "detail_geometry_file": "routes_detail/trf_1_adeje_west_coast_and_masca_valley.geojson",
+    "geometry_file": "routes/trf_1_adeje_west_coast_and_masca_valley.geojson",
+    "preview_geometry_file": "routes_preview/trf_1_adeje_west_coast_and_masca_valley.geojson",
+    "profile_file": "profiles/trf_1_adeje_west_coast_and_masca_valley.json",
+    "segments_file": "segments/trf_1_adeje_west_coast_and_masca_valley.json"
+  },
+  "trf_2_adeje_best_of_the_south_ride": {
+    "climbs_file": "climbs/trf_2_adeje_best_of_the_south_ride.json",
+    "detail_geometry_file": "routes_detail/trf_2_adeje_best_of_the_south_ride.geojson",
+    "geometry_file": "routes/trf_2_adeje_best_of_the_south_ride.geojson",
+    "preview_geometry_file": "routes_preview/trf_2_adeje_best_of_the_south_ride.geojson",
+    "profile_file": "profiles/trf_2_adeje_best_of_the_south_ride.json",
+    "segments_file": "segments/trf_2_adeje_best_of_the_south_ride.json"
+  },
+  "trf_3_adeje_to_teide_from_east_side": {
+    "climbs_file": "climbs/trf_3_adeje_to_teide_from_east_side.json",
+    "detail_geometry_file": "routes_detail/trf_3_adeje_to_teide_from_east_side.geojson",
+    "geometry_file": "routes/trf_3_adeje_to_teide_from_east_side.geojson",
+    "preview_geometry_file": "routes_preview/trf_3_adeje_to_teide_from_east_side.geojson",
+    "profile_file": "profiles/trf_3_adeje_to_teide_from_east_side.json",
+    "segments_file": "segments/trf_3_adeje_to_teide_from_east_side.json"
+  },
+  "trf_4_adeje_to_teide_from_south_side": {
+    "climbs_file": "climbs/trf_4_adeje_to_teide_from_south_side.json",
+    "detail_geometry_file": "routes_detail/trf_4_adeje_to_teide_from_south_side.geojson",
+    "geometry_file": "routes/trf_4_adeje_to_teide_from_south_side.geojson",
+    "preview_geometry_file": "routes_preview/trf_4_adeje_to_teide_from_south_side.geojson",
+    "profile_file": "profiles/trf_4_adeje_to_teide_from_south_side.json",
+    "segments_file": "segments/trf_4_adeje_to_teide_from_south_side.json"
+  },
+  "trf_5_adeje_to_vilaflor_loop": {
+    "climbs_file": "climbs/trf_5_adeje_to_vilaflor_loop.json",
+    "detail_geometry_file": "routes_detail/trf_5_adeje_to_vilaflor_loop.geojson",
+    "geometry_file": "routes/trf_5_adeje_to_vilaflor_loop.geojson",
+    "preview_geometry_file": "routes_preview/trf_5_adeje_to_vilaflor_loop.geojson",
+    "profile_file": "profiles/trf_5_adeje_to_vilaflor_loop.json",
+    "segments_file": "segments/trf_5_adeje_to_vilaflor_loop.json"
+  },
+  "trf_6_bike_point_mynd_adeje_los_gigantes_route": {
+    "climbs_file": "climbs/trf_6_bike_point_mynd_adeje_los_gigantes_route.json",
+    "detail_geometry_file": "routes_detail/trf_6_bike_point_mynd_adeje_los_gigantes_route.geojson",
+    "geometry_file": "routes/trf_6_bike_point_mynd_adeje_los_gigantes_route.geojson",
+    "preview_geometry_file": "routes_preview/trf_6_bike_point_mynd_adeje_los_gigantes_route.geojson",
+    "profile_file": "profiles/trf_6_bike_point_mynd_adeje_los_gigantes_route.json",
+    "segments_file": "segments/trf_6_bike_point_mynd_adeje_los_gigantes_route.json"
+  },
+  "trf_7_bike_point_mynd_adeje_santiago_route": {
+    "climbs_file": "climbs/trf_7_bike_point_mynd_adeje_santiago_route.json",
+    "detail_geometry_file": "routes_detail/trf_7_bike_point_mynd_adeje_santiago_route.geojson",
+    "geometry_file": "routes/trf_7_bike_point_mynd_adeje_santiago_route.geojson",
+    "preview_geometry_file": "routes_preview/trf_7_bike_point_mynd_adeje_santiago_route.geojson",
+    "profile_file": "profiles/trf_7_bike_point_mynd_adeje_santiago_route.json",
+    "segments_file": "segments/trf_7_bike_point_mynd_adeje_santiago_route.json"
+  },
+  "trf_8_bike_point_mynd_adeje_teide_round_route": {
+    "climbs_file": "climbs/trf_8_bike_point_mynd_adeje_teide_round_route.json",
+    "detail_geometry_file": "routes_detail/trf_8_bike_point_mynd_adeje_teide_round_route.geojson",
+    "geometry_file": "routes/trf_8_bike_point_mynd_adeje_teide_round_route.geojson",
+    "preview_geometry_file": "routes_preview/trf_8_bike_point_mynd_adeje_teide_round_route.geojson",
+    "profile_file": "profiles/trf_8_bike_point_mynd_adeje_teide_round_route.json",
+    "segments_file": "segments/trf_8_bike_point_mynd_adeje_teide_round_route.json"
+  },
+  "trf_9_bike_point_mynd_adeje_banana_climb_route": {
+    "climbs_file": "climbs/trf_9_bike_point_mynd_adeje_banana_climb_route.json",
+    "detail_geometry_file": "routes_detail/trf_9_bike_point_mynd_adeje_banana_climb_route.geojson",
+    "geometry_file": "routes/trf_9_bike_point_mynd_adeje_banana_climb_route.geojson",
+    "preview_geometry_file": "routes_preview/trf_9_bike_point_mynd_adeje_banana_climb_route.geojson",
+    "profile_file": "profiles/trf_9_bike_point_mynd_adeje_banana_climb_route.json",
+    "segments_file": "segments/trf_9_bike_point_mynd_adeje_banana_climb_route.json"
+  }
+}

@@ -1,0 +1,1229 @@
+{
+  "route_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos",
+  "segments": [
+    {
+      "avg_gradient_pct": -1.2,
+      "elevation_delta_m": -4,
+      "end_km": 0.304,
+      "length_km": 0.304,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_001",
+      "start_km": 0.0,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 2.8,
+      "elevation_delta_m": 18,
+      "end_km": 0.931,
+      "length_km": 0.628,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_002",
+      "start_km": 0.304,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 6.6,
+      "elevation_delta_m": 85,
+      "end_km": 2.231,
+      "length_km": 1.3,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_003",
+      "start_km": 0.931,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 3.3,
+      "elevation_delta_m": 48,
+      "end_km": 3.688,
+      "length_km": 1.457,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_004",
+      "start_km": 2.231,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 9.6,
+      "elevation_delta_m": 30,
+      "end_km": 3.996,
+      "length_km": 0.308,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_005",
+      "start_km": 3.688,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 1.7,
+      "elevation_delta_m": 5,
+      "end_km": 4.281,
+      "length_km": 0.284,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_006",
+      "start_km": 3.996,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 0.7,
+      "elevation_delta_m": 4,
+      "end_km": 4.821,
+      "length_km": 0.541,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_007",
+      "start_km": 4.281,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -4.4,
+      "elevation_delta_m": -38,
+      "end_km": 5.69,
+      "length_km": 0.869,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_008",
+      "start_km": 4.821,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -4.4,
+      "elevation_delta_m": -34,
+      "end_km": 6.456,
+      "length_km": 0.766,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_009",
+      "start_km": 5.69,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -11.6,
+      "elevation_delta_m": -35,
+      "end_km": 6.757,
+      "length_km": 0.301,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_010",
+      "start_km": 6.456,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 0.5,
+      "elevation_delta_m": 2,
+      "end_km": 7.185,
+      "length_km": 0.427,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_011",
+      "start_km": 6.757,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -1.3,
+      "elevation_delta_m": -12,
+      "end_km": 8.138,
+      "length_km": 0.953,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_012",
+      "start_km": 7.185,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -3.9,
+      "elevation_delta_m": -44,
+      "end_km": 9.275,
+      "length_km": 1.137,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_013",
+      "start_km": 8.138,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -3.2,
+      "elevation_delta_m": -17,
+      "end_km": 9.795,
+      "length_km": 0.519,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_014",
+      "start_km": 9.275,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -1.3,
+      "elevation_delta_m": -7,
+      "end_km": 10.32,
+      "length_km": 0.526,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_015",
+      "start_km": 9.795,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -1.0,
+      "elevation_delta_m": -9,
+      "end_km": 11.259,
+      "length_km": 0.938,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_016",
+      "start_km": 10.32,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 0.6,
+      "elevation_delta_m": 2,
+      "end_km": 11.636,
+      "length_km": 0.377,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_017",
+      "start_km": 11.259,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 1.0,
+      "elevation_delta_m": 14,
+      "end_km": 12.954,
+      "length_km": 1.318,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_018",
+      "start_km": 11.636,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -0.6,
+      "elevation_delta_m": -2,
+      "end_km": 13.326,
+      "length_km": 0.372,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_019",
+      "start_km": 12.954,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 1.1,
+      "elevation_delta_m": 10,
+      "end_km": 14.208,
+      "length_km": 0.882,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_020",
+      "start_km": 13.326,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 1.3,
+      "elevation_delta_m": 12,
+      "end_km": 15.152,
+      "length_km": 0.944,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_021",
+      "start_km": 14.208,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -1.0,
+      "elevation_delta_m": -3,
+      "end_km": 15.46,
+      "length_km": 0.308,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_022",
+      "start_km": 15.152,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -13.0,
+      "elevation_delta_m": -32,
+      "end_km": 15.703,
+      "length_km": 0.243,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_023",
+      "start_km": 15.46,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 2.0,
+      "elevation_delta_m": 22,
+      "end_km": 16.811,
+      "length_km": 1.108,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_024",
+      "start_km": 15.703,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 6.7,
+      "elevation_delta_m": 55,
+      "end_km": 17.63,
+      "length_km": 0.819,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_025",
+      "start_km": 16.811,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 4.1,
+      "elevation_delta_m": 46,
+      "end_km": 18.755,
+      "length_km": 1.125,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_026",
+      "start_km": 17.63,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": -5.8,
+      "elevation_delta_m": -21,
+      "end_km": 19.118,
+      "length_km": 0.363,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_027",
+      "start_km": 18.755,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -0.2,
+      "elevation_delta_m": -1,
+      "end_km": 19.643,
+      "length_km": 0.525,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_028",
+      "start_km": 19.118,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -6.9,
+      "elevation_delta_m": -20,
+      "end_km": 19.926,
+      "length_km": 0.283,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_029",
+      "start_km": 19.643,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -1.3,
+      "elevation_delta_m": -9,
+      "end_km": 20.609,
+      "length_km": 0.682,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_030",
+      "start_km": 19.926,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -0.2,
+      "elevation_delta_m": -1,
+      "end_km": 20.888,
+      "length_km": 0.28,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_031",
+      "start_km": 20.609,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -6.8,
+      "elevation_delta_m": -19,
+      "end_km": 21.167,
+      "length_km": 0.279,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_032",
+      "start_km": 20.888,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -1.4,
+      "elevation_delta_m": -8,
+      "end_km": 21.763,
+      "length_km": 0.595,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_033",
+      "start_km": 21.167,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -2.1,
+      "elevation_delta_m": -7,
+      "end_km": 22.097,
+      "length_km": 0.335,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_034",
+      "start_km": 21.763,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -2.2,
+      "elevation_delta_m": -13,
+      "end_km": 22.696,
+      "length_km": 0.599,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_035",
+      "start_km": 22.097,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -1.3,
+      "elevation_delta_m": -15,
+      "end_km": 23.809,
+      "length_km": 1.112,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_036",
+      "start_km": 22.696,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -1.1,
+      "elevation_delta_m": -17,
+      "end_km": 25.32,
+      "length_km": 1.511,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_037",
+      "start_km": 23.809,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -1.8,
+      "elevation_delta_m": -22,
+      "end_km": 26.547,
+      "length_km": 1.226,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_038",
+      "start_km": 25.32,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -0.2,
+      "elevation_delta_m": -1,
+      "end_km": 26.953,
+      "length_km": 0.406,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_039",
+      "start_km": 26.547,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 0.4,
+      "elevation_delta_m": 3,
+      "end_km": 27.803,
+      "length_km": 0.85,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_040",
+      "start_km": 26.953,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 2.2,
+      "elevation_delta_m": 11,
+      "end_km": 28.297,
+      "length_km": 0.494,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_041",
+      "start_km": 27.803,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 2.5,
+      "elevation_delta_m": 21,
+      "end_km": 29.126,
+      "length_km": 0.829,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_042",
+      "start_km": 28.297,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 2.7,
+      "elevation_delta_m": 21,
+      "end_km": 29.912,
+      "length_km": 0.786,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_043",
+      "start_km": 29.126,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 2.6,
+      "elevation_delta_m": 14,
+      "end_km": 30.454,
+      "length_km": 0.542,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_044",
+      "start_km": 29.912,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -0.3,
+      "elevation_delta_m": -1,
+      "end_km": 30.79,
+      "length_km": 0.336,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_045",
+      "start_km": 30.454,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -0.1,
+      "elevation_delta_m": -1,
+      "end_km": 31.829,
+      "length_km": 1.039,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_046",
+      "start_km": 30.79,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 3.2,
+      "elevation_delta_m": 16,
+      "end_km": 32.324,
+      "length_km": 0.495,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_047",
+      "start_km": 31.829,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 5.2,
+      "elevation_delta_m": 13,
+      "end_km": 32.573,
+      "length_km": 0.248,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_048",
+      "start_km": 32.324,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.4,
+      "elevation_delta_m": 2,
+      "end_km": 33.123,
+      "length_km": 0.55,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_049",
+      "start_km": 32.573,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 8.0,
+      "elevation_delta_m": 21,
+      "end_km": 33.391,
+      "length_km": 0.268,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_050",
+      "start_km": 33.123,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 1.3,
+      "elevation_delta_m": 4,
+      "end_km": 33.659,
+      "length_km": 0.268,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_051",
+      "start_km": 33.391,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 1.3,
+      "elevation_delta_m": 6,
+      "end_km": 34.099,
+      "length_km": 0.44,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_052",
+      "start_km": 33.659,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 4.9,
+      "elevation_delta_m": 11,
+      "end_km": 34.318,
+      "length_km": 0.218,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_053",
+      "start_km": 34.099,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": -1.3,
+      "elevation_delta_m": -11,
+      "end_km": 35.138,
+      "length_km": 0.82,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_054",
+      "start_km": 34.318,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -1.5,
+      "elevation_delta_m": -14,
+      "end_km": 36.096,
+      "length_km": 0.958,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_055",
+      "start_km": 35.138,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -5.0,
+      "elevation_delta_m": -74,
+      "end_km": 37.558,
+      "length_km": 1.462,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_056",
+      "start_km": 36.096,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -5.8,
+      "elevation_delta_m": -27,
+      "end_km": 38.031,
+      "length_km": 0.473,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_057",
+      "start_km": 37.558,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -0.4,
+      "elevation_delta_m": -2,
+      "end_km": 38.505,
+      "length_km": 0.474,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_058",
+      "start_km": 38.031,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -0.3,
+      "elevation_delta_m": -1,
+      "end_km": 38.941,
+      "length_km": 0.436,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_059",
+      "start_km": 38.505,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -0.4,
+      "elevation_delta_m": -5,
+      "end_km": 40.125,
+      "length_km": 1.184,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_060",
+      "start_km": 38.941,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 0.2,
+      "elevation_delta_m": 2,
+      "end_km": 41.527,
+      "length_km": 1.402,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_061",
+      "start_km": 40.125,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -0.4,
+      "elevation_delta_m": -5,
+      "end_km": 42.729,
+      "length_km": 1.202,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_062",
+      "start_km": 41.527,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -0.3,
+      "elevation_delta_m": -3,
+      "end_km": 43.814,
+      "length_km": 1.085,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_063",
+      "start_km": 42.729,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 3.9,
+      "elevation_delta_m": 18,
+      "end_km": 44.275,
+      "length_km": 0.461,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_064",
+      "start_km": 43.814,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 2.8,
+      "elevation_delta_m": 13,
+      "end_km": 44.744,
+      "length_km": 0.469,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_065",
+      "start_km": 44.275,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -0.0,
+      "elevation_delta_m": 0,
+      "end_km": 45.083,
+      "length_km": 0.339,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_066",
+      "start_km": 44.744,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 5.9,
+      "elevation_delta_m": 62,
+      "end_km": 46.13,
+      "length_km": 1.047,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_067",
+      "start_km": 45.083,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 1.3,
+      "elevation_delta_m": 5,
+      "end_km": 46.491,
+      "length_km": 0.361,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_068",
+      "start_km": 46.13,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 3.8,
+      "elevation_delta_m": 24,
+      "end_km": 47.121,
+      "length_km": 0.63,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_069",
+      "start_km": 46.491,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 6.5,
+      "elevation_delta_m": 64,
+      "end_km": 48.115,
+      "length_km": 0.994,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_070",
+      "start_km": 47.121,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 5.6,
+      "elevation_delta_m": 22,
+      "end_km": 48.502,
+      "length_km": 0.387,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_071",
+      "start_km": 48.115,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 3.3,
+      "elevation_delta_m": 15,
+      "end_km": 48.945,
+      "length_km": 0.443,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_072",
+      "start_km": 48.502,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 5.8,
+      "elevation_delta_m": 63,
+      "end_km": 50.025,
+      "length_km": 1.08,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_073",
+      "start_km": 48.945,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 9.3,
+      "elevation_delta_m": 87,
+      "end_km": 50.959,
+      "length_km": 0.934,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_074",
+      "start_km": 50.025,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 6.4,
+      "elevation_delta_m": 46,
+      "end_km": 51.685,
+      "length_km": 0.726,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_075",
+      "start_km": 50.959,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 8.1,
+      "elevation_delta_m": 52,
+      "end_km": 52.328,
+      "length_km": 0.642,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_076",
+      "start_km": 51.685,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 5.8,
+      "elevation_delta_m": 52,
+      "end_km": 53.216,
+      "length_km": 0.889,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_077",
+      "start_km": 52.328,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 9.6,
+      "elevation_delta_m": 53,
+      "end_km": 53.775,
+      "length_km": 0.559,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_078",
+      "start_km": 53.216,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 6.0,
+      "elevation_delta_m": 76,
+      "end_km": 55.054,
+      "length_km": 1.279,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_079",
+      "start_km": 53.775,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": -0.5,
+      "elevation_delta_m": -5,
+      "end_km": 55.977,
+      "length_km": 0.923,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_080",
+      "start_km": 55.054,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -1.0,
+      "elevation_delta_m": -11,
+      "end_km": 57.059,
+      "length_km": 1.081,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_081",
+      "start_km": 55.977,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -3.0,
+      "elevation_delta_m": -22,
+      "end_km": 57.779,
+      "length_km": 0.72,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_082",
+      "start_km": 57.059,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 58.141,
+      "length_km": 0.362,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_083",
+      "start_km": 57.779,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 15.3,
+      "elevation_delta_m": 43,
+      "end_km": 58.419,
+      "length_km": 0.278,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_084",
+      "start_km": 58.141,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 58.768,
+      "length_km": 0.349,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_085",
+      "start_km": 58.419,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -1.8,
+      "elevation_delta_m": -9,
+      "end_km": 59.284,
+      "length_km": 0.516,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_086",
+      "start_km": 58.768,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -0.2,
+      "elevation_delta_m": -1,
+      "end_km": 59.561,
+      "length_km": 0.277,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_087",
+      "start_km": 59.284,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -3.7,
+      "elevation_delta_m": -27,
+      "end_km": 60.297,
+      "length_km": 0.736,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_088",
+      "start_km": 59.561,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -1.5,
+      "elevation_delta_m": -20,
+      "end_km": 61.582,
+      "length_km": 1.285,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_089",
+      "start_km": 60.297,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 0.4,
+      "elevation_delta_m": 3,
+      "end_km": 62.37,
+      "length_km": 0.788,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_090",
+      "start_km": 61.582,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -2.0,
+      "elevation_delta_m": -6,
+      "end_km": 62.7,
+      "length_km": 0.33,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_091",
+      "start_km": 62.37,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 0.2,
+      "elevation_delta_m": 1,
+      "end_km": 63.389,
+      "length_km": 0.689,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_092",
+      "start_km": 62.7,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 0.3,
+      "elevation_delta_m": 1,
+      "end_km": 63.691,
+      "length_km": 0.302,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_093",
+      "start_km": 63.389,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -13.6,
+      "elevation_delta_m": -45,
+      "end_km": 64.025,
+      "length_km": 0.333,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_094",
+      "start_km": 63.691,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -1.3,
+      "elevation_delta_m": -11,
+      "end_km": 64.85,
+      "length_km": 0.826,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_095",
+      "start_km": 64.025,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -5.2,
+      "elevation_delta_m": -26,
+      "end_km": 65.357,
+      "length_km": 0.506,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_096",
+      "start_km": 64.85,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 65.638,
+      "length_km": 0.281,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_097",
+      "start_km": 65.357,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -28.8,
+      "elevation_delta_m": -59,
+      "end_km": 65.841,
+      "length_km": 0.203,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_098",
+      "start_km": 65.638,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 66.184,
+      "length_km": 0.343,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_099",
+      "start_km": 65.841,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -7.3,
+      "elevation_delta_m": -40,
+      "end_km": 66.73,
+      "length_km": 0.546,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_100",
+      "start_km": 66.184,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -0.9,
+      "elevation_delta_m": -3,
+      "end_km": 67.037,
+      "length_km": 0.306,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_101",
+      "start_km": 66.73,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -2.4,
+      "elevation_delta_m": -14,
+      "end_km": 67.604,
+      "length_km": 0.568,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_102",
+      "start_km": 67.037,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -1.8,
+      "elevation_delta_m": -16,
+      "end_km": 68.473,
+      "length_km": 0.869,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_103",
+      "start_km": 67.604,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -0.3,
+      "elevation_delta_m": -3,
+      "end_km": 69.318,
+      "length_km": 0.845,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_104",
+      "start_km": 68.473,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -8.7,
+      "elevation_delta_m": -30,
+      "end_km": 69.661,
+      "length_km": 0.342,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_105",
+      "start_km": 69.318,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -1.6,
+      "elevation_delta_m": -19,
+      "end_km": 70.838,
+      "length_km": 1.178,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_106",
+      "start_km": 69.661,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -7.4,
+      "elevation_delta_m": -47,
+      "end_km": 71.475,
+      "length_km": 0.637,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_107",
+      "start_km": 70.838,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -5.9,
+      "elevation_delta_m": -40,
+      "end_km": 72.154,
+      "length_km": 0.678,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_108",
+      "start_km": 71.475,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -6.4,
+      "elevation_delta_m": -79,
+      "end_km": 73.395,
+      "length_km": 1.242,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_109",
+      "start_km": 72.154,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -8.4,
+      "elevation_delta_m": -25,
+      "end_km": 73.69,
+      "length_km": 0.295,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_110",
+      "start_km": 73.395,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 73.948,
+      "length_km": 0.258,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_111",
+      "start_km": 73.69,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -8.3,
+      "elevation_delta_m": -58,
+      "end_km": 74.645,
+      "length_km": 0.697,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_112",
+      "start_km": 73.948,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -4.7,
+      "elevation_delta_m": -47,
+      "end_km": 75.64,
+      "length_km": 0.995,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_113",
+      "start_km": 74.645,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 0.6,
+      "elevation_delta_m": 3,
+      "end_km": 76.229,
+      "length_km": 0.59,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_114",
+      "start_km": 75.64,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -1.8,
+      "elevation_delta_m": -10,
+      "end_km": 76.794,
+      "length_km": 0.565,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_115",
+      "start_km": 76.229,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 1.0,
+      "elevation_delta_m": 11,
+      "end_km": 77.939,
+      "length_km": 1.145,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_116",
+      "start_km": 76.794,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 0.4,
+      "elevation_delta_m": 3,
+      "end_km": 78.73,
+      "length_km": 0.791,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_117",
+      "start_km": 77.939,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 1.6,
+      "elevation_delta_m": 10,
+      "end_km": 79.36,
+      "length_km": 0.63,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_118",
+      "start_km": 78.73,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 4.1,
+      "elevation_delta_m": 27,
+      "end_km": 80.025,
+      "length_km": 0.665,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_119",
+      "start_km": 79.36,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 4.1,
+      "elevation_delta_m": 20,
+      "end_km": 80.524,
+      "length_km": 0.499,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_120",
+      "start_km": 80.025,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 2.3,
+      "elevation_delta_m": 13,
+      "end_km": 81.094,
+      "length_km": 0.57,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_121",
+      "start_km": 80.524,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -0.4,
+      "elevation_delta_m": -1,
+      "end_km": 81.355,
+      "length_km": 0.261,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_122",
+      "start_km": 81.094,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -0.4,
+      "elevation_delta_m": -1,
+      "end_km": 81.765,
+      "length_km": 0.411,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_123",
+      "start_km": 81.355,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 7.8,
+      "elevation_delta_m": 35,
+      "end_km": 82.215,
+      "length_km": 0.45,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_124",
+      "start_km": 81.765,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 9.0,
+      "elevation_delta_m": 26,
+      "end_km": 82.499,
+      "length_km": 0.284,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_125",
+      "start_km": 82.215,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.3,
+      "elevation_delta_m": 1,
+      "end_km": 82.815,
+      "length_km": 0.316,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_126",
+      "start_km": 82.499,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 4.5,
+      "elevation_delta_m": 32,
+      "end_km": 83.522,
+      "length_km": 0.707,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_127",
+      "start_km": 82.815,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 5.7,
+      "elevation_delta_m": 25,
+      "end_km": 83.962,
+      "length_km": 0.44,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_128",
+      "start_km": 83.522,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": -2.5,
+      "elevation_delta_m": -12,
+      "end_km": 84.452,
+      "length_km": 0.49,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_129",
+      "start_km": 83.962,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -2.2,
+      "elevation_delta_m": -8,
+      "end_km": 84.805,
+      "length_km": 0.353,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_130",
+      "start_km": 84.452,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -5.6,
+      "elevation_delta_m": -61,
+      "end_km": 85.902,
+      "length_km": 1.097,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_131",
+      "start_km": 84.805,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -5.5,
+      "elevation_delta_m": -12,
+      "end_km": 86.124,
+      "length_km": 0.222,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_132",
+      "start_km": 85.902,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -0.8,
+      "elevation_delta_m": -4,
+      "end_km": 86.557,
+      "length_km": 0.433,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_133",
+      "start_km": 86.124,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -1.6,
+      "elevation_delta_m": -11,
+      "end_km": 87.241,
+      "length_km": 0.684,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_134",
+      "start_km": 86.557,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -5.3,
+      "elevation_delta_m": -32,
+      "end_km": 87.852,
+      "length_km": 0.612,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_135",
+      "start_km": 87.241,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -4.8,
+      "elevation_delta_m": -54,
+      "end_km": 88.986,
+      "length_km": 1.133,
+      "segment_id": "trf_11_adeje_through_las_galletas_el_m_dano_san_isidro_granadilla_de_abona_and_los_cristianos_seg_136",
+      "start_km": 87.852,
+      "type": "descent"
+    }
+  ]
+}

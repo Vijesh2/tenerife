@@ -1,0 +1,1643 @@
+{
+  "route_id": "trf_8_bike_point_mynd_adeje_teide_round_route",
+  "segments": [
+    {
+      "avg_gradient_pct": -1.1,
+      "elevation_delta_m": -4,
+      "end_km": 0.4,
+      "length_km": 0.4,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_001",
+      "start_km": 0.0,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 6.2,
+      "elevation_delta_m": 61,
+      "end_km": 1.384,
+      "length_km": 0.984,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_002",
+      "start_km": 0.4,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 4.6,
+      "elevation_delta_m": 45,
+      "end_km": 2.345,
+      "length_km": 0.961,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_003",
+      "start_km": 1.384,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": -0.8,
+      "elevation_delta_m": -2,
+      "end_km": 2.627,
+      "length_km": 0.282,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_004",
+      "start_km": 2.345,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 3.3,
+      "elevation_delta_m": 48,
+      "end_km": 4.085,
+      "length_km": 1.457,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_005",
+      "start_km": 2.627,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 9.6,
+      "elevation_delta_m": 30,
+      "end_km": 4.392,
+      "length_km": 0.308,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_006",
+      "start_km": 4.085,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 1.7,
+      "elevation_delta_m": 5,
+      "end_km": 4.677,
+      "length_km": 0.284,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_007",
+      "start_km": 4.392,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 0.2,
+      "elevation_delta_m": 1,
+      "end_km": 5.062,
+      "length_km": 0.385,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_008",
+      "start_km": 4.677,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -1.4,
+      "elevation_delta_m": -3,
+      "end_km": 5.292,
+      "length_km": 0.23,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_009",
+      "start_km": 5.062,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -4.0,
+      "elevation_delta_m": -46,
+      "end_km": 6.435,
+      "length_km": 1.143,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_010",
+      "start_km": 5.292,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -4.7,
+      "elevation_delta_m": -20,
+      "end_km": 6.861,
+      "length_km": 0.426,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_011",
+      "start_km": 6.435,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -11.6,
+      "elevation_delta_m": -35,
+      "end_km": 7.163,
+      "length_km": 0.301,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_012",
+      "start_km": 6.861,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 0.5,
+      "elevation_delta_m": 2,
+      "end_km": 7.59,
+      "length_km": 0.427,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_013",
+      "start_km": 7.163,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -1.3,
+      "elevation_delta_m": -12,
+      "end_km": 8.543,
+      "length_km": 0.953,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_014",
+      "start_km": 7.59,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -3.9,
+      "elevation_delta_m": -43,
+      "end_km": 9.627,
+      "length_km": 1.084,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_015",
+      "start_km": 8.543,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -2.2,
+      "elevation_delta_m": -24,
+      "end_km": 10.729,
+      "length_km": 1.103,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_016",
+      "start_km": 9.627,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -1.1,
+      "elevation_delta_m": -10,
+      "end_km": 11.668,
+      "length_km": 0.938,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_017",
+      "start_km": 10.729,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 0.5,
+      "elevation_delta_m": 2,
+      "end_km": 12.062,
+      "length_km": 0.395,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_018",
+      "start_km": 11.668,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -0.0,
+      "elevation_delta_m": 0,
+      "end_km": 13.351,
+      "length_km": 1.289,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_019",
+      "start_km": 12.062,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 4.9,
+      "elevation_delta_m": 22,
+      "end_km": 13.8,
+      "length_km": 0.448,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_020",
+      "start_km": 13.351,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 1.6,
+      "elevation_delta_m": 15,
+      "end_km": 14.736,
+      "length_km": 0.937,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_021",
+      "start_km": 13.8,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 6.9,
+      "elevation_delta_m": 39,
+      "end_km": 15.299,
+      "length_km": 0.563,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_022",
+      "start_km": 14.736,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.6,
+      "elevation_delta_m": 1,
+      "end_km": 15.501,
+      "length_km": 0.201,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_023",
+      "start_km": 15.299,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 17.3,
+      "elevation_delta_m": 37,
+      "end_km": 15.713,
+      "length_km": 0.212,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_024",
+      "start_km": 15.501,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 15.971,
+      "length_km": 0.258,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_025",
+      "start_km": 15.713,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 7.7,
+      "elevation_delta_m": 26,
+      "end_km": 16.311,
+      "length_km": 0.341,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_026",
+      "start_km": 15.971,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 6.1,
+      "elevation_delta_m": 128,
+      "end_km": 18.423,
+      "length_km": 2.112,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_027",
+      "start_km": 16.311,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 7.2,
+      "elevation_delta_m": 95,
+      "end_km": 19.756,
+      "length_km": 1.333,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_028",
+      "start_km": 18.423,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 6.6,
+      "elevation_delta_m": 20,
+      "end_km": 20.061,
+      "length_km": 0.305,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_029",
+      "start_km": 19.756,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 2.2,
+      "elevation_delta_m": 6,
+      "end_km": 20.339,
+      "length_km": 0.278,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_030",
+      "start_km": 20.061,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 7.8,
+      "elevation_delta_m": 34,
+      "end_km": 20.78,
+      "length_km": 0.441,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_031",
+      "start_km": 20.339,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 6.9,
+      "elevation_delta_m": 39,
+      "end_km": 21.341,
+      "length_km": 0.561,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_032",
+      "start_km": 20.78,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 6.8,
+      "elevation_delta_m": 20,
+      "end_km": 21.633,
+      "length_km": 0.292,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_033",
+      "start_km": 21.341,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 7.5,
+      "elevation_delta_m": 31,
+      "end_km": 22.037,
+      "length_km": 0.404,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_034",
+      "start_km": 21.633,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 8.1,
+      "elevation_delta_m": 100,
+      "end_km": 23.267,
+      "length_km": 1.23,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_035",
+      "start_km": 22.037,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 6.9,
+      "elevation_delta_m": 129,
+      "end_km": 25.127,
+      "length_km": 1.86,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_036",
+      "start_km": 23.267,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 9.1,
+      "elevation_delta_m": 59,
+      "end_km": 25.777,
+      "length_km": 0.65,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_037",
+      "start_km": 25.127,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 3.4,
+      "elevation_delta_m": 17,
+      "end_km": 26.272,
+      "length_km": 0.495,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_038",
+      "start_km": 25.777,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 9.5,
+      "elevation_delta_m": 54,
+      "end_km": 26.839,
+      "length_km": 0.567,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_039",
+      "start_km": 26.272,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 7.4,
+      "elevation_delta_m": 72,
+      "end_km": 27.812,
+      "length_km": 0.974,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_040",
+      "start_km": 26.839,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 2.0,
+      "elevation_delta_m": 16,
+      "end_km": 28.615,
+      "length_km": 0.803,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_041",
+      "start_km": 27.812,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 4.7,
+      "elevation_delta_m": 21,
+      "end_km": 29.06,
+      "length_km": 0.445,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_042",
+      "start_km": 28.615,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 5.9,
+      "elevation_delta_m": 90,
+      "end_km": 30.588,
+      "length_km": 1.529,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_043",
+      "start_km": 29.06,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.1,
+      "elevation_delta_m": 1,
+      "end_km": 30.942,
+      "length_km": 0.354,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_044",
+      "start_km": 30.588,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 19.3,
+      "elevation_delta_m": 64,
+      "end_km": 31.276,
+      "length_km": 0.333,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_045",
+      "start_km": 30.942,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.2,
+      "elevation_delta_m": 0,
+      "end_km": 31.504,
+      "length_km": 0.229,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_046",
+      "start_km": 31.276,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 4.5,
+      "elevation_delta_m": 32,
+      "end_km": 32.224,
+      "length_km": 0.72,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_047",
+      "start_km": 31.504,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 4.8,
+      "elevation_delta_m": 19,
+      "end_km": 32.631,
+      "length_km": 0.407,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_048",
+      "start_km": 32.224,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.7,
+      "elevation_delta_m": 2,
+      "end_km": 32.892,
+      "length_km": 0.261,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_049",
+      "start_km": 32.631,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 3.9,
+      "elevation_delta_m": 38,
+      "end_km": 33.843,
+      "length_km": 0.951,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_050",
+      "start_km": 32.892,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 6.4,
+      "elevation_delta_m": 55,
+      "end_km": 34.706,
+      "length_km": 0.863,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_051",
+      "start_km": 33.843,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 6.9,
+      "elevation_delta_m": 38,
+      "end_km": 35.261,
+      "length_km": 0.554,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_052",
+      "start_km": 34.706,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 3.8,
+      "elevation_delta_m": 16,
+      "end_km": 35.68,
+      "length_km": 0.42,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_053",
+      "start_km": 35.261,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 6.0,
+      "elevation_delta_m": 20,
+      "end_km": 36.018,
+      "length_km": 0.338,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_054",
+      "start_km": 35.68,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 6.8,
+      "elevation_delta_m": 30,
+      "end_km": 36.457,
+      "length_km": 0.439,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_055",
+      "start_km": 36.018,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 5.7,
+      "elevation_delta_m": 78,
+      "end_km": 37.828,
+      "length_km": 1.371,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_056",
+      "start_km": 36.457,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 4.2,
+      "elevation_delta_m": 17,
+      "end_km": 38.231,
+      "length_km": 0.403,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_057",
+      "start_km": 37.828,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 11.2,
+      "elevation_delta_m": 54,
+      "end_km": 38.709,
+      "length_km": 0.478,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_058",
+      "start_km": 38.231,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 3.9,
+      "elevation_delta_m": 15,
+      "end_km": 39.11,
+      "length_km": 0.401,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_059",
+      "start_km": 38.709,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 39.388,
+      "length_km": 0.278,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_060",
+      "start_km": 39.11,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 20.5,
+      "elevation_delta_m": 75,
+      "end_km": 39.755,
+      "length_km": 0.367,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_061",
+      "start_km": 39.388,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 40.053,
+      "length_km": 0.298,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_062",
+      "start_km": 39.755,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 11.2,
+      "elevation_delta_m": 29,
+      "end_km": 40.313,
+      "length_km": 0.261,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_063",
+      "start_km": 40.053,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 8.7,
+      "elevation_delta_m": 66,
+      "end_km": 41.077,
+      "length_km": 0.763,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_064",
+      "start_km": 40.313,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 8.2,
+      "elevation_delta_m": 19,
+      "end_km": 41.307,
+      "length_km": 0.231,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_065",
+      "start_km": 41.077,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 9.9,
+      "elevation_delta_m": 54,
+      "end_km": 41.854,
+      "length_km": 0.546,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_066",
+      "start_km": 41.307,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 5.1,
+      "elevation_delta_m": 30,
+      "end_km": 42.439,
+      "length_km": 0.585,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_067",
+      "start_km": 41.854,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 5.4,
+      "elevation_delta_m": 37,
+      "end_km": 43.117,
+      "length_km": 0.678,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_068",
+      "start_km": 42.439,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 6.8,
+      "elevation_delta_m": 39,
+      "end_km": 43.686,
+      "length_km": 0.569,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_069",
+      "start_km": 43.117,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 4.8,
+      "elevation_delta_m": 26,
+      "end_km": 44.24,
+      "length_km": 0.554,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_070",
+      "start_km": 43.686,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 44.462,
+      "length_km": 0.223,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_071",
+      "start_km": 44.24,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 10.3,
+      "elevation_delta_m": 42,
+      "end_km": 44.873,
+      "length_km": 0.411,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_072",
+      "start_km": 44.462,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 8.0,
+      "elevation_delta_m": 31,
+      "end_km": 45.262,
+      "length_km": 0.389,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_073",
+      "start_km": 44.873,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 13.5,
+      "elevation_delta_m": 62,
+      "end_km": 45.724,
+      "length_km": 0.462,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_074",
+      "start_km": 45.262,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 2.2,
+      "elevation_delta_m": 14,
+      "end_km": 46.36,
+      "length_km": 0.635,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_075",
+      "start_km": 45.724,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 46.762,
+      "length_km": 0.402,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_076",
+      "start_km": 46.36,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 18.9,
+      "elevation_delta_m": 58,
+      "end_km": 47.072,
+      "length_km": 0.31,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_077",
+      "start_km": 46.762,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 47.313,
+      "length_km": 0.241,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_078",
+      "start_km": 47.072,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 7.1,
+      "elevation_delta_m": 20,
+      "end_km": 47.598,
+      "length_km": 0.285,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_079",
+      "start_km": 47.313,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 2.2,
+      "elevation_delta_m": 8,
+      "end_km": 47.983,
+      "length_km": 0.385,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_080",
+      "start_km": 47.598,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 48.432,
+      "length_km": 0.449,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_081",
+      "start_km": 47.983,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -7.1,
+      "elevation_delta_m": -21,
+      "end_km": 48.728,
+      "length_km": 0.296,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_082",
+      "start_km": 48.432,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 49.196,
+      "length_km": 0.469,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_083",
+      "start_km": 48.728,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -4.7,
+      "elevation_delta_m": -12,
+      "end_km": 49.446,
+      "length_km": 0.25,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_084",
+      "start_km": 49.196,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 49.693,
+      "length_km": 0.247,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_085",
+      "start_km": 49.446,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -25.6,
+      "elevation_delta_m": -54,
+      "end_km": 49.905,
+      "length_km": 0.211,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_086",
+      "start_km": 49.693,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -7.0,
+      "elevation_delta_m": -43,
+      "end_km": 50.52,
+      "length_km": 0.615,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_087",
+      "start_km": 49.905,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -3.7,
+      "elevation_delta_m": -17,
+      "end_km": 50.969,
+      "length_km": 0.449,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_088",
+      "start_km": 50.52,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -2.4,
+      "elevation_delta_m": -14,
+      "end_km": 51.553,
+      "length_km": 0.585,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_089",
+      "start_km": 50.969,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 1.6,
+      "elevation_delta_m": 4,
+      "end_km": 51.807,
+      "length_km": 0.254,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_090",
+      "start_km": 51.553,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 3.4,
+      "elevation_delta_m": 9,
+      "end_km": 52.077,
+      "length_km": 0.27,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_091",
+      "start_km": 51.807,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 1.2,
+      "elevation_delta_m": 9,
+      "end_km": 52.848,
+      "length_km": 0.771,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_092",
+      "start_km": 52.077,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 5.9,
+      "elevation_delta_m": 28,
+      "end_km": 53.334,
+      "length_km": 0.486,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_093",
+      "start_km": 52.848,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": -0.5,
+      "elevation_delta_m": -12,
+      "end_km": 55.732,
+      "length_km": 2.397,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_094",
+      "start_km": 53.334,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -13.4,
+      "elevation_delta_m": -53,
+      "end_km": 56.129,
+      "length_km": 0.397,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_095",
+      "start_km": 55.732,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 56.39,
+      "length_km": 0.261,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_096",
+      "start_km": 56.129,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -6.0,
+      "elevation_delta_m": -27,
+      "end_km": 56.835,
+      "length_km": 0.445,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_097",
+      "start_km": 56.39,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 57.101,
+      "length_km": 0.266,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_098",
+      "start_km": 56.835,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -15.1,
+      "elevation_delta_m": -45,
+      "end_km": 57.398,
+      "length_km": 0.296,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_099",
+      "start_km": 57.101,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 57.751,
+      "length_km": 0.354,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_100",
+      "start_km": 57.398,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -7.0,
+      "elevation_delta_m": -16,
+      "end_km": 57.984,
+      "length_km": 0.232,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_101",
+      "start_km": 57.751,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 58.264,
+      "length_km": 0.28,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_102",
+      "start_km": 57.984,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -12.4,
+      "elevation_delta_m": -53,
+      "end_km": 58.687,
+      "length_km": 0.424,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_103",
+      "start_km": 58.264,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 58.967,
+      "length_km": 0.28,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_104",
+      "start_km": 58.687,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -7.4,
+      "elevation_delta_m": -18,
+      "end_km": 59.216,
+      "length_km": 0.248,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_105",
+      "start_km": 58.967,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -0.4,
+      "elevation_delta_m": -1,
+      "end_km": 59.513,
+      "length_km": 0.298,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_106",
+      "start_km": 59.216,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -22.1,
+      "elevation_delta_m": -53,
+      "end_km": 59.755,
+      "length_km": 0.242,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_107",
+      "start_km": 59.513,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 60.132,
+      "length_km": 0.377,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_108",
+      "start_km": 59.755,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -9.2,
+      "elevation_delta_m": -21,
+      "end_km": 60.359,
+      "length_km": 0.227,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_109",
+      "start_km": 60.132,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -0.0,
+      "elevation_delta_m": 0,
+      "end_km": 60.847,
+      "length_km": 0.487,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_110",
+      "start_km": 60.359,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -23.6,
+      "elevation_delta_m": -56,
+      "end_km": 61.085,
+      "length_km": 0.238,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_111",
+      "start_km": 60.847,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -1.2,
+      "elevation_delta_m": -12,
+      "end_km": 62.068,
+      "length_km": 0.983,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_112",
+      "start_km": 61.085,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -8.0,
+      "elevation_delta_m": -47,
+      "end_km": 62.653,
+      "length_km": 0.586,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_113",
+      "start_km": 62.068,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -4.2,
+      "elevation_delta_m": -14,
+      "end_km": 62.983,
+      "length_km": 0.33,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_114",
+      "start_km": 62.653,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -7.5,
+      "elevation_delta_m": -26,
+      "end_km": 63.336,
+      "length_km": 0.353,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_115",
+      "start_km": 62.983,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -4.8,
+      "elevation_delta_m": -13,
+      "end_km": 63.616,
+      "length_km": 0.28,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_116",
+      "start_km": 63.336,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -4.3,
+      "elevation_delta_m": -25,
+      "end_km": 64.182,
+      "length_km": 0.566,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_117",
+      "start_km": 63.616,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -13.6,
+      "elevation_delta_m": -52,
+      "end_km": 64.56,
+      "length_km": 0.378,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_118",
+      "start_km": 64.182,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 64.839,
+      "length_km": 0.279,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_119",
+      "start_km": 64.56,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -6.6,
+      "elevation_delta_m": -83,
+      "end_km": 66.083,
+      "length_km": 1.244,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_120",
+      "start_km": 64.839,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -2.5,
+      "elevation_delta_m": -19,
+      "end_km": 66.853,
+      "length_km": 0.769,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_121",
+      "start_km": 66.083,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -3.6,
+      "elevation_delta_m": -15,
+      "end_km": 67.259,
+      "length_km": 0.406,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_122",
+      "start_km": 66.853,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -7.6,
+      "elevation_delta_m": -43,
+      "end_km": 67.822,
+      "length_km": 0.563,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_123",
+      "start_km": 67.259,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -3.9,
+      "elevation_delta_m": -36,
+      "end_km": 68.745,
+      "length_km": 0.924,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_124",
+      "start_km": 67.822,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -12.3,
+      "elevation_delta_m": -55,
+      "end_km": 69.193,
+      "length_km": 0.448,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_125",
+      "start_km": 68.745,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -1.0,
+      "elevation_delta_m": -3,
+      "end_km": 69.532,
+      "length_km": 0.339,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_126",
+      "start_km": 69.193,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -4.7,
+      "elevation_delta_m": -22,
+      "end_km": 70.002,
+      "length_km": 0.47,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_127",
+      "start_km": 69.532,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -5.1,
+      "elevation_delta_m": -29,
+      "end_km": 70.577,
+      "length_km": 0.575,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_128",
+      "start_km": 70.002,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -5.6,
+      "elevation_delta_m": -24,
+      "end_km": 71.004,
+      "length_km": 0.427,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_129",
+      "start_km": 70.577,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -4.2,
+      "elevation_delta_m": -9,
+      "end_km": 71.227,
+      "length_km": 0.223,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_130",
+      "start_km": 71.004,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -10.8,
+      "elevation_delta_m": -37,
+      "end_km": 71.571,
+      "length_km": 0.344,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_131",
+      "start_km": 71.227,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -2.3,
+      "elevation_delta_m": -10,
+      "end_km": 72.018,
+      "length_km": 0.447,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_132",
+      "start_km": 71.571,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -8.9,
+      "elevation_delta_m": -29,
+      "end_km": 72.34,
+      "length_km": 0.322,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_133",
+      "start_km": 72.018,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -0.1,
+      "elevation_delta_m": 0,
+      "end_km": 72.599,
+      "length_km": 0.259,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_134",
+      "start_km": 72.34,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -21.2,
+      "elevation_delta_m": -46,
+      "end_km": 72.817,
+      "length_km": 0.219,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_135",
+      "start_km": 72.599,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -1.0,
+      "elevation_delta_m": -7,
+      "end_km": 73.544,
+      "length_km": 0.727,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_136",
+      "start_km": 72.817,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -8.2,
+      "elevation_delta_m": -27,
+      "end_km": 73.87,
+      "length_km": 0.325,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_137",
+      "start_km": 73.544,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -3.8,
+      "elevation_delta_m": -26,
+      "end_km": 74.556,
+      "length_km": 0.686,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_138",
+      "start_km": 73.87,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -7.5,
+      "elevation_delta_m": -75,
+      "end_km": 75.562,
+      "length_km": 1.006,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_139",
+      "start_km": 74.556,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -6.3,
+      "elevation_delta_m": -40,
+      "end_km": 76.206,
+      "length_km": 0.644,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_140",
+      "start_km": 75.562,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -5.6,
+      "elevation_delta_m": -32,
+      "end_km": 76.78,
+      "length_km": 0.574,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_141",
+      "start_km": 76.206,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -5.6,
+      "elevation_delta_m": -40,
+      "end_km": 77.502,
+      "length_km": 0.722,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_142",
+      "start_km": 76.78,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -2.2,
+      "elevation_delta_m": -7,
+      "end_km": 77.834,
+      "length_km": 0.332,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_143",
+      "start_km": 77.502,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -8.2,
+      "elevation_delta_m": -24,
+      "end_km": 78.124,
+      "length_km": 0.29,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_144",
+      "start_km": 77.834,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -6.4,
+      "elevation_delta_m": -28,
+      "end_km": 78.566,
+      "length_km": 0.442,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_145",
+      "start_km": 78.124,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -1.0,
+      "elevation_delta_m": -3,
+      "end_km": 78.876,
+      "length_km": 0.311,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_146",
+      "start_km": 78.566,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -4.3,
+      "elevation_delta_m": -20,
+      "end_km": 79.349,
+      "length_km": 0.473,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_147",
+      "start_km": 78.876,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -6.9,
+      "elevation_delta_m": -42,
+      "end_km": 79.96,
+      "length_km": 0.61,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_148",
+      "start_km": 79.349,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -2.1,
+      "elevation_delta_m": -26,
+      "end_km": 81.241,
+      "length_km": 1.281,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_149",
+      "start_km": 79.96,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -8.3,
+      "elevation_delta_m": -34,
+      "end_km": 81.646,
+      "length_km": 0.405,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_150",
+      "start_km": 81.241,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -0.3,
+      "elevation_delta_m": -2,
+      "end_km": 82.319,
+      "length_km": 0.673,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_151",
+      "start_km": 81.646,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -1.3,
+      "elevation_delta_m": -5,
+      "end_km": 82.668,
+      "length_km": 0.35,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_152",
+      "start_km": 82.319,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -16.2,
+      "elevation_delta_m": -53,
+      "end_km": 82.998,
+      "length_km": 0.329,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_153",
+      "start_km": 82.668,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -0.4,
+      "elevation_delta_m": -1,
+      "end_km": 83.262,
+      "length_km": 0.265,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_154",
+      "start_km": 82.998,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -3.9,
+      "elevation_delta_m": -36,
+      "end_km": 84.187,
+      "length_km": 0.924,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_155",
+      "start_km": 83.262,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 5.2,
+      "elevation_delta_m": 17,
+      "end_km": 84.519,
+      "length_km": 0.333,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_156",
+      "start_km": 84.187,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 2.3,
+      "elevation_delta_m": 23,
+      "end_km": 85.521,
+      "length_km": 1.002,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_157",
+      "start_km": 84.519,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 0.3,
+      "elevation_delta_m": 2,
+      "end_km": 86.216,
+      "length_km": 0.695,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_158",
+      "start_km": 85.521,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 3.2,
+      "elevation_delta_m": 11,
+      "end_km": 86.57,
+      "length_km": 0.354,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_159",
+      "start_km": 86.216,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": -1.6,
+      "elevation_delta_m": -9,
+      "end_km": 87.136,
+      "length_km": 0.566,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_160",
+      "start_km": 86.57,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -3.6,
+      "elevation_delta_m": -33,
+      "end_km": 88.034,
+      "length_km": 0.898,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_161",
+      "start_km": 87.136,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -1.8,
+      "elevation_delta_m": -7,
+      "end_km": 88.431,
+      "length_km": 0.398,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_162",
+      "start_km": 88.034,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -4.9,
+      "elevation_delta_m": -57,
+      "end_km": 89.61,
+      "length_km": 1.179,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_163",
+      "start_km": 88.431,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -5.9,
+      "elevation_delta_m": -43,
+      "end_km": 90.329,
+      "length_km": 0.719,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_164",
+      "start_km": 89.61,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -2.3,
+      "elevation_delta_m": -10,
+      "end_km": 90.789,
+      "length_km": 0.46,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_165",
+      "start_km": 90.329,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -6.3,
+      "elevation_delta_m": -17,
+      "end_km": 91.059,
+      "length_km": 0.27,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_166",
+      "start_km": 90.789,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 0.3,
+      "elevation_delta_m": 1,
+      "end_km": 91.419,
+      "length_km": 0.36,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_167",
+      "start_km": 91.059,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -4.0,
+      "elevation_delta_m": -17,
+      "end_km": 91.841,
+      "length_km": 0.422,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_168",
+      "start_km": 91.419,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 0.2,
+      "elevation_delta_m": 0,
+      "end_km": 92.049,
+      "length_km": 0.208,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_169",
+      "start_km": 91.841,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -5.7,
+      "elevation_delta_m": -45,
+      "end_km": 92.828,
+      "length_km": 0.778,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_170",
+      "start_km": 92.049,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -7.9,
+      "elevation_delta_m": -35,
+      "end_km": 93.279,
+      "length_km": 0.451,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_171",
+      "start_km": 92.828,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -2.3,
+      "elevation_delta_m": -8,
+      "end_km": 93.616,
+      "length_km": 0.338,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_172",
+      "start_km": 93.279,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -0.7,
+      "elevation_delta_m": -2,
+      "end_km": 93.879,
+      "length_km": 0.263,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_173",
+      "start_km": 93.616,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -5.1,
+      "elevation_delta_m": -42,
+      "end_km": 94.707,
+      "length_km": 0.828,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_174",
+      "start_km": 93.879,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -3.0,
+      "elevation_delta_m": -32,
+      "end_km": 95.761,
+      "length_km": 1.054,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_175",
+      "start_km": 94.707,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -5.6,
+      "elevation_delta_m": -26,
+      "end_km": 96.222,
+      "length_km": 0.461,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_176",
+      "start_km": 95.761,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -2.3,
+      "elevation_delta_m": -8,
+      "end_km": 96.564,
+      "length_km": 0.342,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_177",
+      "start_km": 96.222,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -5.4,
+      "elevation_delta_m": -72,
+      "end_km": 97.882,
+      "length_km": 1.319,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_178",
+      "start_km": 96.564,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -1.2,
+      "elevation_delta_m": -6,
+      "end_km": 98.323,
+      "length_km": 0.441,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_179",
+      "start_km": 97.882,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -1.6,
+      "elevation_delta_m": -11,
+      "end_km": 98.999,
+      "length_km": 0.676,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_180",
+      "start_km": 98.323,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -5.1,
+      "elevation_delta_m": -33,
+      "end_km": 99.638,
+      "length_km": 0.638,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_181",
+      "start_km": 98.999,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -5.7,
+      "elevation_delta_m": -55,
+      "end_km": 100.611,
+      "length_km": 0.973,
+      "segment_id": "trf_8_bike_point_mynd_adeje_teide_round_route_seg_182",
+      "start_km": 99.638,
+      "type": "descent"
+    }
+  ]
+}

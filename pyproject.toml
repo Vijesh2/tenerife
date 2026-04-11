@@ -1,0 +1,14 @@
+[project]
+name = "gpxconverter"
+version = "0.1.0"
+description = "GPX preprocessing and a lightweight Tenerife cycling route browser."
+requires-python = ">=3.10"
+dependencies = [
+    "gpxpy>=1.6.2",
+    "python-fasthtml>=0.12.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0.0",
+]

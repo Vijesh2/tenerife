@@ -1,0 +1,545 @@
+{
+  "route_id": "trf_9_bike_point_mynd_adeje_banana_climb_route",
+  "segments": [
+    {
+      "avg_gradient_pct": -1.1,
+      "elevation_delta_m": -4,
+      "end_km": 0.4,
+      "length_km": 0.4,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_001",
+      "start_km": 0.0,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 4.1,
+      "elevation_delta_m": 12,
+      "end_km": 0.682,
+      "length_km": 0.282,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_002",
+      "start_km": 0.4,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 6.4,
+      "elevation_delta_m": 36,
+      "end_km": 1.245,
+      "length_km": 0.563,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_003",
+      "start_km": 0.682,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 5.5,
+      "elevation_delta_m": 26,
+      "end_km": 1.723,
+      "length_km": 0.477,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_004",
+      "start_km": 1.245,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": -8.3,
+      "elevation_delta_m": -26,
+      "end_km": 2.035,
+      "length_km": 0.313,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_005",
+      "start_km": 1.723,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -0.3,
+      "elevation_delta_m": -2,
+      "end_km": 2.682,
+      "length_km": 0.647,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_006",
+      "start_km": 2.035,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -7.3,
+      "elevation_delta_m": -17,
+      "end_km": 2.918,
+      "length_km": 0.236,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_007",
+      "start_km": 2.682,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -1.8,
+      "elevation_delta_m": -4,
+      "end_km": 3.152,
+      "length_km": 0.234,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_008",
+      "start_km": 2.918,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 1.5,
+      "elevation_delta_m": 25,
+      "end_km": 4.816,
+      "length_km": 1.664,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_009",
+      "start_km": 3.152,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -1.8,
+      "elevation_delta_m": -5,
+      "end_km": 5.107,
+      "length_km": 0.291,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_010",
+      "start_km": 4.816,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -0.1,
+      "elevation_delta_m": 0,
+      "end_km": 5.639,
+      "length_km": 0.533,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_011",
+      "start_km": 5.107,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 0.7,
+      "elevation_delta_m": 6,
+      "end_km": 6.534,
+      "length_km": 0.895,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_012",
+      "start_km": 5.639,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -0.7,
+      "elevation_delta_m": -11,
+      "end_km": 8.174,
+      "length_km": 1.64,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_013",
+      "start_km": 6.534,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 0.6,
+      "elevation_delta_m": 3,
+      "end_km": 8.71,
+      "length_km": 0.536,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_014",
+      "start_km": 8.174,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -3.3,
+      "elevation_delta_m": -17,
+      "end_km": 9.225,
+      "length_km": 0.516,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_015",
+      "start_km": 8.71,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -9.9,
+      "elevation_delta_m": -37,
+      "end_km": 9.597,
+      "length_km": 0.372,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_016",
+      "start_km": 9.225,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 1.4,
+      "elevation_delta_m": 7,
+      "end_km": 10.107,
+      "length_km": 0.509,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_017",
+      "start_km": 9.597,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 7.5,
+      "elevation_delta_m": 27,
+      "end_km": 10.465,
+      "length_km": 0.358,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_018",
+      "start_km": 10.107,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 5.7,
+      "elevation_delta_m": 22,
+      "end_km": 10.853,
+      "length_km": 0.388,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_019",
+      "start_km": 10.465,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 3.7,
+      "elevation_delta_m": 42,
+      "end_km": 11.98,
+      "length_km": 1.127,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_020",
+      "start_km": 10.853,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 15.9,
+      "elevation_delta_m": 73,
+      "end_km": 12.437,
+      "length_km": 0.457,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_021",
+      "start_km": 11.98,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 2.6,
+      "elevation_delta_m": 19,
+      "end_km": 13.168,
+      "length_km": 0.731,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_022",
+      "start_km": 12.437,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 9.5,
+      "elevation_delta_m": 46,
+      "end_km": 13.647,
+      "length_km": 0.479,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_023",
+      "start_km": 13.168,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 13.95,
+      "length_km": 0.303,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_024",
+      "start_km": 13.647,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 8.9,
+      "elevation_delta_m": 18,
+      "end_km": 14.151,
+      "length_km": 0.201,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_025",
+      "start_km": 13.95,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 6.2,
+      "elevation_delta_m": 27,
+      "end_km": 14.59,
+      "length_km": 0.439,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_026",
+      "start_km": 14.151,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 0.0,
+      "elevation_delta_m": 0,
+      "end_km": 14.874,
+      "length_km": 0.284,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_027",
+      "start_km": 14.59,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 4.7,
+      "elevation_delta_m": 65,
+      "end_km": 16.261,
+      "length_km": 1.387,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_028",
+      "start_km": 14.874,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 10.2,
+      "elevation_delta_m": 63,
+      "end_km": 16.873,
+      "length_km": 0.612,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_029",
+      "start_km": 16.261,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 3.9,
+      "elevation_delta_m": 23,
+      "end_km": 17.464,
+      "length_km": 0.591,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_030",
+      "start_km": 16.873,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 5.1,
+      "elevation_delta_m": 96,
+      "end_km": 19.357,
+      "length_km": 1.893,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_031",
+      "start_km": 17.464,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 5.2,
+      "elevation_delta_m": 17,
+      "end_km": 19.69,
+      "length_km": 0.333,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_032",
+      "start_km": 19.357,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": 2.2,
+      "elevation_delta_m": 22,
+      "end_km": 20.691,
+      "length_km": 1.002,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_033",
+      "start_km": 19.69,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 0.4,
+      "elevation_delta_m": 3,
+      "end_km": 21.386,
+      "length_km": 0.695,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_034",
+      "start_km": 20.691,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": 3.2,
+      "elevation_delta_m": 11,
+      "end_km": 21.74,
+      "length_km": 0.354,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_035",
+      "start_km": 21.386,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": -1.6,
+      "elevation_delta_m": -9,
+      "end_km": 22.306,
+      "length_km": 0.566,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_036",
+      "start_km": 21.74,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -3.6,
+      "elevation_delta_m": -33,
+      "end_km": 23.204,
+      "length_km": 0.898,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_037",
+      "start_km": 22.306,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -1.8,
+      "elevation_delta_m": -7,
+      "end_km": 23.601,
+      "length_km": 0.398,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_038",
+      "start_km": 23.204,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -4.9,
+      "elevation_delta_m": -57,
+      "end_km": 24.781,
+      "length_km": 1.179,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_039",
+      "start_km": 23.601,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -5.9,
+      "elevation_delta_m": -43,
+      "end_km": 25.499,
+      "length_km": 0.719,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_040",
+      "start_km": 24.781,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -2.3,
+      "elevation_delta_m": -10,
+      "end_km": 25.959,
+      "length_km": 0.46,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_041",
+      "start_km": 25.499,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -6.3,
+      "elevation_delta_m": -17,
+      "end_km": 26.229,
+      "length_km": 0.27,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_042",
+      "start_km": 25.959,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 0.3,
+      "elevation_delta_m": 1,
+      "end_km": 26.59,
+      "length_km": 0.36,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_043",
+      "start_km": 26.229,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -4.0,
+      "elevation_delta_m": -17,
+      "end_km": 27.011,
+      "length_km": 0.422,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_044",
+      "start_km": 26.59,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 0.2,
+      "elevation_delta_m": 0,
+      "end_km": 27.219,
+      "length_km": 0.208,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_045",
+      "start_km": 27.011,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -5.7,
+      "elevation_delta_m": -45,
+      "end_km": 27.998,
+      "length_km": 0.779,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_046",
+      "start_km": 27.219,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -7.9,
+      "elevation_delta_m": -35,
+      "end_km": 28.449,
+      "length_km": 0.451,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_047",
+      "start_km": 27.998,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -2.3,
+      "elevation_delta_m": -8,
+      "end_km": 28.787,
+      "length_km": 0.338,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_048",
+      "start_km": 28.449,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -0.8,
+      "elevation_delta_m": -3,
+      "end_km": 29.091,
+      "length_km": 0.304,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_049",
+      "start_km": 28.787,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -5.2,
+      "elevation_delta_m": -41,
+      "end_km": 29.877,
+      "length_km": 0.787,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_050",
+      "start_km": 29.091,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -3.0,
+      "elevation_delta_m": -32,
+      "end_km": 30.931,
+      "length_km": 1.054,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_051",
+      "start_km": 29.877,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -5.2,
+      "elevation_delta_m": -26,
+      "end_km": 31.422,
+      "length_km": 0.49,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_052",
+      "start_km": 30.931,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -2.2,
+      "elevation_delta_m": -8,
+      "end_km": 31.775,
+      "length_km": 0.353,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_053",
+      "start_km": 31.422,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -5.4,
+      "elevation_delta_m": -72,
+      "end_km": 33.093,
+      "length_km": 1.319,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_054",
+      "start_km": 31.775,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -1.2,
+      "elevation_delta_m": -6,
+      "end_km": 33.534,
+      "length_km": 0.441,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_055",
+      "start_km": 33.093,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -1.6,
+      "elevation_delta_m": -11,
+      "end_km": 34.21,
+      "length_km": 0.676,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_056",
+      "start_km": 33.534,
+      "type": "flat_or_rolling"
+    },
+    {
+      "avg_gradient_pct": -5.3,
+      "elevation_delta_m": -32,
+      "end_km": 34.822,
+      "length_km": 0.612,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_057",
+      "start_km": 34.21,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": -5.2,
+      "elevation_delta_m": -60,
+      "end_km": 35.982,
+      "length_km": 1.16,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_058",
+      "start_km": 34.822,
+      "type": "descent"
+    },
+    {
+      "avg_gradient_pct": 4.2,
+      "elevation_delta_m": 11,
+      "end_km": 36.239,
+      "length_km": 0.257,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_059",
+      "start_km": 35.982,
+      "type": "climb"
+    },
+    {
+      "avg_gradient_pct": -1.0,
+      "elevation_delta_m": -7,
+      "end_km": 36.911,
+      "length_km": 0.673,
+      "segment_id": "trf_9_bike_point_mynd_adeje_banana_climb_route_seg_060",
+      "start_km": 36.239,
+      "type": "flat_or_rolling"
+    }
+  ]
+}
