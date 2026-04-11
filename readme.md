@@ -1,114 +1,53 @@
-# GPX → GeoJSON Preprocessing Pipeline
+# Tenerife Cycling Routes
 
-A lightweight Python tool to convert cycling routes stored as GPX files into **GeoJSON + route metrics**, ready for use in web mapping applications (e.g. Leaflet).
+A lightweight Python-first web app for browsing preprocessed Tenerife cycling routes on a Leaflet map.
 
-Designed for simplicity, transparency, and easy iteration.
+The project has two parts:
 
----
+- a **FastHTML + Leaflet route browser** in `app.py`, `ui.py`, and `static/`
+- a **GPX preprocessing pipeline** in `scripts/preprocess_gpx.py`
 
-## Overview
-
-This tool takes a folder of `.gpx` files and produces:
-
-- a single **GeoJSON file** for map rendering
-- a **route index JSON** for fast UI loading (lists, filters, metadata)
-- one **GeoJSON file per route** for lazy-loading detailed map geometry
-- optional per-route **elevation profile JSON** for charting
-- per-route **segment and climb JSON** for route detail pages
-- **preview/detail geometry** exports for different frontend views
-- frontend-ready list, map, and lookup JSON artefacts
-- JSON and Markdown build reports for quick data QA
-- a lightweight **build manifest** for incremental rebuilds
-
-It is particularly suited to applications such as:
-
-- cycling route maps (e.g. Tenerife routes)
-- route visualisation dashboards
-- lightweight GIS workflows without heavy dependencies
+The current app uses the already generated data in `data/processed/routes.geojson` and displays it as selectable, toggleable routes on a map.
 
 ---
 
-## Features
+## Web App
 
-- Parses GPX tracks and routes
-- Flattens multi-segment tracks into a single route
-- Prefers GPX track/route names when available
-- Smooths elevation before ascent/descent calculations
-- Simplifies display geometry while preserving full-resolution metrics
-- Computes key cycling metrics:
-  - distance (km)
-  - elevation gain/loss (m)
-  - min/max elevation (m)
-- Adds cycling-friendly route card metadata:
-  - difficulty (`easy`, `moderate`, `hard`, `extreme`)
-  - terrain type (`flat`, `rolling`, `hilly`, `mountainous`)
-  - loop/direction detection
-  - normalized search text
-- Flags route quality issues such as invalid coordinates, missing elevation, very short routes, and duplicate-heavy data
-- Adds route bounds and centroid metadata
-- Adds frontend-friendly spatial metadata such as start/end/mid/high/low points, loop closure, spatial extent, and bearing
-- Extracts coarse route segments and notable climbs with transparent heuristics
-- Groups likely duplicate or variant routes without changing stable route IDs
-- Emits multi-resolution geometry and frontend lookup artefacts
-- Writes build reports in JSON and Markdown
-- Supports cached incremental rebuilds with `data/processed/build_manifest.json`
-- Can write downsampled elevation profiles to `data/processed/profiles/`
-- Outputs clean, Leaflet-ready GeoJSON
-- Writes one GeoJSON file per route for lazy loading
-- Handles malformed GPX files gracefully
-- Minimal dependencies (no heavy GIS stack)
+The v0.1 web app is a single-page route browser for Tenerife cycling routes.
 
----
+It supports:
 
-## Example Output
+- Leaflet map centred on Tenerife
+- route polylines loaded from `data/processed/routes.geojson`
+- one colour per route
+- route selection by clicking the map or route list
+- highlighted selected route
+- map zoom-to-route on selection
+- per-route checkboxes for showing or hiding routes
+- select all / deselect all route control
+- draggable divider between the map and route list
+- compact selected-route summary with distance and elevation gain
+- map key listing visible route IDs, colours, distance, and elevation gain
 
-### GeoJSON (for maps)
+Run the app:
 
-Each GPX file becomes a GeoJSON `Feature`:
-
-```json
-{
-  "type": "Feature",
-  "properties": {
-    "route_id": "masca_loop",
-    "name": "Masca Loop",
-    "distance_km": 82.4,
-    "elevation_gain_m": 2150,
-    "elevation_loss_m": 2147,
-    "difficulty": "hard",
-    "terrain_type": "hilly",
-    "validation_status": "ok",
-    "has_profile": true,
-    "profile_file": "profiles/masca_loop.json"
-  },
-  "geometry": {
-    "type": "LineString",
-    "coordinates": [
-      [-16.757, 28.291, 120],
-      [-16.758, 28.292, 126]
-    ]
-  }
-}
-````
-
-### Route index (for UI)
-
-A lightweight JSON file with only metadata:
-
-```json
-[
-  {
-    "route_id": "masca_loop",
-    "name": "Masca Loop",
-    "distance_km": 82.4,
-    "elevation_gain_m": 2150,
-    "difficulty": "hard",
-    "terrain_type": "hilly",
-    "is_loop": true,
-    "validation_status": "ok"
-  }
-]
+```bash
+uv run python app.py
 ```
+
+Then open:
+
+```text
+http://localhost:5001
+```
+
+The app serves:
+
+- `/static/app.css`
+- `/static/app.js`
+- `/data/processed/routes.geojson`
+
+Leaflet itself is loaded from the public unpkg CDN.
 
 ---
 
@@ -116,78 +55,68 @@ A lightweight JSON file with only metadata:
 
 ```text
 project/
+  app.py                 # FastHTML app entrypoint
+  ui.py                  # server-rendered page structure and shared styles
+  static/
+    app.css              # app and Leaflet fallback styles
+    app.js               # map, route selection, toggles, resizing
   data/
-    raw_gpx/           # input GPX files
-    processed/         # generated outputs
+    raw_gpx/             # input GPX files
+    processed/           # generated app-ready outputs
       routes.geojson
       routes_index.json
-      build_manifest.json
-      profiles/
-        masca_loop.json
       routes/
-        masca_loop.geojson
+        <route_id>.geojson
+      routes_preview/
+      routes_detail/
+      profiles/
+      segments/
+      climbs/
+      frontend/
   scripts/
-    preprocess_gpx.py  # main pipeline
+    preprocess_gpx.py    # GPX preprocessing pipeline
+  tests/
 ```
 
 ---
 
 ## Installation
 
-This project uses a minimal Python setup.
+This project uses `uv`.
 
-Install dependencies:
+Install dependencies and create the environment:
 
 ```bash
-pip install gpxpy
+uv sync
 ```
 
-or (if using `uv`):
+If you are not using `uv`, install the core dependencies manually:
 
 ```bash
-uv pip install gpxpy
+pip install gpxpy python-fasthtml pytest
 ```
 
 ---
 
-## Usage
+## Development
 
-Place your `.gpx` files in:
-
-```text
-data/raw_gpx/
-```
-
-Then run:
+Run the web app:
 
 ```bash
-python scripts/preprocess_gpx.py
+uv run python app.py
 ```
 
-or:
+Run tests:
 
 ```bash
-uv run python scripts/preprocess_gpx.py
+uv run pytest -s
 ```
 
-Useful v0.3 options:
+Run a quick syntax check for the app modules:
 
 ```bash
-uv run python scripts/preprocess_gpx.py --full-rebuild
-uv run python scripts/preprocess_gpx.py --only masca_loop
-uv run python scripts/preprocess_gpx.py --skip-profiles
-uv run python scripts/preprocess_gpx.py --raw-dir data/raw_gpx --processed-dir data/processed --verbose
-```
-
-Useful v0.4 options:
-
-```bash
-uv run python scripts/preprocess_gpx.py --validate-only
-uv run python scripts/preprocess_gpx.py --only-group trf_1_adeje_west_coast_and_masca_valley
-uv run python scripts/preprocess_gpx.py --no-emit-frontend-artifacts
-uv run python scripts/preprocess_gpx.py --no-emit-segments --no-emit-climbs
-uv run python scripts/preprocess_gpx.py --geometry-mode preview
-uv run python scripts/preprocess_gpx.py --no-build-report
+uv run python -m py_compile app.py ui.py tests/test_app.py
+node --check static/app.js
 ```
 
 Developer shortcuts:
@@ -199,21 +128,86 @@ make test
 make validate
 ```
 
-Repeat runs use the manifest to skip unchanged GPX files while still refreshing the combined outputs.
+---
+
+## Data Flow
+
+The browser currently loads the combined GeoJSON file directly:
+
+```text
+data/processed/routes.geojson
+```
+
+Each GeoJSON feature is expected to include route properties such as:
+
+- `route_id`
+- `name`
+- `distance_km`
+- `elevation_gain_m`
+- `elevation_loss_m`
+- `difficulty`
+- `terrain_type`
+- `bbox`
+- `centroid_lat`
+- `centroid_lon`
+
+The frontend handles missing optional properties defensively.
 
 ---
 
-## Output
+## Preprocessing Pipeline
 
-After running, you will find:
+The preprocessing pipeline converts cycling GPX files into GeoJSON and route metadata for the app.
+
+It produces:
+
+- a single combined GeoJSON file for map rendering
+- a route index JSON for metadata
+- one GeoJSON file per route for future lazy loading
+- optional elevation profile JSON
+- route segment and climb JSON
+- preview/detail geometry exports
+- frontend-ready lookup artefacts
+- JSON and Markdown build reports
+- a build manifest for incremental rebuilds
+
+Run the pipeline:
+
+```bash
+uv run python scripts/preprocess_gpx.py
+```
+
+Useful options:
+
+```bash
+uv run python scripts/preprocess_gpx.py --full-rebuild
+uv run python scripts/preprocess_gpx.py --only trf_1_adeje_west_coast_and_masca_valley
+uv run python scripts/preprocess_gpx.py --skip-profiles
+uv run python scripts/preprocess_gpx.py --validate-only
+uv run python scripts/preprocess_gpx.py --geometry-mode preview
+uv run python scripts/preprocess_gpx.py --no-build-report
+```
+
+Repeat runs use `data/processed/build_manifest.json` to skip unchanged GPX files while still refreshing combined outputs.
+
+---
+
+## Generated Outputs
+
+After preprocessing, the app expects these files to exist:
 
 ```text
 data/processed/routes.geojson
 data/processed/routes_index.json
+data/processed/routes/<route_id>.geojson
+```
+
+The pipeline may also generate:
+
+```text
 data/processed/build_manifest.json
 data/processed/build_report.json
 data/processed/build_report.md
-data/processed/routes/<route_id>.geojson
 data/processed/profiles/<route_id>.json
 data/processed/segments/<route_id>.json
 data/processed/climbs/<route_id>.json
@@ -226,106 +220,57 @@ data/processed/frontend/route_lookup.json
 
 ---
 
-## How it works
+## Preprocessing Features
 
-### 1. Parse GPX
-
-* Extracts points from:
-
-  * tracks → segments → points
-  * falls back to routes if needed
-
-### 2. Clean data
-
-* removes invalid or duplicate points
-* ensures consistent coordinate structure
-
-### 3. Compute metrics
-
-* distance via haversine formula
-* elevation gain/loss from smoothed elevation values with noise thresholding
-* summary statistics (min/max elevation, bbox, centroid, etc.)
-* frontend metadata for difficulty, climbiness, route direction, search, and quality flags
-
-### 4. Build GeoJSON
-
-* converts each route into a simplified display `LineString`
-* attaches computed metrics as properties
-* writes both combined and per-route GeoJSON files
+- Parses GPX tracks and routes
+- Flattens multi-segment tracks into a single route
+- Prefers GPX track/route names when available
+- Smooths elevation before ascent/descent calculations
+- Simplifies display geometry while preserving full-resolution metrics
+- Computes distance, elevation gain/loss, min/max elevation, bounds, and centroid
+- Adds difficulty, terrain type, loop/direction metadata, and search text
+- Flags route quality issues
+- Extracts coarse route segments and notable climbs
+- Groups likely duplicate or variant routes without changing stable route IDs
+- Emits Leaflet-ready GeoJSON
 
 ---
 
-## Design Principles
+## Testing
 
-* **Simple over complex** — no heavy GIS dependencies
-* **Deterministic** — same input produces same output
-* **Transparent** — metrics are easy to inspect and verify
-* **Extensible** — easy to add new metrics or transformations
+The test suite covers:
 
----
+- GPX parsing and route metric helpers
+- route validation and simplification behavior
+- frontend artefact shape
+- full preprocessing output generation
+- FastHTML home page smoke rendering
 
-## Limitations
+Run:
 
-* Elevation data in GPX can still be imperfect after smoothing
-* Geometry simplification uses a lightweight display tolerance, not a full GIS stack
-* Assumes one route per GPX file
+```bash
+uv run pytest -s
+```
 
 ---
 
 ## Roadmap
 
-Possible future improvements:
+Possible next steps:
 
-* optional elevation profile generation
-* richer route categorisation and tags
-* frontend lazy-loading based on selected route cards
-
----
-
-## Example Leaflet Usage
-
-```javascript
-fetch("/data/processed/routes.geojson")
-  .then(r => r.json())
-  .then(data => {
-    L.geoJSON(data, {
-      onEachFeature: (feature, layer) => {
-        const p = feature.properties;
-        layer.bindPopup(`
-          <strong>${p.name}</strong><br>
-          Distance: ${p.distance_km} km<br>
-          Elevation gain: ${p.elevation_gain_m} m
-        `);
-      }
-    }).addTo(map);
-  });
-```
-
----
-
-## Contributing
-
-Contributions are welcome, especially around:
-
-* improving elevation accuracy
-* performance optimisation
-* additional route analytics
-* testing and validation
-
----
-
-## License
-
-MIT License (or specify your preferred license)
+- lazy-load per-route geometry from `data/processed/routes/<route_id>.geojson`
+- add elevation profile charts
+- add climb visualisation
+- add route filtering and search
+- improve mobile layout
+- add deployment configuration
 
 ---
 
 ## Summary
 
-This tool provides a clean bridge between:
+This repository provides a small end-to-end foundation for a Tenerife cycling route browser:
 
-**GPX (raw cycling data)** → **GeoJSON (map-ready format)**
-
-with useful metrics included, making it a solid foundation for building cycling route applications.
-
+```text
+raw GPX files -> processed GeoJSON and metrics -> FastHTML + Leaflet web app
 ```
