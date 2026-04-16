@@ -6,6 +6,8 @@ const routeVisibility = new Map();
 const routeColors = new Map();
 let selectedRouteId = null;
 let routesGeoJson = null;
+let routeKeyCollapsed = window.matchMedia("(max-width: 760px)").matches;
+let routeKeyMessage = "";
 
 const ROUTE_PALETTE = [
   "#d9271e",
@@ -137,7 +139,9 @@ function visibleRouteEntries() {
 
 function renderRouteKey(message) {
   if (!mapStatusEl) return;
+  if (message !== undefined) routeKeyMessage = message;
   const entries = visibleRouteEntries();
+  const toggleLabel = routeKeyCollapsed ? "Show key" : "Hide key";
   const key = entries.length
     ? entries.map(({ feature, index, routeId }) => `
         <div class="route-key-row">
@@ -149,10 +153,18 @@ function renderRouteKey(message) {
       `).join("")
     : '<span>No routes visible</span>';
 
+  mapStatusEl.classList.toggle("is-key-collapsed", routeKeyCollapsed);
   mapStatusEl.innerHTML = `
-    <strong>Tenerife</strong>
-    <span>${escapeHtml(message || `${entries.length} routes visible`)}</span>
-    <div class="route-key">${key}</div>
+    <div class="map-status-header">
+      <div class="map-status-title">
+        <strong>Tenerife</strong>
+        <span>${escapeHtml(routeKeyMessage || `${entries.length} routes visible`)}</span>
+      </div>
+      <button class="route-key-toggle" type="button" aria-expanded="${String(!routeKeyCollapsed)}" aria-controls="route-key">
+        ${toggleLabel}
+      </button>
+    </div>
+    <div class="route-key" id="route-key">${key}</div>
   `;
 }
 
@@ -464,6 +476,16 @@ async function loadRoutes() {
 
 loadRoutes();
 setupRouteResizer();
+
+if (mapStatusEl) {
+  mapStatusEl.addEventListener("click", (event) => {
+    const toggle = event.target.closest(".route-key-toggle");
+    if (!toggle) return;
+
+    routeKeyCollapsed = !routeKeyCollapsed;
+    renderRouteKey();
+  });
+}
 
 if (toggleAllRoutesEl) {
   toggleAllRoutesEl.addEventListener("click", () => {
